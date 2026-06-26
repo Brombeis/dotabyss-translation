@@ -1,5 +1,5 @@
 {
-    "ability_descriptions": "c909eb66cb83273ca3d51cd05ab449a7",
+    "ability_descriptions": "b40aae5deb77ec4ca013b5df213d4b28",
     "add_on": {
         "abyss_code": "1dd76dde4cc6ab3acac589c9c557b9d3",
         "bar": "7de6e75d5dec2751f22a723b6de96f29",
@@ -13,11 +13,11 @@
         "mission": "daf07cb61c5a551b3122a3a4459af6e5",
         "system": "0db7feb0fce52e1bad7f1a4f5c118287",
         "ui": "27134aebdd7b68fa7b339e8aeba45da0",
-        "ui_misc": "3ac609b089c84b6bcd9fce1960ad2dca"
+        "ui_misc": "ff9c1595f14d343c406620a4bda70e29"
     },
-    "another_name": "34666fa3298016de551c3f620574ab7c",
-    "descriptions": "c339461a98639d72056fb57714685cef",
-    "hash": "ade2b767204dae23c19a9b6440de8554",
+    "another_name": "53e1f4eb06590b3518ed3abdce80ed65",
+    "descriptions": "add2864d88f340597ae9c0f7e314118d",
+    "hash": "83c8846333f7670ff992de9d3ca7c7c2",
     "m_ability_details": "7b773c7b37aaab9dca96555c6cec59e3",
     "m_buff_types": "d77dcc1e6977f840c1316243956e5cc7",
     "m_chapter_quests": "aea5ec3c46bfd0deecf42240e5d3870d",
@@ -894,6 +894,5 @@
         "system": "c30ba8c817cb71a304967ea89409fb66",
         "ui_misc": "1c67a492e421b85841c611dcf003a0af"
     },
-    "titles": "1d069ce4ad5b645606bc196582e904b2",
-    "ui_texts": "3b52726be948adf82e1b8bd33e47f107"
+    "ui_texts": "e5d508cb33215f62ff09214bb5bdd05e"
 }

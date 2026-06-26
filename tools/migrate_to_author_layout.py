@@ -271,6 +271,13 @@ def main() -> None:
         print("\n(dry-run：未寫入 JSON)")
     else:
         print("\n完成。請執行: python tools/rebuild_manifest.py")
+        try:
+            from export_legacy_keys_to_remove import export_legacy_keys_to_remove
+
+            legacy_report = export_legacy_keys_to_remove(root, reports)
+            print(f"legacy 重複 key 清單: {legacy_report}")
+        except Exception as e:
+            print(f"[warn] 無法產出 legacy_keys_to_remove.json: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
