@@ -31,100 +31,104 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-# ──────────────────────────────────────────────────────────────────────────────
-# 欄位映射：(m_*.json 檔名通配, 欄位名) → 目標翻譯 category
-#
-# category 與 translations/ 目錄對應：
-#   names                 → translations/names/zh_Hant.json
-#   ability_descriptions  → translations/ability_descriptions/zh_Hant.json
-#   titles                → translations/titles/zh_Hant.json
-#   descriptions          → translations/descriptions/zh_Hant.json
-#   another_name          → translations/another_name/zh_Hant.json
-#   items                 → translations/add-on/items/zh_Hant.json
-#   materials             → translations/add-on/materials/zh_Hant.json
-#   ui_misc               → translations/add-on/ui_misc/zh_Hant.json
-#   equipment_effect      → translations/add-on/equipment_effect/zh_Hant.json
-#   dialogue              → translations/add-on/dialogue/zh_Hant.json
-#   mission               → translations/add-on/mission/zh_Hant.json
-#   facility              → translations/add-on/facility/zh_Hant.json
-#   dictionary            → translations/add-on/dictionary/zh_Hant.json  (新)
+# category 與 translations/ 目錄對應（作者 m_* 扁平結構）：
+#   m_tavern_character_cards  → translations/m_tavern_character_cards/zh_Hant.json
+#   m_ability_details         → translations/m_ability_details/zh_Hant.json
+#   ui_texts                  → translations/ui_texts/zh_Hant.json
+#   legacy/add-on/ui_misc     → 兜底（manifest.add_on.ui_misc）
 # ──────────────────────────────────────────────────────────────────────────────
 
 FIELD_MAP: list[tuple[str, str, str]] = [
-    # (檔名前綴通配,  欄位名,               翻譯 category)
     ("m_characters",            "name",          "names"),
-    ("m_character_profiles",    "another_name",  "another_name"),  # 角色稱號（二つ名）
-    ("m_character_profiles",    "catchphrase",   "catchphrase"),   # 角色標語/台詞（佔位字串會被過濾）
-    ("m_character_profiles",    "flavor_text",   "descriptions"),
-    ("m_character_skins",       "name",          "ui_misc"),
-    ("m_character_skins",       "serif",         "dialogue"),
-    ("m_character_skins",       "description",   "descriptions"),
-    ("m_ability_details",       "description",   "ability_descriptions"),
-    ("m_character_action_skills","description",  "ability_descriptions"),
-    ("m_items",                 "name",          "materials"),
-    ("m_items",                 "flavor_text",   "items"),
-    ("m_limited_items",         "name",          "materials"),
-    ("m_limited_items",         "flavor_text",   "items"),
+    ("m_character_profiles",    "another_name",  "m_character_profiles"),
+    ("m_character_profiles",    "catchphrase",   "m_character_profiles"),
+    ("m_character_profiles",    "flavor_text",   "m_character_profiles"),
+    ("m_character_profiles",    "profile_like",  "m_character_profiles"),
+    ("m_character_profiles",    "profile_dislike", "m_character_profiles"),
+    ("m_character_skins",       "name",          "m_character_skins"),
+    ("m_character_skins",       "serif",         "m_character_skins"),
+    ("m_character_skins",       "description",   "m_character_skins"),
+    ("m_ability_details",       "description",   "m_ability_details"),
+    ("m_ability_details",       "awake_description", "m_ability_details"),
+    ("m_character_action_skills","description",  "m_character_action_skills"),
+    ("m_tavern_character_cards","name",          "m_tavern_character_cards"),
+    ("m_tavern_character_cards","description",   "m_tavern_character_cards"),
+    ("m_chapter_quests",        "name",          "m_chapter_quests"),
+    ("m_missions",              "title",         "m_missions"),
+    ("m_nether_codes",          "name",          "m_nether_codes"),
+    ("m_nether_codes",          "description",   "m_nether_codes"),
+    ("m_nether_code_category_skills", "name",        "m_nether_code_category_skills"),
+    ("m_nether_code_category_skills", "description", "m_nether_code_category_skills"),
+    ("m_nether_floor_events",   "description",   "m_nether_floor_events"),
+    ("m_nether_floor_event_parts", "select_text", "m_nether_floor_event_parts"),
+    ("m_nether_floor_event_parts", "effect_text", "m_nether_floor_event_parts"),
+    ("m_novel_mains",           "title",         "m_novel_mains"),
+    ("m_novel_mains",           "description",   "m_novel_mains"),
+    ("m_novel_others",          "title",         "m_novel_others"),
+    ("m_novel_others",          "description",   "m_novel_others"),
+    ("m_dictionary_non_player_characters", "title", "m_dictionary_non_player_characters"),
+    ("m_dictionary_non_player_characters", "desciption", "m_dictionary_non_player_characters"),
+    ("m_dictionary_worlds",     "title",         "m_dictionary_worlds"),
+    ("m_dictionary_worlds",     "desciption",    "m_dictionary_worlds"),
+    ("m_buff_types",            "description",   "m_buff_types"),
+    ("m_enemy_skills",          "description",   "m_enemy_skills"),
+    ("m_items",                 "name",          "ui_misc"),
+    ("m_items",                 "flavor_text",   "ui_misc"),
     ("m_weapons",               "name",          "ui_misc"),
-    ("m_weapons",               "flavor_text",   "items"),
-    ("m_armors",                "name",          "ui_misc"),
-    ("m_armors",                "flavor_text",   "items"),
-    ("m_accessories",           "name",          "ui_misc"),
-    ("m_accessories",           "flavor_text",   "items"),
-    ("m_enemies",               "name",          "ui_misc"),
-    ("m_enemies",               "flavor_text",   "descriptions"),
-    ("m_buildings",             "name",          "facility"),
-    ("m_building_skill_params", "description",   "facility"),
-    ("m_building_skill_effect_descriptions", "description", "facility"),
-    ("m_chapter_quests",        "name",          "mission"),
-    ("m_novel_mains",           "title",         "titles"),
-    ("m_novel_mains",           "description",   "descriptions"),
-    ("m_novel_others",          "title",         "titles"),
-    ("m_novel_others",          "description",   "descriptions"),
-    ("m_dictionary_characters", "title",         "dictionary"),
-    ("m_dictionary_characters", "desciption",    "dictionary"),   # 原表拼字
-    ("m_dictionary_worlds",     "title",         "dictionary"),
-    ("m_dictionary_worlds",     "desciption",    "dictionary"),   # 原表拼字
-    ("m_dictionary_enemies",    "title",         "dictionary"),
-    ("m_dictionary_enemy_groups","title",        "dictionary"),
-    ("m_dictionary_non_player_characters","title","dictionary"),
-    ("m_nether_codes",          "name",          "abyss_code"),
-    ("m_nether_codes",          "description",   "abyss_code"),
-    ("m_nether_code_category_skills", "name",        "abyss_code"),
-    ("m_nether_code_category_skills", "description", "abyss_code"),
+    ("m_weapons",               "flavor_text",   "ui_misc"),
+    ("m_buildings",             "name",          "ui_misc"),
     ("m_event_currencies",      "name",          "ui_misc"),
-    ("m_event_currencies",      "flavor_text",   "descriptions"),
-    ("m_buff_types",            "name",          "ui_misc"),
-    ("m_abnormal_condition_types","name",        "ui_misc"),
-    ("m_abnormal_condition_types","description", "ui_misc"),
-    ("m_attribute_tags",        "name",          "ui_misc"),
-    ("m_login_announcements",   "title",         "ui_misc"),
-    ("m_content_type_details",  "flavor_text",   "descriptions"),
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 翻譯目錄路徑：category → 相對於 translations/ 的 json 路徑列表
-#
-# CDN 正式路徑在 other/{category}/，add-on/{category}/ 為遊戲本地收集版。
-# 兩個路徑的 key 聯集都算「已翻譯」，以 other/ 為優先正式來源。
+# m_* 為主；legacy/add-on 為過渡兜底。
 # ──────────────────────────────────────────────────────────────────────────────
 CATEGORY_PATH: dict[str, list[str]] = {
-    "names":                ["names/zh_Hant.json"],
-    "ability_descriptions": ["ability_descriptions/zh_Hant.json"],
-    "titles":               ["titles/zh_Hant.json"],
-    "descriptions":         ["descriptions/zh_Hant.json"],
-    "another_name":         ["another_name/zh_Hant.json"],
-    "catchphrase":          ["add-on/catchphrase/zh_Hant.json"],
-    # 以下 category 的 CDN 正式路徑是 other/，add-on/ 為本地收集版，兩者合併計算
-    "items":                ["add-on/items/zh_Hant.json"],
-    "materials":            ["other/materials/zh_Hant.json",  "add-on/materials/zh_Hant.json"],
-    "ui_misc":              ["other/ui_misc/zh_Hant.json",    "add-on/ui_misc/zh_Hant.json"],
-    "equipment_effect":     ["other/equipment_effect/zh_Hant.json", "add-on/equipment_effect/zh_Hant.json"],
-    "dialogue":             ["other/dialogue/zh_Hant.json",   "add-on/dialogue/zh_Hant.json"],
-    "mission":              ["other/mission/zh_Hant.json",    "add-on/mission/zh_Hant.json"],
-    "facility":             ["other/facility/zh_Hant.json",   "add-on/facility/zh_Hant.json"],
-    "dictionary":           ["add-on/dictionary/zh_Hant.json"],
-    "abyss_code":           ["other/abyss_code/zh_Hant.json", "add-on/abyss_code/zh_Hant.json"],
+    "names": ["names/zh_Hant.json"],
+    "ui_texts": ["ui_texts/zh_Hant.json", "add-on/ui/zh_Hant.json"],
+    "m_tavern_character_cards": [
+        "m_tavern_character_cards/zh_Hant.json",
+        "add-on/bar/zh_Hant.json",
+    ],
+    "m_ability_details": [
+        "m_ability_details/zh_Hant.json",
+        "ability_descriptions/zh_Hant.json",
+    ],
+    "m_character_action_skills": [
+        "m_character_action_skills/zh_Hant.json",
+        "ability_descriptions/zh_Hant.json",
+    ],
+    "m_character_profiles": [
+        "m_character_profiles/zh_Hant.json",
+        "descriptions/zh_Hant.json",
+        "another_name/zh_Hant.json",
+        "add-on/catchphrase/zh_Hant.json",
+    ],
+    "m_character_skins": ["m_character_skins/zh_Hant.json"],
+    "m_chapter_quests": ["m_chapter_quests/zh_Hant.json", "add-on/mission/zh_Hant.json"],
+    "m_missions": ["m_missions/zh_Hant.json", "add-on/mission/zh_Hant.json"],
+    "m_nether_codes": [
+        "m_nether_codes/zh_Hant.json",
+        "add-on/abyss_code/zh_Hant.json",
+    ],
+    "m_nether_code_category_skills": [
+        "m_nether_code_category_skills/zh_Hant.json",
+        "add-on/abyss_code/zh_Hant.json",
+    ],
+    "m_nether_floor_events": ["m_nether_floor_events/zh_Hant.json"],
+    "m_nether_floor_event_parts": ["m_nether_floor_event_parts/zh_Hant.json"],
+    "m_novel_mains": ["m_novel_mains/zh_Hant.json", "titles/zh_Hant.json"],
+    "m_novel_others": ["m_novel_others/zh_Hant.json", "titles/zh_Hant.json"],
+    "m_dictionary_non_player_characters": ["m_dictionary_non_player_characters/zh_Hant.json"],
+    "m_dictionary_worlds": ["m_dictionary_worlds/zh_Hant.json"],
+    "m_buff_types": ["m_buff_types/zh_Hant.json"],
+    "m_enemy_skills": ["m_enemy_skills/zh_Hant.json"],
+    "ui_misc": [
+        "legacy/add-on/ui_misc/zh_Hant.json",
+        "add-on/ui_misc/zh_Hant.json",
+        "other/ui_misc/zh_Hant.json",
+    ],
 }
 
 MASTERDATA_BASE_URL = "https://raw.githubusercontent.com/DotAbyss/Masterdata/main/data"

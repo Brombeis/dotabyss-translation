@@ -2,21 +2,26 @@
 
 | Category | Masterdata 總數 | 已翻譯 | 缺口 | 覆蓋率 |
 |----------|----------------|--------|------|--------|
-| ability_descriptions | 1456 | 1456 | 0 | 100.0% |
-| abyss_code | 228 | 228 | 0 | 100.0% |
-| another_name | 54 | 54 | 0 | 100.0% |
-| catchphrase | 23 | 23 | 0 | 100.0% |
-| descriptions | 347 | 347 | 0 | 100.0% |
-| dialogue | 63 | 63 | 0 | 100.0% |
-| dictionary | 202 | 202 | 0 | 100.0% |
-| facility | 93 | 93 | 0 | 100.0% |
-| items | 259 | 259 | 0 | 100.0% |
-| materials | 215 | 215 | 0 | 100.0% |
-| mission | 91 | 91 | 0 | 100.0% |
+| m_ability_details | 1421 | 1421 | 0 | 100.0% |
+| m_buff_types | 113 | 113 | 0 | 100.0% |
+| m_chapter_quests | 91 | 91 | 0 | 100.0% |
+| m_character_action_skills | 98 | 98 | 0 | 100.0% |
+| m_character_profiles | 238 | 238 | 0 | 100.0% |
+| m_character_skins | 246 | 246 | 0 | 100.0% |
+| m_dictionary_non_player_characters | 25 | 25 | 0 | 100.0% |
+| m_dictionary_worlds | 52 | 52 | 0 | 100.0% |
+| m_enemy_skills | 115 | 115 | 0 | 100.0% |
+| m_missions | 599 | 599 | 0 | 100.0% |
+| m_nether_code_category_skills | 24 | 24 | 0 | 100.0% |
+| m_nether_codes | 208 | 208 | 0 | 100.0% |
+| m_nether_floor_event_parts | 762 | 762 | 0 | 100.0% |
+| m_nether_floor_events | 152 | 152 | 0 | 100.0% |
+| m_novel_mains | 153 | 153 | 0 | 100.0% |
+| m_novel_others | 4 | 4 | 0 | 100.0% |
+| m_tavern_character_cards | 94 | 94 | 0 | 100.0% |
 | names | 54 | 54 | 0 | 100.0% |
-| titles | 95 | 95 | 0 | 100.0% |
-| ui_misc | 507 | 507 | 0 | 100.0% |
+| ui_misc | 497 | 166 | 331 | 33.4% |
 |----------|----------------|--------|------|--------|
-| **合計** | **3687** | **3687** | **0** | **100.0%** |
+| **合計** | **4946** | **4615** | **331** | **93.3%** |
 
 > 以 `gap_{category}.json` 查看缺口清單，`draft_{category}.json` 可作為人工翻譯的起點。
