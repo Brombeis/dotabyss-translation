@@ -3713,7 +3713,7 @@
     "あと{0}時間{1}分{2}秒": "{0}H {1}M {2}S left",
     "{0}年{1}月{2}日{3}:{4}に解放": "Unlocks at {0}/{1}/{2} {3}:{4}",
     "{0}日{1}時間{2}分": "{0}D 2H {2}M",
-    "エラーが発生しました。\nError Code: {0}": "An error has occurred. Test\nError Code: {0}",
+    "エラーが発生しました。\nError Code: {0}": "An error has occurred. \nError Code: {0}",
     "エラーが発生しました。エラーコード: {0}": "An error has occurred.\nError code: {0}",
     "娼館の経営戦略{0}": "Brothel management strategy {0}",
     "娼館のミニゲームでスコア{0}を達成する": "Achieve {0} score in brothel minigame",
