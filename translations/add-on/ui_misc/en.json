@@ -1901,7 +1901,7 @@
     "帰還する": "Return",
     "続行する": "Continue",
     "アビスコードを所持していません。": "No available abyss code.",
-    "戦闘": "Combat",
+    "戦闘": "<cspace=-0.05em>Combat",
     "強敵": "<size=50%><cspace=-0.1em>Strong Enemy",
     "イベント": "Event",
     "フロア内で取る行動を選択": "Select the action to take on the floor",
@@ -3742,5 +3742,16 @@
     "純潔の精霊術師": "Pure Spirit Caller",
     "フィオナ Lv{[n1]}": "Fiona Lv{[n1]}",
     "フィオナ模擬戦 Lv{[n1]}をクリアで開放": "Clear Fiona Mock Battle Lv{[n1]}",
-    "フィオナ模擬戦 Lv{[n1]}": "Mock Battle Lv{[n1]}"
+    "フィオナ模擬戦 Lv{[n1]}": "Mock Battle Lv{[n1]}",
+    "探索フロア\\nボーナス": "Expl. Floor\\nBonus",
+    "探索フロアボーナス": "Explored Floor Bonus",
+    "プレミアムガチャでSSRキャラクター獲得時、登録したキャラクターの提供割合が上昇します。\\r\\r\\n(SSRキャラクターの合計提供割合に変化はありません)": "When you obtain an SSR chara, the drop rate for that registered chara will increase\\r\\r\\n(The overall drop rate for SSR characters remains unchanged)",
+    "おまかせ編成": "Auto Setting",
+    "イベント効果がありません。": "No event effects.",
+    "戦術結晶チップ": "Tactical Crystal Chip",
+    "第{[n1]}ステージ": "Stage {[n1]}",
+    "ルクスノヴァSTAGE{[n1]}": "<size=90%>Luxnova STAGE{[n1]}",
+    "対戦チーム": "Enemy Team",
+    "ゲートキー<color=#4cf37b></color>を使用して探索を続行しますか？": "Continue search using Gate Key?",
+    "ドロップ詳細": "Drop detail"
 }
