@@ -8,6 +8,8 @@ Thumbs.db
 *.rar
 *.zip
 
+bundles_cache/
+
 # Local editor / agent settings
 .claude/
 **/.claude/
