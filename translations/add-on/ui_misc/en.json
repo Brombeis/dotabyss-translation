@@ -3728,5 +3728,19 @@
     "おしごと報酬UP{0}": "Work reward UP{0}",
     "営業デッキLv{0}": "Sales deck Lv{0}",
     "分解した際のマイレージ+{0}％": "Mileage when dismantling +{0}％",
-    "{[title]}を読みますか？": "Do you want to read \"{[title]}\"?"
+    "{[title]}を読みますか？": "Do you want to read \"{[title]}\"?",
+    "星詠みの占星術師": "Starreading Astrologer",
+    "ボスステージ": "Boss Stage",
+    "フィオナ Lv{[n1]}をクリアする": "Clear Fiona Lv{[n1]}",
+    "鏡影の回廊": "<line-height=60%><cspace=-0.05em><size=90%>Corridor of\\nReflection",
+    "戦術結晶チップ獲得量30%UP!": "Tactical Crystal Chip 30% UP!",
+    "演算キーカード獲得量30%UP!": "Operation Key Card 30% UP!",
+    "イベントミッション": "Event Mission",
+    "鏡影の回廊のステージを1回クリアする": "Clear Corridor of Reflection stage once",
+    "鏡影の回廊のステージを3回クリアする": "Clear Corridor of Reflection stage 3 times",
+    "ミッション\\nパス": "Mission\\nPass",
+    "純潔の精霊術師": "Pure Spirit Caller",
+    "フィオナ Lv{[n1]}": "Fiona Lv{[n1]}",
+    "フィオナ模擬戦 Lv{[n1]}をクリアで開放": "Clear Fiona Mock Battle Lv{[n1]}",
+    "フィオナ模擬戦 Lv{[n1]}": "Mock Battle Lv{[n1]}"
 }
