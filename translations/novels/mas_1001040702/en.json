@@ -1,1 +1,27 @@
-{"タイトル": "Title", "えええ～～～！？<br>今の攻撃、ヒマリがやったのぉ～～～！？": "Ehhh〜〜〜!? That last attack—Himari did that〜〜〜!?<br> ", "すごい！　すごいですぅ～ヒマリちゃん♡": "Amazing! That's amazing〜♡ Himari!<br> ", "ヒマリつっよーい！<br>バビューーン！　っていっぱい倒しちゃったぁ～！": "Himari is soooo strong! She went PZAAAM and defeated a whole<br>bunch〜!<br> ", "これが……覚醒した、ルクスノヴァとしての力……！？<br>あ、圧倒的すぎるじゃないの……": "So this is... an awakened Lux Nova power...!?<br>Absolutely overwhelming...<br> ", "ハァ、ハァ……ご、ごめんなさい……。<br>まだ、力が安定しなくって……": "Hah, hah... I-I'm sorry... my power is still unstable...<br> ", "何言ってるんだ。ヒマリのおかげで戦況は一変した。<br>ありがとな。": "What are you saying. The whole situation<br>changed thanks to Himari. Thank you.<br> ", "しれーかん……": "Commander...<br> ", "はっ！？　それより、シエナの治療を……<br>いっぱい血を流しちゃってて……": "Ah!? More importantly, Shiena's treatment... she lost so much blood...<br> ", "はいは～～い！　治療ならまかせといてくださぁ～～い♪": "Yes yes〜! If it's treatment, leave it to meeee〜〜〜♪<br> ", "はぁ、はぁ……よくやったわねヒマリ。<br>あなたならできると思ってたわ。": "Hah, hah... well done, Himari. I knew you could do it.<br> ", "シエナ……": "Shiena...<br> ", "おっと、油断をするのはまだ早いようだ。": "Careful—it's too early to let our guard down.<br> ", "あっち見て！<br>またいっぱいモンスターが来ちゃった！": "Look over there! A huge wave of monsters is coming again!<br> ", "あ～もぉ～！　しっつこいなぁ～～～！": "Ugh〜! They're so persistent〜〜〜!<br> ", "こいつら、今まで戦ったモンスターたちとは目つきが違うのよね……": "These ones have a different look<br>from the monsters we've fought before...<br> ", "飢餓の厄災の影響で、こいつらは随分と腹を空かせてるんだろう。<br>凶暴さは段違いだ。油断するなよ。": "They're ravenously hungry from the Calamity.<br>Their ferocity is on another level. Stay sharp!<br> ", "こんなやつらに食べられてたまるかっての！": "I refuse to be eaten by the likes of these!<br> ", "クルルも今、お腹ペコペコでイライラしてるんだから～！": "Kururu is starving right now and getting irritable〜!<br> ", "用意した爆薬がもったいないので、<br>ここで全部使っちゃってくださ～い！": "We still have plenty of explosives, so please use them all up here〜!<br> ", "でも、どうするの？<br>これじゃいつまで経ってもキリがない……": "But what do we do? At this rate, there's no end in sight...<br> ", "一点集中攻撃で突破口を開く作戦は変わらない。<br>あくまで全員の退却が最優先だ。": "The plan to break through one point holds.<br>Getting everyone out safe is the top priority!<br> ", "そうね。ヒマリが覚醒したおかげで、勝機が見えてきました。<br>ヒマリの銃弾で逃げ道を作って一気に突破しましょう！": "Thanks to Himari's awakening, we have a chance.<br>Her bullets will clear our escape route!<br> ", "ああ。やはりあの時、ヒマリを引き返させなくて良かったな。": "Yes. I'm glad I didn't send Himari back after all.<br> ", "（よかった……ようやくわたし……<br>みんなの役に立つことが出来るんだ……）": "(Thank goodness... I can finally be useful to everyone...)<br> "}
+{
+    "タイトル": "Title",
+    "えええ～～～！？<br>今の攻撃、ヒマリがやったのぉ～～～！？": "Ehhh〜〜〜!? That last attack—Himari did that〜〜〜!?<br> ",
+    "すごい！　すごいですぅ～ヒマリちゃん♡": "Amazing! That's amazing〜♡ Himari!<br> ",
+    "ヒマリつっよーい！<br>バビューーン！　っていっぱい倒しちゃったぁ～！": "Himari is soooo strong! She went PZAAAM and defeated a whole<br>bunch〜!<br> ",
+    "これが……覚醒した、ルクスノヴァとしての力……！？<br>あ、圧倒的すぎるじゃないの……": "So this is... an awakened Lux Nova power...!?<br>Absolutely overwhelming...<br> ",
+    "ハァ、ハァ……ご、ごめんなさい……。<br>まだ、力が安定しなくって……": "Hah, hah... I-I'm sorry... my power is still unstable...<br> ",
+    "何言ってるんだ。ヒマリのおかげで戦況は一変した。<br>ありがとな。": "What are you saying. The whole situation<br>changed thanks to Himari. Thank you.<br> ",
+    "しれーかん……": "Commander...<br> ",
+    "はっ！？　それより、シエナの治療を……<br>いっぱい血を流しちゃってて……": "Ah!? More importantly, Shiena's treatment... she lost so much blood...<br> ",
+    "はいは～～い！　治療ならまかせといてくださぁ～～い♪": "Yes yes〜! If it's treatment, leave it to meeee〜〜〜♪<br> ",
+    "はぁ、はぁ……よくやったわねヒマリ。<br>あなたならできると思ってたわ。": "Hah, hah... well done, Himari. I knew you could do it.<br> ",
+    "シエナ……": "Shiena...<br> ",
+    "おっと、油断をするのはまだ早いようだ。": "Careful—it's too early to let our guard down.<br> ",
+    "あっち見て！<br>またいっぱいモンスターが来ちゃった！": "Look over there! A huge wave of monsters is coming again!<br> ",
+    "あ～もぉ～！　しっつこいなぁ～～～！": "Ugh〜! They're so persistent〜〜〜!<br> ",
+    "こいつら、今まで戦ったモンスターたちとは目つきが違うのよね……": "These ones have a different look<br>from the monsters we've fought before...<br> ",
+    "飢餓の厄災の影響で、こいつらは随分と腹を空かせてるんだろう。<br>凶暴さは段違いだ。油断するなよ。": "They're ravenously hungry from the Calamity.<br>Their ferocity is on another level. Stay sharp!<br> ",
+    "こんなやつらに食べられてたまるかっての！": "I refuse to be eaten by the likes of these!<br> ",
+    "クルルも今、お腹ペコペコでイライラしてるんだから～！": "Kururu is starving right now and getting irritable〜!<br> ",
+    "用意した爆薬がもったいないので、<br>ここで全部使っちゃってくださ～い！": "We still have plenty of explosives, so please use them all up here〜!<br> ",
+    "でも、どうするの？<br>これじゃいつまで経ってもキリがない……": "But what do we do? At this rate, there's no end in sight...<br> ",
+    "一点集中攻撃で突破口を開く作戦は変わらない。<br>あくまで全員の退却が最優先だ。": "The plan to break through one point holds.<br>Getting everyone out safe is the top priority!<br> ",
+    "そうね。ヒマリが覚醒したおかげで、勝機が見えてきました。<br>ヒマリの銃弾で逃げ道を作って一気に突破しましょう！": "Thanks to Himari's awakening, we have a chance.<br>Her bullets will clear our escape route!<br> ",
+    "ああ。やはりあの時、ヒマリを引き返させなくて良かったな。": "Yes. I'm glad I didn't send Himari back after all.<br> ",
+    "（よかった……ようやくわたし……<br>みんなの役に立つことが出来るんだ……）": "(Thank goodness... I can finally be useful to everyone...)<br> "
+}

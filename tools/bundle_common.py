@@ -131,11 +131,11 @@ def load_json(path, default):
 
 
 def save_weblate_pair(scene_dir, ja, en):
-    """Write ja.json and en.json to scene_dir (compact, no indent)."""
+    """Write ja.json and en.json matching Weblate's output format (indent=4, no trailing newline)."""
     os.makedirs(scene_dir, exist_ok=True)
     for name, d in (("ja", ja), ("en", en)):
         with open(os.path.join(scene_dir, f"{name}.json"), "w", encoding="utf-8") as fh:
-            json.dump(d, fh, ensure_ascii=False)
+            fh.write(json.dumps(d, ensure_ascii=False, indent=4))
 
 
 def _script_to_str(m_script):

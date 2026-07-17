@@ -1,1 +1,27 @@
-{"タイトル": "Title", "<size=48>――大穴　光の階層</size>": "<size=48>——The Abyss: Stratum of Light</size>", "クルルの嗅覚を頼りに、盗賊団の痕跡を追う一行。": "The party followed the bandits' trail,<br>guided by Kururu's keen sense of smell.<br> ", "そして辿り着いたのは巨大な催眠石と思われる鉱脈と、<br>その前で不敵に笑う盗賊たちの姿であった。": "What they found was a massive vein of what<br>appeared to be Hypnosis Stone— and grinning bandits.<br> ", "わ～～、あれ？　『催眠石』かなぁ？": "Wow~~ is that a Hypnosis Stone~?<br> ", "しーーっ！　大きい声、ダメだよ……": "Shhhh! Not so loud...<br> ", "す、すごいですねぇ～……。<br>火山の階層の鉱脈より何倍も大きいような……": "Th-that's incredible~...<br>It looks way bigger than the volcano vein...<br> ", "やばいぞ、教授……この付近の魔力係数、さっきの倍以上だ！": "This is bad, Professor... the magic reading<br>here is more than double!<br> ", "そ、そうなの……？<br>どうりでさっきより頭痛が……": "R-really...?<br>No wonder my headache is worse...<br> ", "あいつら、あれを採掘するつもりかしら？": "Are they planning to mine that?<br> ", "するってぇと～、<br>ここから大量に催眠石を運び出してたのかなぁ～？": "So that means~<br>they've been hauling Hypnosis Stones from here~?<br> ", "どうだろうな？<br>今までまったく手の付けられていない鉱脈のようにも見えるが……": "Hard to say.<br>This vein looks completely untouched to me...<br> ", "しかし、盗賊たちがつるはしを取り出し、鉱脈に向けて叩きつけた途端、<br>次から次へと盗賊が倒れて行ってしまう。": "But the moment the bandits pulled out picks<br>and struck the vein, they collapsed one by one.<br> ", "あれれ～～！？<br>みんな倒れちゃった！": "Huh~~!?<br>They all collapsed!<br> ", "な、なになに！？<br>つるはしを叩きつけた途端に……": "W-what just happened!?<br>The instant they struck with their picks...<br> ", "助手くん、さっき魔力係数が高いって言ってたよねっ！？<br>あそこのでっかい石からじゃないの？": "assistant-kun, you said the magic reading was high!<br>Isn't it from that big stone?<br> ", "よしっ！　オレ様が解析してみようじゃないか！": "Right! Let the great Goleinu analyze it!<br> ", "どう考えてもあの鉱脈からよ。<br>ハンパない魔力が漂ってるもの……": "It's obviously from that vein.<br>The magic radiating off it is insane...<br> ", "それだけ、強力な催眠石ってことでしょうかぁ～？": "So it's an incredibly powerful Hypnosis<br>Stone~?<br> ", "あっち……！　あっちから、モンスターが……": "Over there...! Monsters are coming...!<br> ", "わわわっ！　すっごい数だよ！<br>倒れた人たち、モンスターに食べられちゃうんじゃ……": "Whoa! There are so many!<br>The people who collapsed will get eaten...!<br> ", "このままじゃ、盗賊さんたち、食べられちゃう……！": "At this rate, the bandits will be eaten...!<br> ", "奴らには、聞きたいことが沢山あるんだ。<br>モンスターの襲撃からあいつらを守るぞ。": "We still have plenty to ask them.<br>Protect them from the monsters.<br> ", "そんな義理なんてないけど、しょうがないわね～……": "We don't owe them anything, but fine~...<br> ", "よっしゃ任せろ！<br>今こそスーパーゴレイヌ様の力を見せてやるぜぇっ！": "Leave it to me!<br>Time to show off Super Goleinu's power!<br> "}
+{
+    "タイトル": "Title",
+    "<size=48>――大穴　光の階層</size>": "<size=48>——The Abyss: Stratum of Light</size>",
+    "クルルの嗅覚を頼りに、盗賊団の痕跡を追う一行。": "The party followed the bandits' trail,<br>guided by Kururu's keen sense of smell.<br> ",
+    "そして辿り着いたのは巨大な催眠石と思われる鉱脈と、<br>その前で不敵に笑う盗賊たちの姿であった。": "What they found was a massive vein of what<br>appeared to be Hypnosis Stone— and grinning bandits.<br> ",
+    "わ～～、あれ？　『催眠石』かなぁ？": "Wow~~ is that a Hypnosis Stone~?<br> ",
+    "しーーっ！　大きい声、ダメだよ……": "Shhhh! Not so loud...<br> ",
+    "す、すごいですねぇ～……。<br>火山の階層の鉱脈より何倍も大きいような……": "Th-that's incredible~...<br>It looks way bigger than the volcano vein...<br> ",
+    "やばいぞ、教授……この付近の魔力係数、さっきの倍以上だ！": "This is bad, Professor... the magic reading<br>here is more than double!<br> ",
+    "そ、そうなの……？<br>どうりでさっきより頭痛が……": "R-really...?<br>No wonder my headache is worse...<br> ",
+    "あいつら、あれを採掘するつもりかしら？": "Are they planning to mine that?<br> ",
+    "するってぇと～、<br>ここから大量に催眠石を運び出してたのかなぁ～？": "So that means~<br>they've been hauling Hypnosis Stones from here~?<br> ",
+    "どうだろうな？<br>今までまったく手の付けられていない鉱脈のようにも見えるが……": "Hard to say.<br>This vein looks completely untouched to me...<br> ",
+    "しかし、盗賊たちがつるはしを取り出し、鉱脈に向けて叩きつけた途端、<br>次から次へと盗賊が倒れて行ってしまう。": "But the moment the bandits pulled out picks<br>and struck the vein, they collapsed one by one.<br> ",
+    "あれれ～～！？<br>みんな倒れちゃった！": "Huh~~!?<br>They all collapsed!<br> ",
+    "な、なになに！？<br>つるはしを叩きつけた途端に……": "W-what just happened!?<br>The instant they struck with their picks...<br> ",
+    "助手くん、さっき魔力係数が高いって言ってたよねっ！？<br>あそこのでっかい石からじゃないの？": "assistant-kun, you said the magic reading was high!<br>Isn't it from that big stone?<br> ",
+    "よしっ！　オレ様が解析してみようじゃないか！": "Right! Let the great Goleinu analyze it!<br> ",
+    "どう考えてもあの鉱脈からよ。<br>ハンパない魔力が漂ってるもの……": "It's obviously from that vein.<br>The magic radiating off it is insane...<br> ",
+    "それだけ、強力な催眠石ってことでしょうかぁ～？": "So it's an incredibly powerful Hypnosis<br>Stone~?<br> ",
+    "あっち……！　あっちから、モンスターが……": "Over there...! Monsters are coming...!<br> ",
+    "わわわっ！　すっごい数だよ！<br>倒れた人たち、モンスターに食べられちゃうんじゃ……": "Whoa! There are so many!<br>The people who collapsed will get eaten...!<br> ",
+    "このままじゃ、盗賊さんたち、食べられちゃう……！": "At this rate, the bandits will be eaten...!<br> ",
+    "奴らには、聞きたいことが沢山あるんだ。<br>モンスターの襲撃からあいつらを守るぞ。": "We still have plenty to ask them.<br>Protect them from the monsters.<br> ",
+    "そんな義理なんてないけど、しょうがないわね～……": "We don't owe them anything, but fine~...<br> ",
+    "よっしゃ任せろ！<br>今こそスーパーゴレイヌ様の力を見せてやるぜぇっ！": "Leave it to me!<br>Time to show off Super Goleinu's power!<br> "
+}
