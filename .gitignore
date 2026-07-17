@@ -13,3 +13,5 @@ bundles_cache/
 # Local editor / agent settings
 .claude/
 **/.claude/
+
+__pycache__
