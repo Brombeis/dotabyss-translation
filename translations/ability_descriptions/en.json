@@ -446,5 +446,10 @@
     "自身以外の味方のフォースチェインを除くスキル発動時、 自身のスキルを【{{[n1]}}】チャージ": "Whenever another ally uses a skill (excluding Force Chain), charge own skill by [{[n1]}] ",
     "【発動条件】通常攻撃を2回行う\\n【効果】次回の通常攻撃が【1HIT / 合計100％】ダメージ / 味方全体に自身の最大HP【{[n1]}】分の回復に変化": "[Trigger] Perform 2 normal attacks\\n[Effect] Next normal attack deals [1 HIT / Total 100%] damage / Heals all allies by [{[n1]}] of the character's max HP",
     "自身の最大HPが【{[n1]}】上昇 / <color=#FF5050>紋章：情熱</color>が5以上のとき、自身の攻撃力が【{[n2]}】上昇": "Increase own max HP by [{[n1]}] / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, increase own ATK by [{[n2]}]",
-    "自身の攻撃力が【{[n1]}】上昇\\n【発動条件】ステラレコードが付与されているとき\\n【効果】通常攻撃が敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[n2]}】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "Increase own ATK by [{[n1]}]\\n[Trigger] While Stella Record is active.\\n[Effect] Normal Attack changes to deal [1 Hit / {[n2]} Total] damage to all enemies within range of the target and grant yourself [1] <color=#6B8CFF>Crest: Impact</color>"
+    "自身の攻撃力が【{[n1]}】上昇\\n【発動条件】ステラレコードが付与されているとき\\n【効果】通常攻撃が敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[n2]}】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "Increase own ATK by [{[n1]}]\\n[Trigger] While Stella Record is active.\\n[Effect] Normal Attack changes to deal [1 Hit / {[n2]} Total] damage to all enemies within range of the target and grant yourself [1] <color=#6B8CFF>Crest: Impact</color>",
+    "スキルレベルアップ": "Skill Level Up",
+    "限界突破内容": "Limit Break Details",
+    "スキル / アビリティ 詳細情報\\n": "Skill / Ability Detail\\n",
+    "アビリティ 強化": "Ability enhance",
+    "限界突破のその先へ": "Beyond Limit Break"
 }
