@@ -3802,5 +3802,21 @@
     "乱暴なこと": "Rough behavior",
     "すっごく強い瘴気が出ています": "An Overwhelming Miasma",
     "re:^スタッフとして<br>【(?<name>.+?)】を登録しました。$": "[{[name]}] has been assigned<br>as a staff member.",
-    "フィオナを治してください": "Please Heal Fiona"
+    "フィオナを治してください": "Please Heal Fiona",
+    "勢力クエスト": "Faction Quest",
+    "re:^碧光の権能：(?<weapon>.+?)$": "<cspace=-0.1em><size=90%>Azure Light Power: {[weapon]}",
+    "ボスステージでのイベント効果の適応": "Event effects application in Boss Stage",
+    "味方全体の回避率が【{[n1]}％】上昇": "Increase all allies' dodge rate by [{[n1]}%]",
+    "アイテムを使ってイベント効果を解放します。": "Use the following item to unlock the event effect.",
+    "現在の最大シンクロLvに到達しています。": "Reached the current max Synchro Lv.",
+    "シンクロLvの上限を{[n1]}まで解放する": "Unlock Syncro Lv Cap to {[n1]}",
+    "最大シンクロLv": "<line-height=60%>Synchro Lv Limit",
+    "無効": "Disable",
+    "味方全体の会心ダメージ倍率が【{[n1]}％】上昇": "Increase all allies' Critical Damage Multiplier by [{[n1]}%]",
+    "防御力【20%】減少。紋章：衝撃が消費されたとき、15秒間味方全体の攻撃力【30%】UP（1編成につき1本分のみ効果発動）": "Reduce DEF by [20%]. When Crest: Impact is consumed, increase all allies' ATK by [30%] for 15 seconds (only one copy active per team)",
+    "有効": "Enable",
+    "味方全体の会心率が【{[n1]}％】上昇": "Increase all allies' crit hit rate by [{[n1]}%]",
+    "味方全体のスキルチャージ効率が【{[n1]}％】上昇": "Increase all allies' skill charge efficiency by [{[n1]}%]",
+    "味方全体が付与する状態異常の確率が【{[n1]}％】上昇": "Increase all allies' status ailment chance by [{[n1]}%]",
+    "クイック選択": "<cspace=-0.05em>Quick Select"
 }
