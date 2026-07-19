@@ -3818,5 +3818,14 @@
     "味方全体の会心率が【{[n1]}％】上昇": "Increase all allies' crit hit rate by [{[n1]}%]",
     "味方全体のスキルチャージ効率が【{[n1]}％】上昇": "Increase all allies' skill charge efficiency by [{[n1]}%]",
     "味方全体が付与する状態異常の確率が【{[n1]}％】上昇": "Increase all allies' status ailment chance by [{[n1]}%]",
-    "クイック選択": "<cspace=-0.05em>Quick Select"
+    "クイック選択": "<cspace=-0.05em>Quick Select",
+    "ミッションパス購入": "Purchase Mission Pass",
+    "DMM<size=24>ポイント</size>": "DMM<size=24>Point</size>",
+    "ボス挑戦券を消費して ステージをスキップします。": "Use Challenge Ticket to skip Boss Stage.",
+    "ペルディオンSTAGE{[n1]}": "<size=90%>Perdion STAGE{[n1]}",
+    "千国連合STAGE{[n1]}": "<size=90%>Coalition STAGE{[n1]}",
+    "ミレスガルドSTAGE{[n1]}": "<size=90%>Millesgard STAGE{[n1]}",
+    "エルドラーナSTAGE{[n1]}": "<size=90%>Eldrana STAGE{[n1]}",
+    "フィオナ＆クリスティ Lv{[n1]}": "Fiona & Christie Lv{[n1]}",
+    "クリスティ模擬戦 Lv{[n1]}": "Christie Mock Battle Lv{[n1]}"
 }
