@@ -450,6 +450,16 @@
     "スキルレベルアップ": "Skill Level Up",
     "限界突破内容": "Limit Break Details",
     "スキル / アビリティ 詳細情報\\n": "Skill / Ability Detail\\n",
-    "アビリティ 強化": "Ability enhance",
-    "限界突破のその先へ": "Beyond Limit Break"
+    "アビリティ 強化": "<line-height=60%>Ability Enhance",
+    "限界突破のその先へ": "Beyond Limit Break",
+    "自身以外の味方のフォースチェインを除くスキル発動時、 自身のスキルを【{[n1]}】チャージ": "Whenever another ally uses a skill (excluding Force Chain), charge own skill by [{[n1]}] ",
+    "敵全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】のダメージ / 毒【10秒】を付与": "Deals [<color=#4cf37b>{[n1]}</color>] damage to all enemies in a single hit (100%) and inflicts Poison for [10 seconds]",
+    "敵全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【6HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与": "Deals [<color=#4cf37b>{[n1]}</color>] damage to all enemies with [6 HITS / 100%] and reduces their DEF by [20% / 20 seconds]",
+    "味方全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】の回復 / 味方全体からランダムに1つの状態異常を解除": "Heals all allies with an attack of [<color=#4cf37b>{[n1]}</color>] for [1 HIT / 100%] / Removes one random status ailment from all allies",
+    "味方全体に攻撃力UP【<color=#4cf37b>{[n1]}</color> / 20秒】を付与": "Grant all allies ATK Up [<color=#4cf37b>{[n1]}</color> / 20 seconds]",
+    "味方全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】の回復": "Heals all allies with [<color=#4cf37b>{[n1]}</color>] ATK for [1 HIT / 100%]",
+    "敵全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】のダメージ": "Deals [1 HIT / 100%] damage to all enemies with [<color=#4cf37b>{[n1]}</color>] ATK",
+    "敵全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】のダメージ / 敵全体にノックバックLv6": "Deals [1 HIT / 100%] damage to all enemies with [<color=#4cf37b>{[n1]}</color>] ATK / Knockback to all enemies (Lv6)",
+    "味方全体に防御力UP【<color=#4cf37b>{[n1]}</color> / 15秒】を付与": "Grant all allies DEF Up [<color=#4cf37b>{[n1]}</color> / 15 seconds]",
+    "ランダムな味方1体を蘇生 / 味方全体に攻撃力【<color=#4cf37b>{[n1]}</color>】で【1HIT / 100％】の回復": "Revives 1 random ally / Heals all allies by [1HIT / 100%] with [<color=#4cf37b>{[n1]}</color>] ATK"
 }
