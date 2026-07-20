@@ -3050,7 +3050,7 @@
     "全部引く": "Max Pull",
     "目玉報酬獲得済み": "Obtained",
     "SR以上1体確定": "<size=80%>SR Guaranteed",
-    "1日1回限定": "<size=80%><cspace=-0.1em>Limited to 1 Per Day",
+    "1日1回限定": "<size=80%><cspace=-0.1em>Once Per Day",
     "有償": "<size=70%>Paid",
     "詳細/提供割合": "Detail/Ratio",
     "ガチャ履歴": "<size=70%>Pull Record",
@@ -3855,5 +3855,7 @@
     "フロア{[n1]}に「ドリンク」を付与し満足度+80%": "Assign 「Drink」 to Floor {[n1]} and +80% Satisfaction",
     "フロア{[n1]}に「接客」を付与し満足度+80%": "Assign 「Guest Service」 to Floor {[n1]} and +80% Satisfaction",
     "個室{[n1]}に「ドリンク」を付与し満足度+80%": "Assign 「Drink」 to Private Room {[n1]} and +80% Satisfaction",
-    "VIPに「料理」を付与し満足度+80%": "Assign 「Cooking」 to VIP and +80% Satisfaction"
+    "VIPに「料理」を付与し満足度+80%": "Assign 「Cooking」 to VIP and +80% Satisfaction",
+    "第{[n1]}階層を探索中": "<cspace=-0.1em>Exploring Layer {[n1]}",
+    "イベント階層を探索中": "Exploring Event"
 }
