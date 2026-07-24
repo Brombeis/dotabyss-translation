@@ -4067,5 +4067,17 @@
 	"フロントキャラの紋章：衝撃が消費された時、15秒間フロント全体の連撃率が【20%】上昇する": "When a Front ally consumes Crest: Impact, increase all Front allies' Combo Rate by [20%] for 15 seconds",
     "バックキャラの紋章：衝撃が消費された時、15秒間バック全体の連撃率が【20%】上昇する": "When a Back ally consumes Crest: Impact, increase all Back allies' Combo Rate by [20%] for 15 seconds",
 	"戦闘開始時、フロント全体に紋章：衝撃を【1】付与する": "At battle start, all Front allies gain Crest: Impact [1]",
-    "戦闘開始時、バック全体に紋章：衝撃を【1】付与する": "At battle start, all Back allies gain Crest: Impact [1]"
+    "戦闘開始時、バック全体に紋章：衝撃を【1】付与する": "At battle start, all Back allies gain Crest: Impact [1]",
+	"1回限定SSR確定": "<cspace=-0.05em>1-time SSR Get!",
+    "1回限定10連半額": "<cspace=-0.05em>1-time half price",
+    "忠義を尽くすケモミミ侍": "Loyal Kemomimi Samurai",
+    "我が名はコトノ。この剣と共に\n身命を捧げ、お仕えいたします": "My name is Kotono. With this sword,\nI will devote my life to serving you.",
+	"育成イベント": "Training Event",
+    "特別強化トレーニング！{0}をクリア": "Clear Special Intensive Training! {0}",
+    "特別強化トレーニング！{0}": "<cspace=-0.05em>Special Intensive Training! {0}",
+	"有備無患の師範代コトノ": "<cspace=-0.05em>The Ever-Ready Instructor Kotono",
+	"ダウンロードエラーが発生しました。": "Download error occurred.",
+	"この剣、我が主君のために": "This sword, for my lord...",
+	"特別手当、出ませんかね": "I wonder if we'll get\na special allowance...",
+	"フィオナ＆クリスティ LV{[n1]}をクリアで開放": "Clear Fiona & Christie Lv{[n1]}"
 }
