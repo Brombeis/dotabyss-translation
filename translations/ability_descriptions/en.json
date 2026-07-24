@@ -468,5 +468,13 @@
     "情熱のマナクリスタル【活力】": "Zeal Mana Crystal [Vitality]",
     "【条件】<color=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\\n【効果】味方全体に条件を満たした参加者の人数×5％の会心ダメージ倍率UP【15秒】を付与": "<size=90%><cspace=-0.05em>[Condition] Allies with <color=#FF5050>Crest: Zeal</color> of 5 or higher\\n[Effect] Grant all allies Critical Damage Multiplier Up by 5% × number of participants [15 seconds]",
     "【条件】<color=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\\n【効果】 被ダメージUPの効果が条件を満たした参加者の人数×10％分上昇": "<size=90%><cspace=-0.05em>[Condition] Allies with <color=#6B8CFF>Crest: Impact</color> of 5 or higher\\n[Effect] Increase damage taken effect by 10% × number of participants",
-    "【発動条件】<color=#FF5050>紋章：情熱</color>が5以上のとき\\n【効果】通常攻撃がさらに凍結【{{[n1]}秒} / 成功率:50%】を付与する攻撃に変化": "[Trigger] When <color=#FF5050>Crest: Zeal</color> is 5 or more\\n[Effect] Normal attack changes to an attack that also applies Freeze [{[n1]} seconds / Success Rate: 50%]"
+    "【発動条件】<color=#FF5050>紋章：情熱</color>が5以上のとき\\n【効果】通常攻撃がさらに凍結【{{[n1]}秒} / 成功率:50%】を付与する攻撃に変化": "[Trigger] When <color=#FF5050>Crest: Zeal</color> is 5 or more\\n[Effect] Normal attack changes to an attack that also applies Freeze [{[n1]} seconds / Success Rate: 50%]",
+    "不退転ノ極意": "Ultimate Resolve",
+    "大業物ノ息吹": "Masterwork's Breath",
+    "鋭刃ノ鼓舞": "Blade's Inspiration",
+    "一目千両桜": "Thousand-Ryo Sakura",
+    "自身の前方範囲内にいる敵全体に【9HIT / 合計{[n1]}】ダメージ / 自身に<color=#FF5050>紋章：情熱</color>を【1】付与": "Deal [9 Hits / {[n1]} Total] damage to all enemies in front / Gain [1] <color=#FF5050>Crest: Zeal</color>",
+    "さらに自身に自身の最大HP【{[n1]}】分のバリア【15秒】を付与 / <color=#FF5050>紋章：情熱</color>が5以上のとき、自身にスキルチャージ効率UP【20% / {[n2]}秒】を付与": "Additionally grants barrier to self equal to [{[n1]}] of own Max HP for [15 seconds] / When self has 5 or more <color=#FF5050>Crest: Zeal</color>, grants self Skill Charge Efficiency UP [20% / {[n2]} seconds]",
+    "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{[n1]}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{[n2]}】ダメージに変化": "The higher self current HP percentage, the more the damage dealt with skills increases, up to [{[n1]}]\n[Trigger] Always active\n[Effect] Normal attacks deal [2 hits / total {[n2]}] damage",
+    "<color=#FF5050>紋章：情熱</color>が5以上のとき、自身のスキルチャージ効率が【{[n1]}】上昇": "When <color=#FF5050>Crest: Zeal</color> is 5 or higher, increase self Skill Charge Efficiency by [{[n1]}]"
 }
