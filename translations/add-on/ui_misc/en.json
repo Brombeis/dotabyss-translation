@@ -4079,5 +4079,10 @@
 	"ダウンロードエラーが発生しました。": "Download error occurred.",
 	"この剣、我が主君のために": "This sword, for my lord...",
 	"特別手当、出ませんかね": "I wonder if we'll get\na special allowance...",
-	"フィオナ＆クリスティ LV{[n1]}をクリアで開放": "Clear Fiona & Christie Lv{[n1]}"
+	"フィオナ＆クリスティ LV{[n1]}をクリアで開放": "Clear Fiona & Christie Lv{[n1]}",
+	"火薬を用いた兵器。威力はすさまじく近距離でも\n使用できるがその分、装填に時間がかかり\n守勢には弱い。地上の敵に銃弾で攻撃を行う。": "A weapon that uses gunpowder. It packs tremendous firepower and can\nbe used even at close range, but reloading takes time, making it\nvulnerable when on the defensive. It fires bullets at ground-based enemies.",
+	"周回では初回クリア報酬を受け取ることはできません。": "<cspace=-0.1em>You cannot receive the first-clear reward during subsequent runs.",
+    "挑戦回数を消費してクリア済みの勢力クエストを周回します。": "<cspace=-0.1em><size=90%>Use your attempt count to replay quests you've already cleared.",
+    "周回": "Repeat"
+
 }
