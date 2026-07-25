@@ -4192,5 +4192,7 @@
     "浸食率が高いほど火・水・土属性のキャラの連撃率が上昇する(最大【{[n1]}】)": "As Erosion↑, increase all Fire, Water, and Soil allies' Combo Rate (Up to [{[n1]}])",
     "浸食率が高いほど光・闇・無属性のキャラの連撃率が上昇する(最大【{[n1]}】)": "As Erosion↑, increase all Light, Dark, and None allies' Combo Rate (Up to [{[n1]}])",
     "浸食率が高いほど火・水・土属性のキャラのスキルチャージ効率が上昇する(最大【{[n1]}】)": "As Erosion↑, increase all Fire, Water, and Soil allies' Skill Charge Efficiency (Up to [{[n1]}])",
-    "浸食率が高いほど光・闇・無属性のキャラのスキルチャージ効率が上昇する(最大【{[n1]}】)": "As Erosion↑, increase all Light, Dark, and None allies' Skill Charge Efficiency (Up to [{[n1]}])"
+    "浸食率が高いほど光・闇・無属性のキャラのスキルチャージ効率が上昇する(最大【{[n1]}】)": "As Erosion↑, increase all Light, Dark, and None allies' Skill Charge Efficiency (Up to [{[n1]}])",
+	"現在の累計報酬ポイントLv：Lv{0}": "Current Total Reward Points Lv: Lv{0}",
+    "報酬受け取り期間：{[n1]}": "Redemption Period:{[n1]}"
 }
