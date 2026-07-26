@@ -2541,7 +2541,7 @@
     "フロントキャラがチェイン対象": "<size=80%>Front characters are chainable",
     "バックキャラがチェイン対象": "<size=80%>Back characters are chainable",
     "アシストキャラがチェイン対象": "<size=80%>Assist characters are chainable",
-    "装備": "Equipment",
+    "装備": "<cspace=-0.06em>Equip",
     "変更": "Change",
     "移動": "Move",
     "/12文字": "<size=60%>/12 letters",
