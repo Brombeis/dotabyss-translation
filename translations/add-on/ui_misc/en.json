@@ -4481,5 +4481,7 @@
 	"出撃制限中のキャラクター": "Restricted Characters",
 	"制限中のキャラクターはいません": "No characters restriction",
 	"与えたダメージ": "<cspace=-0.07em>Damage dealt",
-	"出撃可能キャラクター数：\u3000": "<cspace=-0.1em><size=90%>Deployable characters:"
+	"出撃可能キャラクター数：\u3000": "<cspace=-0.1em><size=90%>Deployable characters:",
+	"{[n1]}FANZA GAMES人気ランキング 1位受賞のお礼です": "[{[n1]}] Thank you for placing 1st in FANZA GAMES Popularity Ranking",
+    "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×{[n1]}分上昇": "<size=90%><cspace=-0.05em>[Condition] Allies with Crest: Zeal value of 5 or higher\n[Effect] Increase DEF DOWN by {[n1]}% × number of participants"
 }
