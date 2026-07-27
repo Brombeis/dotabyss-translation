@@ -3058,7 +3058,7 @@
     "SSR1体確定": "<cspace=-0.1em>1 SSR guaranteed",
     "セレクトリストを設定": "Set select list",
     "セレクトピップアップSSR確定ガチャでは設定した中からキャラクターが出現します。": "In the Select Pick-Up SSR Guaranteed Gacha, only selected characters will appear.",
-    "報酬": "<line-height=60%>Reward",
+    "報酬": "<line-height=60%><cspace=-0.05em><size=90%>Reward",
     "閉じる": "Close",
     "もう一度引く": "Pull again",
     "ガチャトップへ": "To gacha top",
