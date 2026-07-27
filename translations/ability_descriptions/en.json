@@ -476,5 +476,7 @@
     "自身の前方範囲内にいる敵全体に【9HIT / 合計{[n1]}】ダメージ / 自身に<color=#FF5050>紋章：情熱</color>を【1】付与": "Deal [9 Hits / {[n1]} Total] damage to all enemies in front / Gain [1] <color=#FF5050>Crest: Zeal</color>",
     "さらに自身に自身の最大HP【{[n1]}】分のバリア【15秒】を付与 / <color=#FF5050>紋章：情熱</color>が5以上のとき、自身にスキルチャージ効率UP【20% / {[n2]}秒】を付与": "Additionally grants barrier to self equal to [{[n1]}] of own Max HP for [15 seconds] / When self has 5 or more <color=#FF5050>Crest: Zeal</color>, grants self Skill Charge Efficiency UP [20% / {[n2]} seconds]",
     "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{[n1]}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{[n2]}】ダメージに変化": "The higher self current HP percentage, the more the damage dealt with skills increases, up to [{[n1]}]\n[Trigger] Always active\n[Effect] Normal attacks deal [2 hits / total {[n2]}] damage",
-    "<color=#FF5050>紋章：情熱</color>が5以上のとき、自身のスキルチャージ効率が【{[n1]}】上昇": "When <color=#FF5050>Crest: Zeal</color> is 5 or higher, increase self Skill Charge Efficiency by [{[n1]}]"
+    "<color=#FF5050>紋章：情熱</color>が5以上のとき、自身のスキルチャージ効率が【{[n1]}】上昇": "When <color=#FF5050>Crest: Zeal</color> is 5 or higher, increase self Skill Charge Efficiency by [{[n1]}]",
+    "氷河の権能：タリスマン": "<cspace=-0.1em>Glacier Power: Talisman",
+	"紋章：情熱1ごとに、自身の凍結耐性【1.5%】上昇": "Per Crest: Zeal, Increase own Frost Resistance by [1.5%]"
 }
