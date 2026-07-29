@@ -4535,5 +4535,15 @@
     "「無」属性の力を秘めた技能元素。\n「キャラ詳細」でアビリティの強化に使用できる。\n主に迎撃戦の報酬として獲得できる。": "<line-height=80%>An Elemental Skill that harnesses the power of the “None” element. \nIt's used to enhance abilities in the “Character Details” menu. \nPrimarily obtained as a reward from Interception Battles.",
     "クリスタルハーミット": "Crystal Hermit",
     "クリスタルハント{0}クリア記念！": "Crystal Hunt {0} Clear Celebration!",
-    "アイコン": "Icon"
+    "アイコン": "Icon",
+    "戦力: {0}": "PWR: {0}",
+    "防御力: {0}": "DEF: {0}",
+    "麻痺耐性: {0}": "Par RES: {0}",
+    "魅了耐性: {0}": "Chm RES: {0}",
+    "攻撃力: {0}": "ATK: {0}",
+    "炎上耐性: {0}": "Burn RES: {0}",
+    "凍結耐性: {0}": "Frz RES: {0}",
+    "石化耐性: {0}": "Petr RES: {0}",
+    "喪失耐性: {0}": "Loss RES: {0}",
+    "絆Lv: {0}": "Bond Lv: {0}"
 }
