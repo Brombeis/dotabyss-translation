@@ -4545,5 +4545,10 @@
     "凍結耐性: {0}": "Frz RES: {0}",
     "石化耐性: {0}": "Petr RES: {0}",
     "喪失耐性: {0}": "Loss RES: {0}",
-    "絆Lv: {0}": "Bond Lv: {0}"
+    "絆Lv: {0}": "Bond Lv: {0}",
+    "逃亡まで": "Flees in",
+    "敵の増援です！": "Enemy reinforcements\\nare coming!",
+    "メインストーリーへ": "To main story",
+    "メモリーキューブ": "Memory Cube",
+    "はせPからの{[n1]}レターのお礼です": "[{[n1]}] HaseP's Thank-you Letter"
 }
