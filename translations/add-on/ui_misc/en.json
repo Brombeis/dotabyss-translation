@@ -4549,5 +4549,11 @@
     "敵の増援です！": "Enemy reinforcements\\nare coming!",
     "メインストーリーへ": "To main story",
     "メモリーキューブ": "Memory Cube",
-    "はせPからの{[n1]}レターのお礼です": "[{[n1]}] HaseP's Thank-you Letter"
+    "はせPからの{[n1]}レターのお礼です": "[{[n1]}] HaseP's Thank-you Letter",
+    "渚のメイド": "Maid on the Shore",
+    "天空海闊の自然児": "<cspace=-0.1em><line-height=40%>Free-Spirited Child of Nature",
+    "{[n1]} データ更新ご協力のお礼とお詫びです": "[{[n1]}] Thank-you and Apology note regarding Data updates",
+    "{[n1]} FANZA GAMES人気ランキング入賞のお礼です": "[{[n1]}] Thank you for getting into FANZA GAMES Popularity Ranking",
+    "{[n1]} 各種不具合修正のお詫びです": "[{[n1]}] Apology for the occurred bugs and issues",
+    "{[n1]} メンテナンスご協力のお礼と延長のお詫びです": "[{[n1]}] Thank-you and compensation for extendend Maintenance"
 }
