@@ -208,6 +208,6 @@
     "フィオナ": "Fiona",
     "クリスティ": "Christie",
     "コトノ": "Kotono",
-    "【水着】ニナ": "<cspace=-0.05em>[Swimsuit] Nina",
-    "【水着】クルル": "<cspace=-0.1em>[Swimsuit] Kururu"
+    "【水着】ニナ": "<cspace=-0.05em>[Swimsuit] Nina</cspace>",
+    "【水着】クルル": "<cspace=-0.1em>[Swimsuit] Kururu</cspace>"
 }
