@@ -4594,5 +4594,6 @@
     "ストーリーイベントでも出現するセイレーンを{0}体討伐する": "Defeat {0} Siren that appears in the Story Event",
     "水着記念ミッション第1弾を24個クリアしよう": "Clear 24 Swimsuit Commemorative missions",
     "いずれかのエネミーを{0}体討伐する": "Defeat any {0} enemies",
-    "人魚？のウロコ": "Mermaid? Scales"
+    "人魚？のウロコ": "Mermaid? Scales",
+    "深淵調査隊は{[n1]}フロアで力尽きました。": "Abyss expedition failed on Floor {[n1]}."
 }
