@@ -4641,5 +4641,6 @@
     "戦闘開始時、味方全体に情熱効果を【2】付与する": "At battle start, All allies gain Crest: Zeal [2]",
     "紋章：情熱が付与された時、15秒間付与されたキャラの攻撃力が【50%】上昇する": "When an ally gains Crest: Zeal, increase that ally's ATK by [50%] for 15 seconds",
     "紋章：情熱が付与された時、15秒間付与されたキャラの与ダメージが【10%】上昇する": "When an ally gains Crest: Zeal, increase that ally's damage dealt by [10%] for 15 seconds",
-    "戦闘開始時、味方全体に衝撃効果を【2】付与する": "At battle start, All allies gain Crest: Impact [2]"
+    "戦闘開始時、味方全体に衝撃効果を【2】付与する": "At battle start, All allies gain Crest: Impact [2]",
+    "{[n1]} FANZA GAMES人気ランキング2位受賞のお礼です": "Gratitude for placing 2nd in FANZA GAMES Popularity Ranking"
 }
