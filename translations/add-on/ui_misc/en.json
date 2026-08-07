@@ -4682,5 +4682,21 @@
     "入力内容に誤りがあります。": "Input error.",
     "入力に失敗しました。\\n入力内容に誤りがないかご確認ください。": "Input failed.\\nPlease make sure the code is correct.",
     "データ連携を行うことで、<color=#FE376E>連携先のゲームデータは連携元のゲームデータで上書きされるため、プレイできません。</color><br>異なるプラットフォーム間でデータを連携した場合、</color><color=#FE376E>連携元で所持していた有償アビスジェムは、連携先では使用することができません。</color><br>": "When you sync data, <color=#FE376E>the game data on the destination will be overwritten by the data from the source.</color><br>If you sync data between different platforms, </color><color=#FE376E>the paid Abyss Gems you owned cannot be used on the new device.</color><br>",
-    "ログインに失敗しました。\\nゲームを終了しDMM GAMES PLAYERを再起動してください。(コード:{0})": "Login failed.\\nExit the game and restart DMM GAMES PLAYER.\\n\\n(Code: {0})"
+    "ログインに失敗しました。\\nゲームを終了しDMM GAMES PLAYERを再起動してください。(コード:{0})": "Login failed.\\nExit the game and restart DMM GAMES PLAYER.\\n\\n(Code: {0})",
+    "制限なし": "No limits",
+    "紋章：情熱のキャラ編成数によって効果増加": "<size=80%><cspace=-0.1em>Effect increases based on number of Crest: Zeal ally in party",
+    "紋章：衝撃を持つキャラを{0}～{1}人編成": "Form a party with {0}~{1} Crest: Impact allies",
+    "初級【衝撃】バフ": "<line-height=60%>Basic [Impact] Buff",
+    "中級【衝撃】バフ": "<line-height=60%>Intermediate [Impact] Buff",
+    "上級【衝撃】バフ": "<line-height=60%>Advanced [Impact] Buff",
+    "紋章：衝撃を持つキャラを10人編成": "Form a party with 10 Crest: Impact allies",
+    "紋章：衝撃を持つキャラ【{0}人】編成中": "{0} Crest: Impact allies",
+    "クエストごとに紋章：衝撃の付与など、様々な効果が発生します。（内容はクエスト詳細で確認できます。）": "<size=90%><cspace=-0.05em>Each quest triggers various effects, such as granting Crest: Impact. (Check the details in the quest desc.)",
+    "見定めさせてもらうわ。\n彼がこの世界の命運を託すに\n値する人物かどうか……": "I’ll take a good look at him. \nTo see if he’s the kind of person\nworthy of being entrusted with\nthe fate of this world…",
+    "お姉様も無茶言うわね……\r\n司令官、悪いんだけど\r\nお願い出来るかしら？": "You're really asking for the\nimpossible, aren't you, big sis...\r\nCommander, I know this is\na bit much to ask, but\r\ncould you do me a favor?",
+    "魔術の発展のためにも\n魔石の解析は重要課題。\n優先的に回していただける？": "For the advancement\nof magic, analyzing magic\nstones is a key priority.\nCould you make this a priority?",
+    "<color=#6B8CFF>紋章：衝撃</color>キャラの攻撃力、防御力、最大HP、通常回復が【<color=#4CF37B>{0}%</color>】上昇": "<line-height=60%>Increases <color=#6B8CFF>Crest: Impact</color> Allies' ATK, DEF, Max HP, and Base Recovery by [<color=#4CF37B>{0}%</color>]",
+    "この依頼では以下の紋章を持つキャラを編成することで<br>より強力なサポートを受けることができます。": "<cspace=-0.05em><size=90%>You can receive more powerful support by including<br>allies with the following crests.",
+    "10秒ごとに光闇無属性の味方に紋章：衝撃を【5】付与": "<size=80%><cspace=-0.1em>Every 10 seconds, grants [5] <color=#6B8CFF>Crest: Impact</color> to Light, Dark, and None-element allies",
+    "ペルディオンの協力者": "<line-height=60%>Perdion's Collaborator"
 }
