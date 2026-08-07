@@ -4681,5 +4681,6 @@
     "{[n1]} 第{[n2]}弾 暑中お見舞いです": "[{[n1]}] Summer Greetings, Part {[n2]}",
     "入力内容に誤りがあります。": "Input error.",
     "入力に失敗しました。\\n入力内容に誤りがないかご確認ください。": "Input failed.\\nPlease make sure the code is correct.",
-    "データ連携を行うことで、<color=#FE376E>連携先のゲームデータは連携元のゲームデータで上書きされるため、プレイできません。</color><br>異なるプラットフォーム間でデータを連携した場合、</color><color=#FE376E>連携元で所持していた有償アビスジェムは、連携先では使用することができません。</color><br>": "When you sync data, <color=#FE376E>the game data on the destination will be overwritten by the data from the source.</color><br>If you sync data between different platforms, </color><color=#FE376E>the paid Abyss Gems you owned cannot be used on the new device.</color><br>"
+    "データ連携を行うことで、<color=#FE376E>連携先のゲームデータは連携元のゲームデータで上書きされるため、プレイできません。</color><br>異なるプラットフォーム間でデータを連携した場合、</color><color=#FE376E>連携元で所持していた有償アビスジェムは、連携先では使用することができません。</color><br>": "When you sync data, <color=#FE376E>the game data on the destination will be overwritten by the data from the source.</color><br>If you sync data between different platforms, </color><color=#FE376E>the paid Abyss Gems you owned cannot be used on the new device.</color><br>",
+    "ログインに失敗しました。\\nゲームを終了しDMM GAMES PLAYERを再起動してください。(コード:{0})": "Login failed.\\nExit the game and restart DMM GAMES PLAYER.\\n\\n(Code: {0})"
 }
