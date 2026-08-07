@@ -2,7 +2,7 @@
     "タイトル": "Title",
     "<size=48>――前線基地　司令室</size>": "<size=48>——Forward Base  Command Room</size>",
     "机には、先日探索した『滅んだ街』の調査資料が乱雑に散らばっている。<br>薄暗いランプの光が、紙の束に影を落とす。": "Reports from the ruined city are scattered<br>across the desk. A dim lamp casts shadows.<br> ",
-    "<user>は１人、<br>眉間に深い皺を刻み、報告書を睨みつけていた。": "%user% sits alone,<br>glaring at the reports with a deep frown.<br> ",
+    "<user>は１人、<br>眉間に深い皺を刻み、報告書を睨みつけていた。": "<user> sits alone,<br>glaring at the reports with a deep frown.<br> ",
     "コンコン！": "*Knock knock!*<br> ",
     "失礼します！": "Excuse me!<br> ",
     "静寂を切り裂くようにドアが静かに開き、<br>アリシアが入室する。": "The door opens quietly, breaking the silence,<br>and Alicia steps inside.<br> ",

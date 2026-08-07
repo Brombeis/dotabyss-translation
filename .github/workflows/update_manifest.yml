@@ -1,4 +1,4 @@
-name: Update manifest hashes
+name: Normalize translations and update manifest
 
 on:
   push:
@@ -13,13 +13,23 @@ permissions:
 jobs:
   update-manifest:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Wrap EN line breaks
+        run: python tools_en/wrap_en.py --quiet
+        env:
+          PYTHONUTF8: "1"
+
+      - name: Check translation values
+        run: python tools_en/check_novel_values.py
+        env:
+          PYTHONUTF8: "1"
 
       - name: Recompute manifest hashes
         run: python tools/update_manifest.py
@@ -28,7 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet translations/manifest/en.json || \
-            (git add translations/manifest/en.json && \
-             git commit -m "Update manifest hashes" && \
-             git push)
+          git add translations/ reports/
+          git diff --cached --quiet || \
+            (git commit -m "Wrap EN line breaks and update manifest hashes" && git push)

@@ -1,0 +1,434 @@
+# Dialogue lines overflowing the box
+
+430 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
+
+-  [evs_10200010201:宿舎――大穴探索に挑む者たちにあてがわれた宿泊施] line 2 overflows by 16%: 'that space of respite within the forward base, three girls sat facing one another.'
+-  [evs_10200010201:ウェンディの言葉に頷いたのは、ペルディオンの魔法] line 2 overflows by 5%: 'Perdion—— the ice mage Veera, and her elder sister, the fire mage Verisa.'
+-  [evs_10200010201:レアな鉱石を探す姉妹の案内人を務めて以来、<br] line 2 overflows by 19%: 'ores, the sisters had become some of the few friends Wendy truly felt at ease with.'
+-  [evs_10200010201:まあ、お姉ちゃんとの再会パーティーは後日考えると] line 2 overflows by 14%: "think the idea of making Commander-sama's celebration a surprise is wonderful."
+-  [evs_10200010201:わたしも負けてられません！　とりあえず、尊敬と感] line 2 overflows by 16%: 'thinking the party should last three days and nights——no, a whole week straight!'
+-  [evs_10200010201:お姉ちゃんがくれたものなら、わたしはなんだってう] line 2 overflows by 15%: 'treasure these crackers and carry them every day, even take them into the bath.'
+-  [evs_10200010201:魔法の杖に、魔力を増幅させる指輪、それに魔力回復] line 2 overflows by 9%: "potion...? The quality all looks great~. I'd almost want them for myself... hm?"
+-  [evs_10200010201:あっ、そ、その――お、お姉ちゃんの採ったタケノコ] line 2 overflows by 16%: "beautiful color and luster~. The shape is really nice too, they're... artistic, right?"
+-  [evs_10200010201:はりきってるじゃん、ウェンディ。あたしたちが寝た] line 2 overflows by 19%: "the night even after we've gone to bed. You really want Onii-san to be happy, huh~."
+-  [evs_10200010301:高度な科学技術を持つルクスノヴァにおいても、彼女] line 2 overflows by 11%: 'could surpass her. They had come to rely on her expertise for an examination.'
+-  [evs_10200010301:これはこれで由緒正しい方法なのですが……確かに応] line 2 overflows by 3%: "reactor's root cause is repaired, who knows what symptoms may appear."
+-  [evs_10200010301:我々の技術とは根本が違いますから、この場で簡単に] line 2 overflows by 4%: 'here is... Of course, given enough time, I will certainly find a way to help.'
+-  [evs_10200010301:礼には及びません。私にとっても、貴方の体にはとて] line 2 overflows by 2%: 'crystallization of Perdion magical technology one rarely gets to study...'
+-  [evs_10200010301:それより、お気をつけください。オーバーヒートの影] line 2 overflows by 4%: 'still linger. From now on, Wendy-san will likely develop various symptoms.'
+-  [evs_10200010301:機能を停止になんて絶対にさせません。たとえ自爆装] line 2 overflows by 13%: 'mechanism malfunctions and threatens to blow up the entire base, I will stop it.'
+-  [evs_10200010301:（――サプライズパーティーなんだから、おにーさん] line 2 overflows by 4%: 'exactly tell him she broke down from overworking on the preparations...)'
+-  [evs_10200010401:これこそ、ヒマリさんから聞いた日本の伝統的な風習] line 2 overflows by 5%: "Himari-san—— the 'red light, not scary if everyone crosses together' rule."
+-  [evs_10200010401:――兵士たちの武具の作製やメンテナンスを請け負う] line 2 overflows by 6%: 'Always filled with hammering, the place was even noisier than usual today.'
+-  [evs_10200010401:武器を作る時は、そりゃ～～！　からのゴンゴンカー] line 2 overflows by 8%: 'And then GWOOO~~~ you shove it in the hot fire and then KABOOM! Got it!?'
+-  [evs_10200010401:兵士たちの食事を用意するためのキッチン。<br>] line 2 overflows by 3%: 'stood with knife in hand, slicing through ingredients at terrifying speed.'
+-  [evs_10200010401:これが空腹の症状……！　どんどん食材が切り分けら] line 2 overflows by 5%: "another! She's even seasoning them before sending them to Onee-chan...!"
+-  [evs_10200010501:――もう心配ありません。全ての発作が治まり小康状] line 2 overflows by 13%: "stable. She can't move on her own for a while, but she shouldn't collapse again."
+-  [evs_10200010501:大穴の深層にある高純度の魔力結晶……その魔力を注] line 2 overflows by 7%: "channeled in, Wendy-san's reactor should self-repair and return to normal."
+-  [evs_10200010501:ベリサのツッコミの直後、ウェンディが『ぷふ――っ] line 2 overflows by 5%: 'That broke the dam, and laughter bloomed across all three of their faces.'
+-  [evs_10200010501:そうして互いの胸の内を明かし、心をひとつにした少] line 2 overflows by 4%: 'set off toward the Abyss, their smiles concealing a fierce determination.'
+-  [evs_10200010601:大穴の中を、荷車にウェンディを乗せたベリサとヴィ] line 2 overflows by 2%: 'the cart. The path is treacherous, sweat beads on both their foreheads.'
+-  [evs_10200010601:これは大穴の影響で変容した植物ですね。<br>デ] line 2 overflows by 3%: 'to my data, they have a habit of capturing prey and draining their mana.'
+-  [evs_10200010601:ウェンディの指さす先を見たベリサとヴィーラが、ぎ] line 2 overflows by 8%: 'There--over a hundred thorned vines rear up like serpents poised to strike.'
+-  [evs_10200010601:茨はベリサの魔法で片っ端から焼き払われるが、あま] line 2 overflows by 2%: "there are simply too many. Exhaustion gradually shows on Verisa's face."
+-  [evs_10200010601:ウェンディの願いに、凛とした声が応える。直後、疾] line 2 overflows by 9%: 'someone charges in like a gale and mows down a mass of vines in one sweep.'
+-  [evs_10200010601:ホノカが改造した荷車の仕掛けを発動する。直後、荷] line 2 overflows by 6%: 'erupts in flame, and the cart rockets into the side passage at full speed--!'
+-  [evs_10200010701:次の瞬間、荷車に取り付けられた筒が爆発し、煙を噴] line 2 overflows by 9%: 'Stripped of propulsion, the cart decelerates and stops dead amid the horde.'
+-  [evs_10200010701:ベリサとヴィーラが、モンスターの群れを魔法で迎え] line 2 overflows by 10%: 'They put up a valiant fight, but are gradually overwhelmed by sheer numbers.'
+-  [evs_10200010701:ダンッ――！！　荷車を蹴って跳躍するウェンディ。] line 2 overflows by 4%: 'front of Verisa and the others, standing between them and the monsters.'
+-  [evs_10200010701:腕の力で這いずりながら、魔力結晶へと向かっていく] line 2 overflows by 13%: 'crystal. Verisa and the others shoot down the monsters that lunge at her back.'
+-  [evs_10200010701:――その日、大穴深層で膨れ上がった魔力は穴の外で] line 2 overflows by 2%: 'surface; Alicia nearly dispatched a team, mistaking it for an emergency.'
+-  [evs_10200010801:なんだ、何か都合でも悪いのか？　というか……３人] line 2 overflows by 21%: 'What have you been doing? From the looks of it; Wendy seems to be fixed up though.'
+-  [evs_10200010801:ウェンディが俺を祝おうとしてくれたのが何より嬉し] line 2 overflows by 9%: "happiest. Besides, you've clearly learned a lot. You look more grown-up now."
+-  [evs_10200010801:いいだろう、別に。本人が準備しちゃだめなんて法は] line 2 overflows by 6%: "If we're running behind, how about we make it Wendy's welcome party too?"
+-  [evs_10200010801:飾りがぶわわわわぁ～で、ぴかぴかのじゃじゃーん！] line 2 overflows by 13%: 'festival! Oh right, you gotta tell me what you thought of the modded cart later!'
+-  [evs_10200010801:それはサプライズというには穏やかなスタートだった] line 2 overflows by 22%: "everywhere you looked there were smiles--a party overflowing with Wendy's warmth--"
+-  [evs_10200020201:そうです！　せっかくですから、鬼ヶ島で盛大な式を] line 2 overflows by 9%: 'Island! Blessed by everyone, the two of us exchange our vows... kyaa~~~~~♡'
+-  [evs_10200020301:仲良くする方法ですか……う～ん、まずは誤解を解く] line 2 overflows by 5%: "misunderstanding, but how to change Oni Island's image... Hmm~, hmm~~..."
+-  [evs_10200020401:ほう？　確かに、硫黄の香りといい、温泉地らしい雰] line 2 overflows by 4%: 'with. If we reframe those decorations as part of the theme... could work?'
+-  [hmn_10020100001:三大国からの重要書類でご飯あっためようとするの、] line 2 overflows by 59%: "Three Great Nations... Even in this whole wide world, you're the only one who'd think of that, Big Bro. Teehee!♪"
+-  [hmn_10020100002:わからせられてないしぃ〜っ！　ちょっとだけ火加減] line 2 overflows by 30%: 'control! If we fought for real, magic would be a hundred times stronger than some science!'
+-  [hmn_10020100003:何を言うかと思えば、またくだらない願いだな。<b] line 2 overflows by 4%: "suppose it's true you followed my orders and worked until you collapsed."
+-  [hmn_10030100002:大爆発を起こす危険な道具だぞ。<br>この基地で] line 2 overflows by 13%: "off at this base, that'd be a problem. I'd like to have the unit use it if possible."
+-  [hmn_10030100003:止まることなく魔法の武器や道具を投げ続けるマリナ] line 2 overflows by 15%: 'darkness, wind, fire, flash magic detonated, and the monster, agonized, stopped.'
+-  [hmn_10040100001:しかし暇そうだからって、司令官に毒キノコ集めやら] line 2 overflows by 7%: 'because I look free. I mean, more poison for monsters is always good, but...'
+-  [hmn_10040100001:うむ！　真の強さには、力と技――そして、知が必要] line 2 overflows by 2%: 'can only teach you power and technique! Honestly, I am not very bright.'
+-  [hmn_10040100001:そこで我が孫よ！　外の世界へ出て多くを学び、経験] line 2 overflows by 3%: 'become wise! Then you will grow stronger! Explanation over! Off you go!'
+-  [hmn_10040100002:仕方ないだろ？　あんな怪力につかまれたら逃げられ] line 2 overflows by 56%: "freakish strength, I couldn't get away. And besides, she's promising as a combat asset for the Frontline Base."
+-  [hmn_10050100002:その一方で、下腹部では男の指が的確に急所を弄んで] line 2 overflows by 4%: 'abdomen. With gentle touch unimaginable from those rough fingers, she—'
+-  [hmn_10050100003:薬を持ってきます。食事も解熱作用があるモノに<b] line 2 overflows by 4%: 'antipyretic effects as well. I will have it ready right away, so please rest.'
+-  [hmn_10050100003:……エレクトラが命令違反の罰を受けるかも、という] line 2 overflows by 16%: 'punished for insubordination, they submitted a petition asking me to forgive you.'
+-  [hmn_10050100003:ただし、命令違反を許していたら今後の指揮に影響が] line 2 overflows by 8%: "command. I couldn't do away with the punishment, so this is what happened."
+-  [hmn_10060100001:モンスターの圧力を受け止めきれず、１人また１人と] line 2 overflows by 32%: 'another fell severely wounded. The tragic sight spread fear among the surrounding soldiers.'
+-  [hmn_10060100001:詠唱を間違えたノエミが大慌てで治療を再開する。<] line 2 overflows by 11%: 'treatment. The soldiers who heard her were shaking with suppressed laughter.'
+-  [hmn_10060100002:もっと皆さんの、そして司令官さまのお役に立つため] line 2 overflows by 5%: 'Commander, I need to gain plenty of experience through daily treatments!'
+-  [hmn_10080100002:ヴィーラは初めての大穴だったな。<br>今回はあ] line 2 overflows by 4%: "this is an escort mission. Don't get worked up, stay calm and do your job."
+-  [hmn_10080100002:うん、大穴のモンスターは見た目が似ていても<br] line 2 overflows by 5%: "different attributes or special abilities, so you can't let your guard down."
+-  [hmn_10120100001:おう。平時は猟師、有事は傭兵の腕きき連中だ。<b] line 2 overflows by 12%: "emergencies. They're great at butchering too, the freshness is perfect, right?"
+-  [hmn_10120100001:食料調達と安全確保を同時におこなっているわけか。] line 2 overflows by 7%: "they're both hunters and mercenaries, they could also do reconnaissance..."
+-  [hmn_10120100002:エティア、狩猟隊はただの猟師が集まってるだけじゃ] line 2 overflows by 5%: "comes to shove, they can fight—they're a skilled mercenary group. Right?"
+-  [hmn_10120100003:その調子だ！　距離をとって半包囲を維持しろ！<b] line 2 overflows by 49%: "semi-encirclement! When you fall back, coordinate and pull back together—don't let anyone get isolated!"
+-  [hmn_10120100003:（みんなの命を背負う覚悟と自信が伝わってくる。<] line 2 overflows by 37%: "burden of everyone's lives. If I fight alongside the Commander, I feel like we can definitely win!)"
+-  [hmn_10120100003:（銃弾にすら耐える装甲、急所のわからない敵に、勇] line 2 overflows by 38%: 'point, and an oppressive pressure that crushes courage—monsters are already tough opponents.)'
+-  [hmn_10130100002:一定距離ごとに特定の薬品を地面に垂らし、認識阻害] line 2 overflows by 71%: 'to temporarily disable the perception-blocking barrier before the place even shows up... huh. Really is a secret hideout.'
+-  [hmn_10140100001:おーけーおーけー！　ゲーム実況あらため異世界バト] line 2 overflows by 9%: "Commander, hold my smartphone. Capture Pico-nyan's glorious performance!"
+-  [hmn_10140100001:『異世界実況動画』は初回にして、初探索、初バトル] line 2 overflows by 6%: "exploration, first battle—it's packed with highlights! I can't wait to edit it!"
+-  [hmn_10160100001:微かな呼気とともに莫大な力の籠もった矢が放たれる] line 2 overflows by 44%: 'released. The moment the soaring arrow vanished into the sky, a rain of blazing arrows poured down.'
+-  [hmn_10160100003:わざわざここまで来たのは半分意地だな。<br>部] line 2 overflows by 11%: "can't even find one of his own subordinates would look pretty pathetic, right?"
+-  [hmn_10200100003:ああ、かわいかったぞ。<br>大好きなものに目を] line 2 overflows by 5%: 'the things you love, and the way you got flustered after talking too much.'
+-  [hmn_10210100001:この水槽って見た目は小さいけど、実は中はとっても] line 2 overflows by 9%: "spacious inside—Oh, no, no, that's not it! I've got to introduce Upachan now!"
+-  [hmn_10210100002:実は、それを聞いたみんなが水の精霊――<br>ウ] line 2 overflows by 4%: 'they could become strong with the blessing of the water spirit, Upachan!'
+-  [hmn_10210100002:水槽にはウパちゃん以外も住んでるからね。<br>] line 2 overflows by 2%: "the church's secret arts, this aquarium is actually a very spacious area."
+-  [hmn_10210100003:相手はあの瓦１００枚割り、水の精霊の加護があるヒ] line 2 overflows by 31%: "water spirit's blessing, right? No offense to the Commander, but there's no way he can win."
+-  [hmn_10210100003:……しかしここまで災厄とやりあってきた、あの司令] line 2 overflows by 29%: "before. Even against the water spirit's power, I don't think he'd get beaten without a plan."
+-  [hmn_10210100003:……ウパちゃんに力がないって分かってから、<br] line 2 overflows by 15%: "been looking at her like she's something to eat. That's a bit of a problem. Ahaha."
+-  [hmn_10240100001:何度も何度も言葉を交わしながら、共に笑い、共に泣] line 2 overflows by 4%: "our worries... and eventually, me and Magnolia's old man became buddies."
+-  [hmn_10250100003:ウェンディは大剣を振るい、工房の壁を破壊した。<] line 2 overflows by 8%: 'massive hole burst open, and the flames surged outward, carried by the air.'
+-  [hmn_10260100001:気を遣ってほしかったら、まずは迷惑行為を止めろ。] line 2 overflows by 9%: 'The dormitory has become freezing, and everyone is suffering because of it.'
+-  [hmn_10260100001:寒さの原因はそれか……創作活動をするなとは言わな] line 2 overflows by 33%: "creating, but can't you at least use a different material? At this rate, we'll freeze to death..."
+-  [hmn_10260100001:美しいでしょう？　芸術に乏しい世界に生まれ、審美] line 2 overflows by 18%: 'that you never cultivated an eye for beauty—you can appreciate this, can you not?'
+-  [hmn_10260100002:わたくしの場合、大半が氷像ですわね。氷魔法が得意] line 2 overflows by 8%: "sculptures are deep and enjoyable... but I suppose you wouldn't understand."
+-  [hmn_10260100002:当たり前の日常が突然消え去って、ある日突然誰も知] line 2 overflows by 17%: 'suddenly vanish, and to be thrown all alone into a world where no one knows you?!'
+-  [hmn_10280100001:暇でいいじゃないか、大人になったら腐るほど仕事す] line 2 overflows by 9%: 'more work than you know what to do with, so enjoy being free while you can.'
+-  [hmn_10280100002:店長が財宝を求めて大穴に行ったきり閉店状態になっ] line 2 overflows by 8%: 'has been closed since the manager went to the Abyss in search of treasure.'
+-  [hmn_10280100002:マーケットは大きく店舗を構えた店から、商品を地面] line 2 overflows by 14%: "stalls with goods just laid out on the ground, so it's quite a challenge to search."
+-  [hmn_10280100003:モンスターを倒す力なんて無いから、せめて大穴の浅] line 2 overflows by 46%: 'go for the treasure in the shallows of the Abyss... but there were plenty of others with the same idea.'
+-  [hmn_10280100003:目当ての財宝はすでに荒らされていて、なーんにもで] line 2 overflows by 33%: 'with nothing... Now I just scavenge junk around the Abyss, barely scraping by, as you can see.'
+-  [hmn_10280100003:……財宝に目がくらんで、いきなり店を閉めて大穴に] line 2 overflows by 15%: "head to the Abyss. I thought I couldn't return to Eldorana until I made a fortune."
+-  [hmn_10280100003:エルドラーナでは海鮮の一本勝負だったけど……この] line 2 overflows by 4%: "ingredients and spices. I'm tasting depths I've never experienced before."
+-  [hmn_10280100003:妙な意地で人生を台無しにするくらいなら、恥を晒し] line 2 overflows by 3%: 'right by her even if you bear shame. Never make Emily sad again. Got it?'
+-  [hmn_10310100001:突然の強襲に、部隊は混乱に陥って散り散りに……。] line 2 overflows by 5%: 'confirmed the number of those who made it back to the base safely, but...'
+-  [hmn_10310100001:数か月前、若殿は武者修行だと言って、<br>領主] line 2 overflows by 2%: "journey despite the Lord's objections and headed to the Frontline Base."
+-  [hmn_10330100001:『権力を利用した卑劣な暴挙は断じて許されない。<] line 2 overflows by 19%: "reporter will continue investigating this trash Commander. Wait for the next issue!'"
+-  [hmn_10330100001:ただのゴシップではないんです！　あたしの記事は情] line 2 overflows by 7%: "information! Exquisite cuisine! In other words, they're pure entertainment!"
+-  [hmn_10330100001:オシャレなカフェでラテをテイクアウトして、ブラン] line 2 overflows by 33%: 'doing a dessert crawl with a smoothie in hand, and refreshing with yoga and spa treatments...'
+-  [hmn_10330100002:――弓を取り出したエメルダは慣れた手つきで矢をつ] line 2 overflows by 36%: "and drew it back. The released arrow flew with force and accurately pierced the monster's eye."
+-  [hmn_10330100002:そうだな。……総員！　エメルダの攻撃で片眼が塞が] line 2 overflows by 16%: "around to its blind spot and wear it down without rushing! Don't push yourselves!"
+-  [hmn_10330100002:――それから数日間、エメルダは前線基地の皆と行動] line 2 overflows by 18%: 'Frontline Base. They hunted monsters in the Abyss, shared meals, and chatted idly.'
+-  [hmn_10340100003:大穴に隣接された前線基地も、常に死と隣り合わせだ] line 2 overflows by 7%: "Maybe it's survival instinct, but some guys can't control their sexual urges."
+-  [hmn_10360100002:困難な任務であればこそ、我々の真価が見せられると] line 2 overflows by 11%: "true worth. You'd do well to witness the strength of the knights you selected."
+-  [hmn_10360100002:――そして予測通りに現れた大型モンスターは、<b] line 2 overflows by 10%: 'defeated by the Milesgard Knights, who were fully prepared and lying in wait.'
+-  [hmn_10360100003:上官が相手でも言うべきことは言う胆力も、<br>] line 2 overflows by 4%: "ability to take command as a deputy when needed—that's all outstanding."
+-  [hmn_10390100001:司令官様。お仕事柄、正道ではない考えも必要な立場] line 2 overflows by 13%: 'unorthodox ideas. But that alone can lead to times of stress, as it did just now.'
+-  [hmn_10390100002:変化の有無は重要ではなく、大事なのは、自分の在り] line 2 overflows by 2%: "one's own being and striving—that is the nobility God seeks in a person."
+-  [hmn_10390100002:罪を悔いて、これから善行を重ねる――それさえでき] line 2 overflows by 3%: 'even your past misdeeds become part of the path that led you to virtue.'
+-  [hmn_10400100002:ふふん、あたしは自分の夢に嘘はつかないもん！<b] line 2 overflows by 12%: 'become the strongest at the Frontline Base, and then number one in the world!'
+-  [hmn_10400100002:落とし穴は無理やり出られないようにピッタリはまる] line 2 overflows by 3%: "can't catch someone midair, he grabbed me after I broke the scarecrow."
+-  [hmn_10410100002:他にも司令官様の挨拶を無視した兵士さん、<br>] line 2 overflows by 4%: 'the nearby town who clicked his tongue when his shoulder bumped yours.'
+-  [hmn_10420100001:周囲に敬遠されつつも、再び娘がモンスターの頭上へ] line 2 overflows by 16%: 'monster again. The battle turned in their favor, and the Commander felt relieved.'
+-  [hmn_10420100001:フフッ、承知した。我がマスター。いや、其方たちの] line 2 overflows by 3%: 'Commander now. Tonight, I will become your sword...until we meet again.'
+-  [hmn_10420100002:そうか――どうしてそんなことになった？　みんなも] line 2 overflows by 2%: 'probably finding it hard yourself. Why did you change the way you talk?'
+-  [hmn_10420100002:正反対の属性が同居しているという、狂ったバランス] line 2 overflows by 7%: "balance... You can't help but admire it, not logically, but with pure longing!"
+-  [hmn_10420100002:だとしたら、なおさら解せないぞ。<br>どうして] line 2 overflows by 5%: 'speaking normally? What did your former attendant say to you yesterday?'
+-  [hmn_10420100003:前列の部隊が壁を作って不意打ちを防ぎました！　で] line 2 overflows by 8%: 'overwhelmed by numbers! We need to regroup and support the front soon...'
+-  [hmn_10420100003:暗黒の力を持ちながら、光の心を持った英雄。小説や] line 2 overflows by 8%: 'embodying that ideal figure from novels and heroic tales, you gained power!'
+-  [hmn_10420100003:……さすがは我が司令官。翻訳魔法は万能過ぎて、<] line 2 overflows by 4%: "omnipotent it works despite Fixer's future-tech freeze—guidance indeed."
+-  [hmn_10430100002:野心があるだけで実力不足の商人か。<br>他の街] line 2 overflows by 6%: "smooth-talking swindlers who've washed up from other towns mixed in too."
+-  [hmn_10430100003:静かな夜の街を、ジェンマを背負って歩く。<br>] line 2 overflows by 5%: 'Distant cheers from the entertainment district drowned out my footsteps.'
+-  [hmn_10440100001:龍神さまはドラゴンとは全然違います！　身体はすら] line 2 overflows by 8%: 'slender and long, and he looks cool! His beard flows in the wind, so elegant!'
+-  [hmn_10440100001:小さい頃からつらいときも楽しいときも、<br>心] line 2 overflows by 6%: 'always been together in my heart, and I have been on good terms with him.'
+-  [hmn_10440100001:精度の高い天気予報が農業、災害防止、戦いの助けに] line 2 overflows by 3%: "warfare. Yachiyo's power is invaluable and beyond human understanding."
+-  [hmn_10440100002:山中を進めば早く用事が済むけど、悪天候は避けたい] line 2 overflows by 11%: "avoid bad weather... If it rains, we'll take a detour. Will it be sunny tomorrow?"
+-  [hmn_10440100003:（私、天気予報が外れるのは龍神さまが気まぐれなの] line 2 overflows by 4%: 'whimsical or angry at my lack of training and had given up on me... but—)'
+-  [hmn_10440100003:――瞬間、ヤチヨは体内に宿している龍神が、気まず] line 2 overflows by 2%: 'eyes, looking uncomfortable, and past scenes flashed through her mind.'
+-  [hmn_10440100003:（良かった――勇気を出して、戻ってきて。天気予報] line 2 overflows by 5%: 'accurate now, and the people who were kind to me are all welcoming me—)'
+-  [hmn_10450100001:おかげでプロの格闘家も認めるパンチを打てるように] line 2 overflows by 6%: "acknowledge! They say it's on par with a champion! Pretty amazing, right?"
+-  [hmn_10450100002:魔法使いなんだから魔法で、なんてこだわるな。<b] line 2 overflows by 8%: "your martial arts or whatever you've got and make sure you survive. Got it?"
+-  [hmn_10450100003:前線での実践経験はないイオラだが、格闘家である父] line 2 overflows by 3%: 'her martial artist father—who went all-out—sharpened her danger sense.'
+-  [hmn_10450100003:飛び掛かってきたモンスターの攻撃を格闘術の動きで] line 2 overflows by 4%: 'monster attacked again and again, but she somehow managed to hold out.'
+-  [hmn_10460100001:エルミアが働いていた倉庫は平和だったんだろ？<b] line 2 overflows by 5%: 'guarding the excavated goods at the Frontline Base is a constant danger.'
+-  [hmn_10460100003:『星々の輝きを模した、まるで宇宙を切り裂くかのよ] line 2 overflows by 7%: "blade mirroring starlight and tearing through space with galaxy's radiance!"
+-  [hmn_10460100003:冒険に憧れて用心棒になったはいいが、毎日毎日護衛] line 2 overflows by 2%: "it's just guard duty and appraisals. Same as being a warehouse keeper..."
+-  [hmn_10470100002:運命の中心になりそうな司令官を見つけたのに、<b] line 2 overflows by 2%: 'of fate, when I came with you, all my divination tools became unusable...'
+-  [hmn_10470100003:初対面なのにアリシアとの関係を見破ってみせただろ] line 2 overflows by 4%: 'right? I thought you were trying to show off that you knew the situation.'
+-  [hmn_10470100003:短期間で変わるもんじゃないだろうが、不変ってこと] line 2 overflows by 6%: "either. You can read my immediate future from my palm, can't you, Merem?"
+-  [hmn_10480100001:あーはいはい分かった分かった。昼間っから強盗する] line 2 overflows by 8%: 'daylight? Save your excuses and sob story for the station and come quietly.'
+-  [hmn_10490100001:女性騎士の皆さんが不安がっているのは改善しなけれ] line 2 overflows by 6%: "hearing the Commander's orders in the last battle is also a major problem!"
+-  [hmn_10490100002:好みの騎士を愛でて応援するファン活動って感じでぇ] line 2 overflows by 7%: 'knights—from shadow to open, careful not to intrude but cheering them on.'
+-  [hmn_10490100002:推し箱があるからといって他箱を悪く言うのは反対派] line 2 overflows by 4%: "groups—I'm opposed to that. I understand each group has its own merits."
+-  [hmn_10510100001:油断させて、わたしたちを食べる気か！？<br>く] line 2 overflows by 13%: "*Tch*, if it's come to this, we have no choice but to strike before being struck!"
+-  [hmn_10520100003:参考までに、どうしてバレていたか教えてもらえます] line 2 overflows by 7%: 'because I helped you get away from the Commander? Did that give it away?'
+-  [hmn_10520100003:無造作に連射したかに思われた銃弾は、しかし正確な] line 2 overflows by 5%: 'precision. One shot per man—magic bullets sent them flying spectacularly.'
+-  [hmn_10530100003:そうそう。大穴探索がうまく進み始めたのは今の司令] line 2 overflows by 7%: 'Commander arrived, and he gives bonuses to the soldiers when it goes well.'
+-  [hmn_10530100003:罪滅ぼしのためにな。私のせいであんたが司令官を降] line 2 overflows by 5%: 'because of me, you could have handled this sooner. I owe them that much.'
+-  [hmn_10530100003:（商人はエルドラーナに働きかけて逮捕してもらった] line 2 overflows by 3%: 'Commander lied to hire Shannon. It makes me a little jealous, you know?)'
+-  [hmn_10540100001:――前線基地近くの森の中を、数台の馬車が歩いてい] line 2 overflows by 3%: 'Frontline Base. Inside one carriage, a female knight was writing a letter.'
+-  [hmn_10550100001:戦場にはまだモンスターと戦い、苦戦している兵士た] line 2 overflows by 15%: "struggling badly. Among them was a female soldier who adored the Commander...'"
+-  [hmn_10550100002:前線基地へ来ることを反対したリタの父は言っていた] line 2 overflows by 4%: "said, 'The Frontline Base attracts interests and various people target it.'"
+-  [hmn_10550100003:お前の実力は今回の件で十分わかった。花の深い知識] line 2 overflows by 8%: 'knowledge and magic swordsmanship—both are assets to the Frontline Base.'
+-  [hmn_10590100001:失礼シマシタ。司令官様ニツイテ語ッテル、スティー] line 2 overflows by 2%: 'COMMANDER, YOUR VOICE SOUNDED SO HAPPY, I COULD NOT HELP IT...'
+-  [hmn_10600100001:目の前で倒れるテルーを助けようと飛び込んだ<us] line 2 overflows by 4%: "couldn't support her, and both of them ended up tumbling to the ground."
+-  [hmn_10600100003:明日は遠征に出てた兵士さんが帰ってくるでしょ？<] line 2 overflows by 4%: 'right? They said they were looking forward to my street show, you know.'
+-  [hmn_10610100002:ニナの言葉通り、ゴブリンが隊列の隙間を走り抜けて] line 2 overflows by 11%: 'formation. But Nina intercepted every one of them, allowing no breakthrough.'
+-  [hmn_10620100003:しかし、期待していたことは何も起こらず、この日は] line 2 overflows by 8%: 'wholesomely, and she collapsed in her room, sleeping soundly until morning.'
+-  [hmn_10640100001:音の出所を探して周囲を見渡す……と、足元に小さな] line 2 overflows by 5%: 'feet—a small snake, hidden under a rock, stuck out its tongue and hissed.'
+-  [hmn_10640100001:はぁぁぁ……こんなことで怯えて腰を抜かしてしまう] line 2 overflows by 20%: "out... it's pathetic... I'm nowhere near ready for the Abyss exploration at this rate..."
+-  [hmn_10640100002:それに、お前は自分の弱さに向き合える人間だ。<b] line 2 overflows by 6%: "who can admit their weaknesses can also be there for others' weaknesses."
+-  [hmn_10650100001:騎士養成学校で首席かつ生徒会長を務めるその非凡さ] line 2 overflows by 7%: 'president at the Knight Training Academy—is evident at the Frontline Base.'
+-  [hmn_10660100002:さて、わざわざ来てもらったことだし、本題に入ろう] line 2 overflows by 22%: "found in the Abyss... it seems to be the same as the ones from your world, doesn't it?"
+-  [hmn_10660100003:それは自室のモニターの前で、コントローラーを握り] line 2 overflows by 17%: 'controller in hand, she had aimed at the Final Boss and landed a perfect headshot.'
+-  [hmn_10670100003:司令官。前線基地の壁の復旧は進んではいるのですが] line 2 overflows by 6%: "progressing, but since it was a rush job, I'm worried about the durability..."
+-  [hmn_10670100003:ハチミツが岩陰に飛び出していく。 <br>それに] line 2 overflows by 4%: 'responding, a large dog that looked very similar to Hachimitsu appeared.'
+-  [hmn_10770100001:そりゃ楽しいよ～。冒険はロマン！　宝探しもロマン] line 2 overflows by 2%: 'romance! And if we sell it for a good price, that makes me super happy!'
+-  [hmr_10010100011:い……いえ！　忠誠を捧げた主君を助けることが、騎] line 2 overflows by 55%: 'loyalty! To retreat now would be a disgrace to knighthood! Please, allow me to be of use to you, Commander!'
+-  [hmr_10010100012:胸の感触はというと、極上の柔らかさだった。力を入] line 2 overflows by 6%: 'squeezed. I meant to get her used to it, but got lost in how good they felt.'
+-  [hmr_10010100012:お言葉に甘えて、ローザの乳房を思う存分に揉みしだ] line 2 overflows by 9%: 'content. Under my palms, her soft breasts changed shape in an amusing way.'
+-  [hmr_10010100012:膣内は心地良く、ずっとこうしていたいという気持ち] line 2 overflows by 7%: 'instincts craved more pleasure, so I told her to move her hips up and down.'
+-  [hmr_10010100022:乳房の形状、大きさ、感触はまさしく極上そのものだ] line 2 overflows by 6%: 'was so taut and lustrous that a drop of water would seem to bounce off it.'
+-  [hmr_10010100022:桃色の乳輪は大きめで、サクランボのような乳首は何] line 2 overflows by 2%: 'But she seemed extremely nervous. The client asked if she was all right.'
+-  [hmr_10010100022:ローザは気合いを入れつつ乳房を持ち上げた。<br] line 2 overflows by 23%: 'secure his manhood, which was trying to slip away, and began stroking it up and down.'
+-  [hmr_10010100022:柔らかな胸が肉棒に密着して激しくこすり上げる。<] line 2 overflows by 4%: 'vigorously, and the arousing sight made clear fluid overflow from the tip.'
+-  [hmr_10010100022:乳首をいじることによってローザの興奮が高まり、自] line 2 overflows by 7%: "bosom pleasuring; the client's manhood throbbed thickly in her soft bosom."
+-  [hmr_10010100022:ローザの汗と我慢汁が混ざったぬちゅぬちゅとした粘] line 2 overflows by 3%: 'heightened his pleasure. It was only natural that his testicles tightened.'
+-  [hmr_10010100022:ローザの乳首にジンッとした快感が走ると同時に、客] line 2 overflows by 19%: 'reached his peak. White semen splattered thickly across her pretty face and bosom.'
+-  [hmr_10010100023:最近、ローザさんを指名したいお客様がすごい増えて] line 2 overflows by 22%: "dramatically. I didn't expect you to grow so quickly. Was there some kind of catalyst?"
+-  [hmr_10010100023:司令官殿に気持ち良くなって、身も心もリフレッシュ] line 2 overflows by 5%: 'when I served with that intention, the customers became satisfied as well!'
+-  [hmr_10020100011:飢餓の厄災を退けたその深夜――。<br>寝床につ] line 2 overflows by 10%: 'gone to bed but was struggling to fall asleep when a knock came at the door.'
+-  [hmr_10020100011:あっ――も、もしかして、緊張して眠れなさそうとか] line 2 overflows by 3%: "nervousness? Or are you thinking something pervy? That's sooo gross!♡"
+-  [hmr_10020100011:ていうか、女の子にこんな迫られてるのに何もしない] line 2 overflows by 21%: "nothing—you're way too dense, big bro... Nyah, you insensitive guy!♡ Dense, dense!♡"
+-  [hmr_10020100012:分かりやすく煽られてしまうが、怒りよりも欲望が刺] line 2 overflows by 3%: "There was no way I didn't want to sink into Verisa's beautiful, wet body."
+-  [hmr_10020100021:前線基地に新しく出来た、謎の美女が営む酒場。<b] line 2 overflows by 14%: 'recently opened. Having heard the rumors, Verisa peered in, sizing up the place.'
+-  [hmr_10020100021:娼館衣装に着替えたベリサが、楽しそうにクルクルと] line 2 overflows by 28%: 'looked cute, of course, but what really caught my eye was her defenselessly exposed skin.'
+-  [hmr_10020100022:工夫を凝らした丁寧な手コキで奉仕を行っていく。<] line 2 overflows by 5%: 'handjob. Then, the already hard meat rod became even harder, rock-solid.'
+-  [hmr_10020100032:触れられてすらいないのに、濡れているとは思わなか] line 2 overflows by 4%: "Verisa's face reddened in surprise, and tears even welled up in her eyes."
+-  [hmr_10020100032:あれほど調子に乗っていたというのに、どんどん弱々] line 2 overflows by 4%: 'That sight stirred my sadistic side, and my lower abdomen burned hotter.'
+-  [hmr_10020100032:膣奥に亀頭を押し付けて、全力で精を放つ。ベリサも] line 2 overflows by 5%: 'Verisa climaxed with me, her tight pussy milking every last drop of sperm.'
+-  [hmr_10030100011:娼館にやって来たのは商人のマリナ。 <br>その] line 2 overflows by 28%: 'voluptuous body and gentle features made the two exchange glances—she was a real find!'
+-  [hmr_10030100022:（うわわ～～まさかこんなリクエストくるとは驚いち] line 2 overflows by 13%: 'Showing myself like that in front of someone is, well, really embarrassing, but...'
+-  [hmr_10030100022:マリナは緊張気味に細い指を秘所へ這わせていく。<] line 2 overflows by 5%: 'masturbated before, this was her first time doing so in front of someone.'
+-  [hmr_10030100022:次第に見られている恥ずかしさよりも、快感の方が脳] line 2 overflows by 10%: 'embarrassment, and she kept fingering herself, body trembling and twitching.'
+-  [hmr_10030100022:同意を得ることもなく、男が亀頭先を膣口に挿し込ん] line 2 overflows by 22%: 'manhood into her entrance. Her already drenched flesh yielded easily to his intrusion.'
+-  [hmr_10030100022:――すいません。興奮して我慢できなくて……。<b] line 2 overflows by 11%: 'apologized, but his breathing was still rough, caught between reason and lust.'
+-  [hmr_10030100022:マリナは男のリクエストに応え、腰を動かし始める。] line 2 overflows by 11%: 'each motion, his manhood pressed deeper, the head nudging against her core.'
+-  [hmr_10030100022:マーケットでの商売では、いつも笑顔での接客を心が] line 2 overflows by 4%: "with a smile. To forget such a basic principle as 'A smile costs nothing'—"
+-  [hmr_10040100021:部下に好かれるのはよい指導者の条件……ならば、こ] line 2 overflows by 10%: "this is also an investment. Besides, I can't exactly refuse a little girl like you."
+-  [hmr_10050100012:エレクトラは今、心の底から満たされています……ひ] line 2 overflows by 23%: '*gasp*... mmm... Aah! It is as if Electra were born to do this with Master... *whimper*...'
+-  [hmr_10050100012:さらに、言葉を発しながらも何度か小さな絶頂を繰り] line 2 overflows by 17%: 'several small climaxes. Aroused by her lewd state, my hips accelerated even more.'
+-  [hmr_10050100012:ご主人様の動きが、さらに激しく……はぁぁっ……♡] line 2 overflows by 4%: "turned on by Electra, aren't you...? Ngh... Aah... I'm so happy... Master!♡"
+-  [hmr_10050100022:容赦も慈悲もないエレクトラの言葉に、男は絶望した] line 2 overflows by 10%: 'compassion. But even when he tried to escape, she held him down with force.'
+-  [hmr_10050100031:最近、司令官が無理をしてばっかりで、体調が心配な] line 2 overflows by 11%: "worried about his health! I wish he'd stop being stubborn and get some sleep!"
+-  [hmr_10060100022:余りにも淫らな姿勢に頬が熱くなる。<br>娼館で] line 2 overflows by 5%: 'decided to work at the brothel, she had not imagined it would go this far.'
+-  [hmr_10060100022:聖職者だからダメなのでは――そんな疑問を持つ者は] line 2 overflows by 4%: 'Noemi, though inexperienced, moved her bosom up and down desperately.'
+-  [hmr_10060100022:男の反応に自信をつけたノエミが献身的に胸を動かし] line 2 overflows by 4%: "continuing her earnest service, forgetting the position's embarrassment."
+-  [hmr_10060100022:男が舌を伸ばし、眼前で揺れていた女性器を舐めあげ] line 2 overflows by 12%: 'swayed before his eyes. At the sudden stimulation, Noemi reflexively cried out.'
+-  [hmr_10060100022:荒い吐息と陰部を這う舌の動きで、男の興奮が伝わっ] line 2 overflows by 3%: 'excitement, and Noemi kept moving, healing his manhood with her mouth.'
+-  [hmr_10060100022:ビクビクと震え、耐え続けた絶頂に達するノエミ。<] line 2 overflows by 9%: 'restraint intensified pleasure; her body convulsed and her vision went white.'
+-  [hmr_10070100012:長く生きて初めての行為。守り続けたからこそ、恐怖] line 2 overflows by 9%: 'long. Noir gripped her trembling hand, caught between fear and anticipation.'
+-  [hmr_10070100032:しっかりと濡れたフィルムの膣内へと亀頭を押し込む] line 2 overflows by 3%: 'entrance and being drawn inside, sending a jolt of pleasure through him.'
+-  [hmr_10070100032:温かく柔らかな感触。部屋を包むむせかえるような香] line 2 overflows by 4%: 'voices made me feel like penetrating both, and pleasure washed over me.'
+-  [hmr_10080100011:娼館の部屋を借り、ヴィーラに専用の衣装を着るよう] line 2 overflows by 10%: 'outfit. Just changing turned her face bright red and deeply embarrassed her.'
+-  [hmr_10080100012:勉強のため、姉のため――だけではない。<br>あ] line 2 overflows by 5%: 'wanted me—made my heart pound, and I began to move, pressing into her.'
+-  [hmr_10080100012:ヴィーラも気持ち良くなっていい、そのほうが相手も] line 2 overflows by 2%: 'happier, so her hole clenched and trembled as if holding back until now.'
+-  [hmr_10080100022:慕っている姉になりきるようにして、あえて親しげに] line 2 overflows by 7%: 'familiarly. For the anxious man, her voice was the greatest encouragement.'
+-  [hmr_10080100022:不本意かつ一方的な射精に、男は目に見えて落胆して] line 2 overflows by 4%: 'ejaculation. He muttered weakly that this was always how it went for him.'
+-  [hmr_10080100022:声を上げるたびに膣の中が肉棒を締め付ける。<br] line 2 overflows by 14%: 'manhood. Her full breasts swayed, and her sweet, wanton scent melted his mind.'
+-  [hmr_10080100022:言葉だけではなく、膣内もまた、肉棒を求めるように] line 2 overflows by 7%: 'sensation of his head being enveloped drove him to an even greater climax.'
+-  [hmr_10080100032:滑らかな太ももに肉棒を滑り込ませる。膣口から漏れ] line 2 overflows by 8%: 'seeping from her entrance, I gently rocked my hips, savoring the sensation.'
+-  [hmr_10080100032:見られてしまう不安よりも、情欲の方が勝ったのか、] line 2 overflows by 2%: 'Veera pressed her entrance against the head of my cock, as if pleading.'
+-  [hmr_10080100032:普段のクールなヴィーラならありえない、淫らな言葉] line 2 overflows by 14%: 'utter—revealed that her strong feelings made her unable to contain her arousal.'
+-  [hmr_10090100012:レヴィエーヌは懸命に腰を動かすが、こちらはまだ余] line 2 overflows by 15%: 'Watching her dance-trained body move rhythmically from below was spectacular.'
+-  [hmr_10090100022:細い指でシコシコと手コキをしながら、熱のこもった] line 2 overflows by 13%: 'licking. The desperation from before was gone — replaced by careful attention.'
+-  [hmr_10090100022:その思いやりと気遣いのこもった奉仕に、客も大きく] line 2 overflows by 9%: 'customer. His cock twitched with each lick, and he gasped with every stroke.'
+-  [hmr_10090100032:戸惑いを見せる彼女を制するように、やや強引に肉棒] line 2 overflows by 11%: 'thrust. It slid smoothly through her slick walls and pressed against her cervix.'
+-  [hmr_10140100022:張り詰めた陰茎から、喉奥に向かって放出された熱い] line 2 overflows by 2%: 'into the back of her throat, Pico paused before pulling her mouth away.'
+-  [hmr_10140100032:娼館で鍛えたからだろうか……妙に色気が増し、艶っ] line 2 overflows by 8%: 'unexpectedly sensual and seductive. My heart raced as I drew closer to her.'
+-  [hmr_10140100032:亀頭の先端が触れた瞬間、ピコはピクッと身体を震わ] line 2 overflows by 17%: 'moaned sweetly, love juice spilling from her opening, her lips glistening invitingly.'
+-  [hmr_10160100022:からかうように言って、ウィステリアが男に微笑みか] line 2 overflows by 11%: 'captivated by the pleasant warmth of her womanhood even while she was still.'
+-  [hmr_10160100032:アンダーウェアをまくり上げたウィステリアが呟く。] line 2 overflows by 4%: 'her full breasts, they were so soft they seemed to sink under my fingers.'
+-  [hmr_10160100032:ウィステリアの膣内へと、肉棒を押し込んだ。<br] line 2 overflows by 2%: 'flesh rubbing against my head sent pleasure through my lower abdomen.'
+-  [hmr_10160100032:全身を大きく震わせ、ウィステリアが絶頂に達する。] line 2 overflows by 6%: 'from her core through my length, and in that pleasure, I released my seed.'
+-  [hmr_10200100012:本気ならばとっくに振り払って脱出しているはず。<] line 2 overflows by 5%: 'long ago. No doubt some part of Laveria had been hoping for this as well.'
+-  [hmr_10200100012:動揺しながらも、胸を揉まれるとすぐに甘い声を上げ] line 2 overflows by 2%: 'breasts were touched. She seemed even more sensitive than I expected.'
+-  [hmr_10200100012:体をビクビクさせながら叱られるが、止める気は一切] line 2 overflows by 36%: 'stopping. On the contrary, my desire for her grew even stronger, and my lower abdomen ached.'
+-  [hmr_10200100012:１度軽く達したからだろう。膣内は愛液でぐちゅぐち] line 2 overflows by 21%: 'and slick with her love juices. With just a gentle push, my cock slid smoothly into her.'
+-  [hmr_10200100022:波のように押し寄せてくる快感によって、膣内の収縮] line 2 overflows by 3%: 'intermittent but intense clenching made the customer cry out in delight.'
+-  [hmr_10200100023:はっとして体を調べるが、どうやらケガや異常はない] line 2 overflows by 5%: 'abnormalities. As she breathed a sigh of relief, a knock came at the door.'
+-  [hmr_10210100011:だ、だから、ちゃんとした人間の交尾がしてみたいの] line 2 overflows by 6%: "few acquaintances I have who isn't connected to the temple, Commander..."
+-  [hmr_10210100012:揉む度に敏感に反応し、全身をヒクヒクさせながら声] line 2 overflows by 6%: 'twitching as moans escaped her lips. She seemed to be naturally sensitive.'
+-  [hmr_10210100012:必死に抑え込もうとしている彼女に、可愛い声をもっ] line 2 overflows by 2%: "cute voice. I told her she didn't need to suppress any pleasure or moan."
+-  [hmr_10210100013:大丈夫……人間にとって性行為はとても大切なことっ] line 2 overflows by 3%: 'humans. So I want to share with others the peace I felt with Commander.'
+-  [hmr_10210100022:娼館で働いている理由……？　それは、司令官君の、] line 2 overflows by 7%: "Commander taught me, back when I didn't know much about human mating..."
+-  [hmr_10210100022:客もそれが嘘偽りない言葉だというのは、ヒュメナの] line 2 overflows by 4%: 'were sincere. He seemed to have completely opened his heart to her now.'
+-  [hmr_10210100022:少し角度を付けた客の陰茎が、ヒュメナの最奥──子] line 2 overflows by 7%: "part—her cervix. A numbing pleasure surged through Humena's entire body."
+-  [hmr_10210100022:ヒュメナの必死な腰使いが加わったことで、凄まじい] line 2 overflows by 9%: 'pleasure. Her earnest efforts only made him more excited, and he came fast.'
+-  [hmr_10210100032:（な、なんとかしないと……たぶん司令官君が変えら] line 2 overflows by 3%: 'aquatic creature... Only desire remains, and his consciousness is gone...)'
+-  [hmr_10210100032:甲高い声を上げながらも触手の欲望を受け止めてみせ] line 2 overflows by 3%: 'loving devotion made them throb and writhe with even greater intensity.'
+-  [hmr_10210100032:うねりを上げて襲いかかってきた今日一番の絶頂に、] line 2 overflows by 7%: 'waves. The tentacles climaxed too, spewing white cloudy fluid from all tips.'
+-  [hmr_10210100032:全部出し切らないと、司令官君は元に戻れないもんね] line 2 overflows by 3%: "right...? *pant* Ah! Don't worry about me, take me as much as you need?"
+-  [hmr_10240100012:１度イッたせいか、マニョリアの反応はさっきより激] line 2 overflows by 14%: 'more intense than before. Her sensitivity might have increased after her climax.'
+-  [hmr_10240100022:要領を掴んだのか、マニョリアの行為はだんだんスム] line 2 overflows by 2%: 'cock deep into her mouth and rubbing it against the back of her throat.'
+-  [hmr_10250100013:さらに、特殊魔導炉を起動させることにより、わたし] line 2 overflows by 6%: 'furnace allows me to provide special pleasure for both me and my partner.'
+-  [hmr_10260100012:腰を打ちつけるたびに小さな乳房が震える。<br>] line 2 overflows by 9%: 'overflowed, and a lewd squelching sound echoed from where we were joined.'
+-  [hmr_10260100013:うふふ、かわいらしくてつい……でも、司令官君なら] line 2 overflows by 3%: "don't you, Commander? That girl has a tremendous talent for this world."
+-  [hmr_10260100022:太ももの間から顔を出した客の陰茎は、<br>浮き] line 2 overflows by 4%: 'thighs, was already fully erect, its prominent veins pulsing and twitching.'
+-  [hmr_10260100022:増大した欲望のために理性は消失し、客はついに自分] line 2 overflows by 5%: 'His manhood scraped her sensitive nub, drawing sweet moans from Sylvia.'
+-  [hmr_10260100022:その罵りで、客はさらに高揚する。張り詰めた肉棒で] line 2 overflows by 17%: 'forth between her thighs, vigorously rubbing her hidden folds and sensitive pearl.'
+-  [hmr_10260100032:激しい腰使いにより、シルヴィアの全身には汗の珠が] line 2 overflows by 3%: 'scattering with each motion and shimmering beautifully in the moonlight.'
+-  [hmr_10280100012:指の何倍かの太さのモノを受け入れ、エミリーが苦し] line 2 overflows by 7%: 'thicker than my fingers. Her thoroughly wet pussy firmly accepted my cock.'
+-  [hmr_10280100032:膣口から溢れた愛液が、尻タブを伝って机の上に垂れ] line 2 overflows by 7%: 'table. I pointed out that she was excited for someone who was complaining.'
+-  [hmr_10290100012:耐えかねて腰を動かすと、ミルティーユの膣は柔軟に] line 2 overflows by 9%: "accepted my cock. The tightness made my cock's head intensely pleasurable."
+-  [hmr_10290100012:肉棒にも馴染んてきたのか、ミルティーユの淫肉がさ] line 2 overflows by 8%: 'relaxed even more, enveloping it, soft and fluffy, just as she had described.'
+-  [hmr_10290100022:胸での奉仕を続ける内、その声はしっとりとした色気] line 2 overflows by 3%: "moist sensuality. The man's sticky, intense gaze was fixed upon Myrtille."
+-  [hmr_10290100022:ミルティーユは何も拒むことなく、やわらかくすべて] line 2 overflows by 5%: 'desperately servicing with her still-inexperienced breasts, smiling warmly.'
+-  [hmr_10290100032:淫らな声を上げてミルティーユが乱れる姿に息が詰ま] line 2 overflows by 2%: "breathlessly. Overcome by this mysterious arousal, I couldn't hold back."
+-  [hmr_10310100022:ハツネは客に無理を言って楽しんでいた。<br>そ] line 2 overflows by 7%: "he muttered about her heartlessness, he couldn't help moaning in pleasure."
+-  [hmr_10310100031:訓練所を覗くと、コトネが若殿を熱心に剣術を指導し] line 2 overflows by 18%: 'teaching the young lord swordsmanship. Hatsune was watching with rapt attention.'
+-  [hmr_10310100032:発情で理性が薄れていたはずなのに、急に恥じらった] line 2 overflows by 6%: "away in shame. Perhaps that's how self-conscious she was about her body."
+-  [hmr_10310100032:激しい抽送で真空のようになった膣内の刺激に陰茎が] line 2 overflows by 12%: "caused by the rough thrusting. Still, Hatsune's movements remained relentless."
+-  [hmr_10310100032:鍛えられた太ももが躍動するのが下からよく見えた。] line 2 overflows by 22%: 'movement, her pussy clenched, my cock swelled, and the pleasure built toward climax.'
+-  [hmr_10310100032:ハツネがよだれを啜ったとき、訓練所内がにわかに騒] line 2 overflows by 3%: 'Voices asked what that sound was, some wondering if it was a stray cat.'
+-  [hmr_10320100012:蕩けそうな快楽に満たされているのはダリアも同じの] line 2 overflows by 10%: 'shyness had vanished in the bliss, and now she was already begging for more.'
+-  [hmr_10320100022:不愛想で圧のあるダリアが、自分の言う通りに足をＭ] line 2 overflows by 13%: 'and moved her hand on his manhood, striking him deeper than he ever imagined.'
+-  [hmr_10320100022:ダリアが口下手なことを知らない青年は、称賛された] line 2 overflows by 7%: "thought he'd been praised. Propelled by joy, he pressed on to the next act."
+-  [hmr_10320100022:名前を呼びながら、たぎった陰茎を口内へ押し込む青] line 2 overflows by 5%: 'her mouth. His actions were rough, but Daria accepted without complaint.'
+-  [hmr_10330100012:今さらながら強い後悔が襲ってくる。膣内の感覚を確] line 2 overflows by 7%: 'sensation of her cunt, pointed out an undeniable fact to press her further.'
+-  [hmr_10330100012:この基地の近くには、誰かを置き去りにしても見つか] line 2 overflows by 3%: "never be found. At the man's whisper, Emeralda understood immediately."
+-  [hmr_10330100012:男も絶頂に近づいているのか、肉棒がぶるぶると痙攣] line 2 overflows by 8%: 'trembling. Then, as expected, he urged her to beg for his cum one last time.'
+-  [hmr_10330100013:――数時間後、ようやく目隠しと縄を外してもらえた] line 2 overflows by 3%: 'removed and stared blankly at the man who had so thoroughly taken her.'
+-  [hmr_10330100021:前回のお仕置きでＭに目覚めたエメルダは『取材した] line 2 overflows by 6%: "started working at the brothel to 'interview'. Then Ludia called out to her."
+-  [hmr_10330100022:――すごい。大穴のアダルトグッズも高性能で、実に] line 2 overflows by 3%: 'studying. The researcher praised the technology while calmly recording.'
+-  [hmr_10330100022:それは仕事で実験を行っている研究者にも伝わってき] line 2 overflows by 5%: "Seeing Emeralda's lewd state up close made him grit his teeth repeatedly."
+-  [hmr_10360100012:ライムの男っけのなさは騎士団でも心配されていたら] line 2 overflows by 6%: 'the Knight Order. But she seemed to have gotten some biased information.'
+-  [hmr_10360100012:ライムは少しくすぐったそうにしながらも、愛撫を拒] line 2 overflows by 7%: 'stroking, I could feel her smooth skin and softness sinking under my touch.'
+-  [hmr_10360100022:余りに強い快楽にライムの身体は潮を吹き出す準備す] line 2 overflows by 3%: "prepared to squirt. But she herself didn't even understand the concept."
+-  [hmr_10390100011:いや、ちょっと様子を見に来ただけだ。相変わらず訪] line 2 overflows by 5%: 'Seems like most of them come for you rather than to pray to God, though.'
+-  [hmr_10390100022:（は、恥ずかしい……私、い、今、ぜったいに淫らな] line 2 overflows by 4%: 'right now... And Lord Commander has never even seen that expression...)'
+-  [hmr_10400100022:――おっと、随分と敏感だな？　もうイクのか？<b] line 2 overflows by 2%: 'cum. Sensing her climax was close, he gleefully pounded into her faster.'
+-  [hmr_10400100022:射精感の込み上げた男の腰遣いがより激しくなる。<] line 2 overflows by 3%: "rod, unleashed by his trained body, slammed into Luca's womb entrance."
+-  [hmr_10410100012:彼女は感じながらも、指示を守ろうと必死に腰を動か] line 2 overflows by 7%: 'watched her voluptuous hips bob up and down, her breasts swaying heavily.'
+-  [hmr_10410100022:陰茎を挟み込んだ胸が、大きく上下する。とろけるよ] line 2 overflows by 8%: 'melting softness, a gentle suction. A sound involuntarily escaped his mouth.'
+-  [hmr_10410100022:なぜアヤメは自分のしてほしいことをこうも的確に分] line 2 overflows by 5%: 'surfaced but vanished quickly. Now, the man could think only of pleasure.'
+-  [hmr_10410100022:そして、陰茎を両側から包み込む胸は、<br>それ] line 2 overflows by 8%: 'providing such pleasurable stimulation that he could climax from that alone.'
+-  [hmr_10410100022:アヤメが口端から白濁を垂らしながら、男に微笑みか] line 2 overflows by 4%: "erotic expression, the man's excitement didn't wane even after cumming."
+-  [hmr_10420100012:くっ！？　そ、そのような言葉で女王たる我を羞恥で] line 2 overflows by 14%: 'embarrassment... Like in our past life, you are, well—that is, somehow... cunning.'
+-  [hmr_10420100022:青年は素股を開始する。拙い動きだったが、性交を体] line 2 overflows by 9%: 'prior experience made her sensitive, and this motion heightened her arousal.'
+-  [hmr_10420100022:青年が恐れていた不安はすっかり消えてしまっていた] line 2 overflows by 9%: 'was absorbed in making the lovely woman feel good as she moaned adorably.'
+-  [hmr_10430100013:む、ワシの処女をそこらの女と一緒にするでないぞ。] line 2 overflows by 3%: 'seen plenty of good men besides you, boy, but never gave myself to any!'
+-  [hmr_10430100022:立派な拘束具を用意してきた割に、これで終わってよ] line 2 overflows by 3%: "like this? You haven't even gotten your money's worth, have you? Mmm?"
+-  [hmr_10430100022:なのに『J』の膣が、ピンと膨らんだ乳首が、甘い彼] line 2 overflows by 6%: 'assaulted him, trying to overwhelm him with pleasure and make him submit.'
+-  [hmr_10430100022:もう出したい、もうイキたい――この女に、負けたい] line 2 overflows by 14%: 'moment he thought that, his testicles tightened and his cock trembled violently.'
+-  [hmr_10430100022:ワシにも勝ちたい男がおる。だからこそ、いい女にな] line 2 overflows by 3%: "woman. But y'know, if losing makes you sad, I wouldn't even want to win."
+-  [hmr_10440100012:健気に答えられるが、その声色には自信がまったくな] line 2 overflows by 12%: 'confidence. Sensing she had little real knowledge, I vowed to guide her gently.'
+-  [hmr_10440100012:膣内の律動もうねるような収縮に変わっていた。肉棒] line 2 overflows by 2%: "base to tip, urging release—a woman's unique pleasure unlike a handjob."
+-  [hmr_10440100012:膣内がぶるぶると震える。絶頂の兆しだった。亀頭か] line 2 overflows by 4%: 'shaft, I was gripped completely, contractions pulsing in rapid succession.'
+-  [hmr_10440100022:言われた通りの動きに、客の腰使いが変わった瞬間、] line 2 overflows by 2%: 'exactly, Yachiyo writhed from the pleasure that coursed down her back.'
+-  [hmr_10440100022:きゅっ、きゅっ、と膣内に力を込めると肉棒も反応し] line 2 overflows by 4%: "expelled more semen. Then, spent, the customer's strength drained away."
+-  [hmr_10450100012:子宮を刺激されたことで子宮奥が熱くなり、濃厚な愛] line 2 overflows by 5%: 'released thick love juice. Gradually, the pain and discomfort melted away.'
+-  [hmr_10450100012:亀頭先が子宮口を押し上げる度に、脳内に快楽信号が] line 2 overflows by 10%: 'pleasure crashed through her mind, numbing thoughts and stealing all reason.'
+-  [hmr_10450100022:イオラに自覚はないだろうが、その言葉に演技の色は] line 2 overflows by 3%: 'voice. The man grew even more excited, his breathing becoming harsher.'
+-  [hmr_10460100022:男が不意に乳首を摘み、こねくり始めたのである。<] line 2 overflows by 4%: "was a rough caress, but the tingling sensation shook Elmia's entire body."
+-  [hmr_10470100011:はい……実は最近、寝る前になると昔のことを思い出] line 2 overflows by 6%: 'remembering things from my past... and sometimes it keeps me up at night.'
+-  [hmr_10470100012:快感におぼれながらも、強い想いで求めてくるメレム] line 2 overflows by 7%: 'respond to her feelings, I continued kissing her more deeply, more fiercely.'
+-  [hmr_10470100012:彼女の膣奥は、吐き出された精液と、彼女の愛蜜で満] line 2 overflows by 4%: 'Just as I shifted my hips to withdraw, she made a surprising suggestion—'
+-  [hmr_10480100012:普段の態度からは想像できないほど乱れ咲くセレスト] line 2 overflows by 19%: 'attitude—aroused me further, stirring a possessive urge to conquer her completely.'
+-  [hmr_10480100022:興奮した娼館客がセレストの太ももを掴み、強引な挿] line 2 overflows by 3%: 'scraping her inner walls and striking her core. Her chin snapped upward.'
+-  [hmr_10480100022:熱い愛蜜が潤滑油となったのか、男のピストン運動が] line 2 overflows by 3%: 'grew even more intense. Celeste could only moan and writhe in pleasure.'
+-  [hmr_10480100022:セレストの訴えもむなしく、男は夢中で腰を振る。<] line 2 overflows by 2%: "relentless pounding at her core stripped away all of Celeste's thoughts."
+-  [hmr_10490100012:恥じらいながらも期待に満ちた様子でこちらを見つめ] line 2 overflows by 7%: "embarrassment. Unable to hold back any longer, I said, 'I'm going to move.'"
+-  [hmr_10490100022:初めての味に耐えつつ、クロエは必死に口での奉仕を] line 2 overflows by 13%: 'desperately. Though clumsy and hesitant, she served with unwavering devotion.'
+-  [hmr_10490100022:男性へ奉仕すること自体に不慣れだというのに、 <] line 2 overflows by 5%: 'asked to use both hand and mouth simultaneously sent Chloe into a panic.'
+-  [hmr_10500100021:この扉の向こうが、イベント会場よ。ここからは１人] line 2 overflows by 37%: "own, but do your best!♪ But if you think it's too much, don't push yourself and come out, okay?"
+-  [hmr_10500100021:ベティは気合を入れると、扉を開く。<br>直後―] line 2 overflows by 13%: 'over Betty was a suffocating wave of hot air and the moans of men and women.'
+-  [hmr_10500100022:ベティの言葉を遮るようにローターのスイッチを入れ] line 2 overflows by 3%: 'stimulation on her nipples and inside her womanhood left Betty moaning.'
+-  [hmr_10500100022:絶頂の余韻で夢心地だったベティが、不意に思い出す] line 2 overflows by 5%: 'around her were many men and women, and their gazes were fixed on her.'
+-  [hmr_10500100023:大丈夫よ。あなた、司令官さんのお気に入りなんでし] line 2 overflows by 10%: 'courtesans he takes under his wing become top-earners. Hold your head high.'
+-  [hmr_10510100012:フェイリンの体温が低いため、相対的に温かく感じて] line 2 overflows by 6%: 'Conversely, the inside of her vagina was cool, offering a unique sensation.'
+-  [hmr_10510100012:亡くなってすぐにキョンシー化したためか、<br>] line 2 overflows by 4%: 'internal organs still retained some function, allowing her to eat normally.'
+-  [hmr_10510100022:男の動きに合わせ、フェイリンも腰を動かす。<br] line 2 overflows by 5%: 'inner walls trembled in waves of pleasure, tightening around his manhood.'
+-  [hmr_10520100012:膣肉は、こちらの肉棒を奥へ奥へと誘うかのように蠢] line 2 overflows by 6%: "deeper. When I teased, 'Were you that desperate for it?' she looked away."
+-  [hmr_10520100012:自分の身体のことを報告するという状況が恥ずかしい] line 2 overflows by 5%: 'walls undulated and tightened around my cock with every word she spoke.'
+-  [hmr_10520100012:痙攣しながら乱れるシェリルに、いよいよこちらにも] line 2 overflows by 9%: 'approaching. The hot mass swelling deep in my loins burst forth all at once—'
+-  [hmr_10520100012:膣内が、精液を最後の１滴まで絞りつくそうと蠕動し] line 2 overflows by 11%: 'incredible amount of cum was pumped into her, and it was already leaking out.'
+-  [hmr_10530100012:腰と尻肉がぶつかり合う卑猥な音が部屋中に鳴り響く] line 2 overflows by 3%: 'room, stirring them further and making him unconsciously thrust harder.'
+-  [hmr_10540100022:フレイヤは陰茎を丁寧に手で握りながら、舌での奉仕] line 2 overflows by 14%: "Her technique was copied from what she'd seen, but the man seemed to enjoy it."
+-  [hmr_10540100022:尻穴の快感は止まらない。全身に鳥肌が立つ。<br] line 2 overflows by 41%: "her entire body. The man's merciless tongue overwhelmed her, leaving her completely at his mercy."
+-  [hmr_10540100022:フレイヤは尻を少し持ち上げ、男に膣口を舐めやすい] line 2 overflows by 31%: 'easier for the man to lick, then took his penis back into her mouth and resumed sucking him.'
+-  [hmr_10550100013:そんなに暗い顔をしないでください。ムラムラ草の効] line 2 overflows by 17%: "Bloom had started to appear, you worried about me and did your best, didn't you?"
+-  [hmr_10550100022:ふと思い当たることがあり、リタは腰の動きを速めた] line 2 overflows by 7%: 'imagining the pace from when she made love with her beloved in the forest.'
+-  [hmr_10550100022:リタは上下運動に没頭する。<br>頭の中では、森] line 2 overflows by 3%: 'recalled the intense rhythm of their bodies becoming one in the forest—'
+-  [hmr_10550100022:リタは覚悟を決めてラストスパートに入る。１秒ごと] line 2 overflows by 7%: 'second, she tightened her womanhood and rhythmically milked his manhood.'
+-  [hmr_10590100022:肉棒をうまくこすれるように、角度を微調整しながら] line 2 overflows by 7%: 'movements were slow, her inner walls clung tight, heightening his pleasure.'
+-  [hmr_10590100023:司令官様デス。推測デスガ、ランプノ効果ニ差異ヲ感] line 2 overflows by 8%: "THE LAMP'S EFFECT IS DUE TO STEELA'S AFFECTION FOR THE COMMANDER."
+-  [hmr_10600100021:『ここで頑張れば、司令官のためになる――』と聞か] line 2 overflows by 6%: 'to work at the brothel. She changed into her costume and got psyched up.'
+-  [hmr_10610100012:バランスを崩し、窓にもたれかかるような姿勢になっ] line 2 overflows by 4%: 'tore open her blouse, bared her breasts, and pulled down her underwear.'
+-  [hmr_10610100012:勢いよくニナを貫く肉棒の先端は、彼女の子宮口を何] line 2 overflows by 2%: 'impact sent waves of intense pleasure through Nina, drawing loud cries.'
+-  [hmr_10610100013:ハーブティーの葉の入った缶をゴミ箱に入れようとし] line 2 overflows by 3%: 'herbal tea leaves into the trash. She seemed to have noticed something.'
+-  [hmr_10610100021:男はかつてハーブを育てる農夫だったという。<br] line 2 overflows by 3%: 'hometown was destroyed by the Calamity, and he lost his beloved family.'
+-  [hmr_10610100022:男の鼻息が、彼女の股間をくすぐり、ニナもピクッと] line 2 overflows by 7%: 'seemed highly aroused at the sight of her womanhood laid bare before him.'
+-  [hmr_10610100022:男自身、射精の快感に全身を支配され、何も考えられ] line 2 overflows by 3%: 'climax, unable to think of anything. Catching her breath, Nina asked him.'
+-  [hmr_10610100032:ニナは、ぐったりと肩を落として荒れた息を整える。] line 2 overflows by 27%: "breath. The cum she couldn't contain overflowed from the gap where their bodies joined."
+-  [hmr_10620100011:呪いの原因を究明するのは後回しにしましょう。<b] line 2 overflows by 6%: 'Curse is quite troublesome; left unattended, it could be life-threatening...'
+-  [hmr_10620100012:ヒナギはベッドに座らせた<user>に覆い被さっ] line 2 overflows by 6%: 'His manhood stood fully erect, the tip brushing against her slick entrance.'
+-  [hmr_10620100012:ヒナギは慣れない腰つきでゆっくりと動き始める。<] line 2 overflows by 7%: 'desperately suppressing moans as she felt the first pleasure of a manhood.'
+-  [hmr_10620100012:（くっ……このままじゃ、司令官様だけでなく私の身] line 2 overflows by 3%: 'invaded by the curse! Lord Commander... I will not let you die... never...)'
+-  [hmr_10620100012:ヒナギの喘ぎ声が一段と多くなる。気の巡りを吸い取] line 2 overflows by 5%: "draw ki, his manhood's tip pressed insistently against her womb entrance."
+-  [hmr_10620100012:１度絶頂を体験し、男根の悦びを知ってしまったせい] line 2 overflows by 5%: 'womanhood reacted sensitively, flooding her mind with waves of pleasure.'
+-  [hmr_10620100021:人間が持つ邪気を感じるには、その身体に触れるだけ] line 2 overflows by 2%: 'However, only one way existed to perceive the specific ki type in detail.'
+-  [hmr_10620100022:――動揺を悟られてはいけない。冷静に儀式を進めな] line 2 overflows by 13%: 'ceremony calmly. Resolved, Hinagi opened her mouth and began to chant softly.'
+-  [hmr_10620100022:詠唱を中断されては術式を続けられない。<br>こ] line 2 overflows by 38%: 'technique. If the man kept pouring his malign energy directly into her, Hinagi would be in danger.'
+-  [hmr_10620100022:脚に力を込め、ヒナギは腰を上下させていく。<br] line 2 overflows by 3%: "thrust but his manhood was held captive by her walls and couldn't move."
+-  [hmr_10620100022:ヒナギは懸命に腰を動かす。彼女の蜜壺は火傷するか] line 2 overflows by 4%: 'love nectar clung to his manhood as her womanhood squeezed his length.'
+-  [hmr_10620100022:今は術式の最中なのである。気の巡らせ方を一歩間違] line 2 overflows by 2%: 'would make the malign energy run wild, endangering Hinagi and the man.'
+-  [hmr_10620100022:ヒナギは、視線を男の方に向けてその様子を確認する] line 2 overflows by 10%: 'expression had become more peaceful than it had been at their first meeting.'
+-  [hmr_10620100032:ヒナギはそう小さく呟くと、疲労が一気に襲ってきた] line 2 overflows by 3%: 'suddenly struck her, she closed her eyes and drifted into a deep sleep—'
+-  [hmr_10630100011:異性に対して無暗に身体を押し付けるもんじゃない。] line 2 overflows by 9%: 'recklessly, because when you do that, men start to... have naughty thoughts.'
+-  [hmr_10630100012:激しい抽送に、あっというまに上体を反らして達する] line 2 overflows by 4%: 'thrusting. I immediately stopped moving my hips and watched her closely.'
+-  [hmr_10630100012:射精するのと同時に、ホノカも再び絶頂した。先ほど] line 2 overflows by 5%: 'into her pussy, which was milking me with even more intricate movements.'
+-  [hmr_10630100022:無事兵士を捕まえて娼館の個室に引っ張っていったホ] line 2 overflows by 10%: 'room in the brothel, Honoka immediately stared intently at his exposed penis.'
+-  [hmr_10630100022:それだけで、兵士は快感に腰を震わせた。亀頭全体が] line 2 overflows by 8%: 'mouth, combined with the slick, smooth texture of her mouth, was heavenly.'
+-  [hmr_10630100022:すっかり要領を掴んだホノカの手コキフェラに、<b] line 2 overflows by 4%: 'gotten the hang of, the soldier rapidly climbed toward climax. And then—'
+-  [hmr_10630100032:んっ、はぁ……えへへ、司令官に気持ち良くなっても] line 2 overflows by 2%: 'good at, all so I could make the Commander feel good... Mmph... *huff*...'
+-  [hmr_10630100032:上下に身体を揺らしながらも、腰と膣内の微妙な動き] line 2 overflows by 8%: 'movements stimulated my cock, and the unexpected pleasure made me moan.'
+-  [hmr_10630100032:途端、膣内のうねりが最高潮に達する。こちらも堪え] line 2 overflows by 2%: 'unstoppable urge to cum, I thrust upward, aiming for her deepest place.'
+-  [hmr_10630100112:背後から強く腰を突き出し、膣内に陰茎をねじこむ。] line 2 overflows by 6%: 'her pussy. Instantly, her body stiffened and her walls clenched around me.'
+-  [hmr_10640100012:はい、司令官さまがいやではないとおっしゃってくだ] line 2 overflows by 3%: 'inexperienced woman who has never known a man, so I may trouble you...'
+-  [hmr_10640100032:今お前はあの木の実に支配されてるんだと冷静さを取] line 2 overflows by 6%: 'fruit, but Ramona ignores me and presses her pussy against me even more.'
+-  [hmr_10640100032:自分から腰を落としてきたラモーナの中に、陰茎がす] line 2 overflows by 3%: 'swallowed inside her. Her pussy was hotter than usual and much tighter.'
+-  [hmr_10650100011:大穴なんていう常識の通じない場所で、教科書通りの] line 2 overflows by 42%: "Abyss where common sense doesn't apply? A Commander's job isn't to increase needless casualties!"
+-  [hmr_10650100012:膣内を緩やかにこすり、負担のないように快感を送り] line 2 overflows by 4%: 'carefully stimulated sensitive spots—behind clit, lower belly, deep inside.'
+-  [hmr_10650100012:ソフィアの身体が跳ねると共に、熱い蜜でぐちゃぐち] line 2 overflows by 6%: 'Surrendering to that ultimate pleasure, I released my cum deep inside her.'
+-  [hmr_10650100032:ソフィアは煽るように声音と共に、きゅっと膣内を締] line 2 overflows by 3%: "Her words weren't empty; her walls clung snugly around my entire shaft."
+-  [hmr_10650100032:しかし、最も驚いたのは技術の向上ではない、と言い] line 2 overflows by 14%: 'technique, but that the serious Sophia was so boldly taking the lead against me.'
+-  [hmr_10650100032:息が合わさった動きに、膨らんでいく快感。<br>] line 2 overflows by 5%: "ecstasy I'd been holding back finally overflowed from the tip of my cock—"
+-  [hmr_10660100012:もっともっとヒマリを気持ち良くさせたい、可愛い姿] line 2 overflows by 3%: 'expression. With that single thought, I kept thrusting into her very core.'
+-  [hmr_10660100022:羞恥心とは裏腹に、ヒマリの身体は性的な行為に反応] line 2 overflows by 4%: 'whole body was damp with sweat, and her nipples were swollen and erect.'
+-  [hmr_10660100022:肉棒と擦れ合っている胸を中心に、じんわりと身体が] line 2 overflows by 8%: 'rubbed against his length. Her breath grew hot, and beads of sweat formed.'
+-  [hmr_10660100022:胸に密着している肉棒の熱を感じて、乳首がじんじん] line 2 overflows by 7%: 'nipples throbbed. Before she knew it, she was rubbing her thighs together.'
+-  [hmr_10660100022:羞恥心で身を焼きながら、密かに悶えるヒマリ。胸へ] line 2 overflows by 2%: 'and the musky pre-cum smell intensified the pleasure numbing her body.'
+-  [hmr_10660100032:花弁を肉棒に押し当てるヒマリ。そのまま腰を巧みに] line 2 overflows by 3%: 'skillfully, making a *slide*, *slide* sound as her slit teased whole length.'
+-  [hmr_10660100032:やはり今日のヒマリは一味違った。健気なのはいつも] line 2 overflows by 10%: 'expression held a bewitching allure. I was captivated as she wiggled her hips.'
+-  [hmr_10670100012:膣奥から愛蜜が滲み出し陰茎を包み込む。待機し続け] line 2 overflows by 6%: "couldn't wait any longer; I told her I'd move and put strength into my hips."
+-  [hmr_10670100012:１度絶頂を迎えたクルルの身体は敏感で、反応しやす] line 2 overflows by 7%: 'With each thrust, her whole body trembled and she released sweet breaths.'
+-  [hmr_10670100012:ひときわ強く腰を突き入れ、クルルの膣奥へと熱い精] line 2 overflows by 4%: 'deep inside Kururu, she threw her head back and collapsed onto the bed.'
+-  [hmr_10670100021:男性は『せーし』を出すと、幸せになる。<br>ク] line 2 overflows by 10%: 'happy. She wanted to make more happy people at Forward Base, even a little.'
+-  [hmr_10670100032:そもそも身体が小さいクルルの膣内は狭く、膣道も浅] line 2 overflows by 4%: 'shallow. The tip quickly reached deep, pressing firmly against her cervix.'
+-  [hmr_10680100022:ただ感じていることすらも褒められる。何をしても肯] line 2 overflows by 4%: "affirmed. Shiraes's warmth and devotion healed the man in no time at all."
+-  [hmr_10770100012:メリッサの瞳には、初体験の不安と、快感への期待が] line 2 overflows by 8%: 'anticipation of pleasure. I gently pressed my cock against her wet entrance.'
+-  [hmr_10770100012:最後の一突きでメリッサは身体をのけぞらせてピクピ] line 2 overflows by 4%: 'shuddering. As she climaxed, I released a torrent of cum deep inside her.'
+-  [hmr_10770100022:弾力のあるメリッサの胸が両側から手で押し付けられ] line 2 overflows by 3%: "hands, molding them to envelop the customer's manhood in their warmth."
+-  [hmr_10770100022:湯に浸かったメリッサの体温と胸肉の弾力が肉棒に伝] line 2 overflows by 18%: "breasts transferred to his manhood, and the customer's face showed pure ecstasy."
+-  [hmr_10770100022:メリッサの動きが大きくなったことで湯船に波紋が広] line 2 overflows by 9%: 'Water sounds mingled with his pleased moans, weaving an erotic atmosphere.'
+-  [hmr_10770100022:豊かな胸によるパイズリと、舌先での懸命な愛撫。<] line 2 overflows by 15%: "tongue were clumsy, but her earnestness only stoked the customer's excitement."
+-  [hmr_10770100022:舐めるのを中断して、客の希望をうかがう。<br>] line 2 overflows by 8%: 'that he wanted her to keep licking the tip. That seemed to be the best spot.'
+-  [hmr_10770100032:快感を引き出そうとするように、先ほどより速いテン] line 2 overflows by 25%: 'hot-spring-heated skin rubbed together, sending pleasure crashing from inside and out.'
+-  [hmr_10770100032:すごく気持ちいい――と、素直な感想を忖度なく伝え] line 2 overflows by 4%: 'Wrapped in a wave of heat, I felt my sanity consumed along with my body.'
+-  [hmr_10770100032:快楽に突き動かされるようにメリッサの腰の動きが速] line 2 overflows by 7%: 'hot-spring-wet skin rubbing fiercely together, setting a passionate rhythm.'
+-  [mas_1001010102:情報集約の為に自分たちの目で調査する必要があるの] line 2 overflows by 21%: "information. But what's the reason for the Commander himself going on this mission?"
+-  [mas_1001010102:規律正しい隊列を組んで、周囲の危険や奇襲に備える] line 2 overflows by 3%: 'sense! You were worried about separation and disappearances yourself!'
+-  [mas_1001010401:さらに異物の中には、何に使うのかすら分からない、] line 2 overflows by 4%: "purpose is completely unknown—objects that can't even be given a price!"
+-  [mas_1001010402:（なんだかんだ、前より戦闘の連携がとれてる気がす] line 2 overflows by 10%: "before. They're covering each other's strengths and weaknesses. Good sign.)"
+-  [mas_1001010801:司令官。私の技術を活用すれば、前線基地の防衛施設] line 2 overflows by 16%: "strengthen the frontline base's defensive installations—would you be interested?"
+-  [mas_1001020201:氷や冷気を構成するマナ、および分子結合を共鳴させ] line 2 overflows by 2%: 'bonds that make up ice and cold air, scattering the Calamity at its root.'
+-  [men_10010100001:店主殿！　もしやこれは、つぶあんとこしあんを混ぜ] line 2 overflows by 7%: "paste? Just as I thought! Fufu, I'm good at identifying sweets' ingredients!"
+-  [men_10050100001:ご安心ください。以前アーデルハイトさんに行い大変] line 2 overflows by 4%: 'previously, and it was well-received. Now then, I shall begin. 3, 2, 1. Fire.'
+-  [men_10070100003:マジ卍で、ガチ恋！　アゲアゲで、ギガントかわちい] line 2 overflows by 7%: "Honestly, it's super good—we're more than friends—I feel a trendy destiny!"
+-  [men_10120100003:大きな力は、時に大切なものまで全て壊してしまいま] line 2 overflows by 3%: 'Hunting Brigade is to precisely hunt the unnecessary without harming it.'
+-  [men_10140100002:この世界に元々あった技術と、ぼく達転移者の持ち込] line 2 overflows by 11%: 'brought—their fusion lets us face huge enemies every day! Pretty cool, right?'
+-  [men_10240100002:助かったぜ……さすがのオレも、葉っぱを食っちまう] line 2 overflows by 6%: "leaf-eaters—they're my natural enemy. Anyway, big bro, you saved my life!"
+-  [men_10260100002:この氷の薔薇は、美しい花が儚く散るからこそ価値が] line 2 overflows by 31%: 'vanishes so fleetingly... It is a work of art meant to be savored for that momentary sparkle.'
+-  [men_10290100003:大穴で見つけた木の実の“ほろ苦さ”とマーケットで] line 2 overflows by 18%: "the Market... It was hard to balance them, but Mil's happy with how it turned out!♪"
+-  [men_10360100001:戦場では、些細な連携ミスが命取りになるわ。そうな] line 2 overflows by 5%: 'Everyone, thoroughly drill these formations into your heads. Understood?'
+-  [men_10390100001:教会では聞けない、皆さんの本当の声が、ここでは聞] line 2 overflows by 4%: 'church. Their worries and complaints are also important heartfelt voices.'
+-  [men_10390100001:いつでも神は、頑張る方のお味方です。神の導きに従] line 2 overflows by 8%: 'guidance, my humble duty is to give everyone a nudge in the right direction.'
+-  [men_10500100002:いやはや、わたし、司令官殿と出会ってから何もかも] line 2 overflows by 6%: "happy! So for the next reward, I'd like to be with you... that would be nice."
+-  [men_10510100002:迷子になりそうってのもあるんですが……。実は最近] line 2 overflows by 7%: 'something—just holding your hand, Master, brings a gentle warmth into me.'

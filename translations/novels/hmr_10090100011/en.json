@@ -19,7 +19,7 @@
     "ききき、騎乗位っ！？　えーと、女性が上に乗る、アレでしょ！？<br>そ、そんな方法で……！？": "C-c-c-cowgirl!? Um, where the girl gets on top, right!?<br>Th-that's how you did it...!?<br> ",
     "あなたにはちょっと難しいかもね？ <br>ま、精々頑張るといいわ～♪": "Might be a little too much for you, though~<br>Well, good luck with that~♪<br> ",
     "あ、あの女……！ <br>覚えてなさいよ、次は絶対にうちが勝つんだから……！": "Th-that woman...!<br>Just you wait, I'll definitely beat you next time...!<br> ",
-    "強く拳を握り、ぐぬぬと歯ぎしりをするレヴィエーヌ。 <br>そんな彼女に<user>が声をかける。": "Levienne clenched her fists, grinding her teeth.<br>%user% approached and called out to her.<br> ",
+    "強く拳を握り、ぐぬぬと歯ぎしりをするレヴィエーヌ。 <br>そんな彼女に<user>が声をかける。": "Levienne clenched her fists, grinding her teeth.<br><user> approached and called out to her.<br> ",
     "レヴィエーヌ、残念だったな。": "Levienne, tough break.<br> ",
     "えっ……あんた、見に来てたの？": "Wha... you came to watch?<br> ",
     "レヴィエーヌの応援に来たんだが……あっちもなかなか凄腕だったな。<br>まあ、お前ならすぐに超えられるさ。これからも応援してるぞ。": "Came to cheer you on, but... she was really good too.<br>You'll surpass her in no time. I'll keep rooting for you.<br> ",
@@ -27,5 +27,5 @@
     "……？ <br>あ、ああ、もちろん。": "...?<br>Y-yeah, of course.<br> ",
     "ならっ！　今からレッスンに付き合って！<br>うちのダンスに何が足りないか分かったの！": "Then! Help me practice right now!<br>I figured out what my dance is missing!<br> ",
     "え、えええっ！？ <br>えええええええええ！？": "Wh-whaaat!?<br>Whaaaaaaaat!?<br> ",
-    "レヴィエーヌは<user>の腕を強く掴み、<br>引きずるようにして２階の個室へと駆け出した――　": "Levienne grabbed %user%'s arm tightly<br>and practically dragged him to a private room upstairs——<br> "
+    "レヴィエーヌは<user>の腕を強く掴み、<br>引きずるようにして２階の個室へと駆け出した――　": "Levienne grabbed <user>'s arm tightly<br>and practically dragged him to a private room upstairs——<br> "
 }
