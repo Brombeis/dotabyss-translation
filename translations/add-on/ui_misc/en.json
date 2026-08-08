@@ -4697,5 +4697,8 @@
     "魔術の発展のためにも\n魔石の解析は重要課題。\n優先的に回していただける？": "For the advancement\nof magic, analyzing magic\nstones is a key priority.\nCould you make this a priority?",
     "<color=#6B8CFF>紋章：衝撃</color>キャラの攻撃力、防御力、最大HP、通常回復が【<color=#4CF37B>{0}%</color>】上昇": "<line-height=60%>Increases <color=#6B8CFF>Crest: Impact</color> Allies' ATK, DEF, Max HP, and Base Recovery by [<color=#4CF37B>{0}%</color>]",
     "この依頼では以下の紋章を持つキャラを編成することで<br>より強力なサポートを受けることができます。": "<cspace=-0.05em><size=90%>You can receive more powerful support by including<br>allies with the following crests.",
-    "ペルディオンの協力者": "<line-height=60%>Perdion's Collaborator"
+    "ペルディオンの協力者": "<line-height=60%>Perdion's Collaborator",
+    "10秒ごとに光闇無属性の味方に紋章：衝撃を【{[n1]}】付与": "<size=80%><cspace=-0.1em>Every 10 seconds, grants [{[n1]}] <color=#6B8CFF>Crest: Impact</color> to Light, Dark, and None allies",
+    "大丈夫ですか……？\\nまずは水分補給をしましょう": "Are you okay...?\\nLet's start hydrating first",
+    "プレイヤーレベルLV{0}到達記念": "Player Lv{0} Commemoration!"
 }
