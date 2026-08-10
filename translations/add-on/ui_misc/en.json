@@ -3186,7 +3186,7 @@
     "アイテム一覧": "Item list",
     "ヘルプ": "Help",
     "ログインボーナス": "Login bonus",
-    "データ連携": "Data linkage",
+    "データ連携": "<line-height=60%>Data linkage",
     "タイトルに戻る": "Return to title",
     "一括ダウンロード": "Bulk download",
     "ゲーム終了": "Quit game",
@@ -4700,5 +4700,6 @@
     "ペルディオンの協力者": "<line-height=60%>Perdion's Collaborator",
     "10秒ごとに光闇無属性の味方に紋章：衝撃を【{[n1]}】付与": "<size=80%><cspace=-0.1em>Every 10 seconds, grants [{[n1]}] <color=#6B8CFF>Crest: Impact</color> to Light, Dark, and None allies",
     "大丈夫ですか……？\\nまずは水分補給をしましょう": "Are you okay...?\\nLet's start hydrating first",
-    "プレイヤーレベルLV{0}到達記念": "Player Lv{0} Commemoration!"
+    "プレイヤーレベルLV{0}到達記念": "Player Lv{0} Commemoration!",
+    "コード発行": "<line-height=60%>Issue code"
 }
