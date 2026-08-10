@@ -2231,7 +2231,7 @@
     "依頼イベント": "<line-height=60%>Request\nEvent",
     "スコア状況": "<line-height=60%>Score Status",
     "記録なし": "No record",
-    "イベント効果": "<cspace=-0.1em><size=80%>Event Effects",
+    "イベント効果": "<line-height=60%>Event Effects",
     "編成バフ情報": "Buff Info.",
     "クエストごとに紋章：情熱の付与など、様々な効果が発生します。（内容はクエスト詳細で確認できます。）": "<cspace=-0.05em><size=90%>Each quest triggers various effects, such as granting Crest: Zeal. (Check the details in quest description.)",
     "紋章：情熱を持つキャラを5～9人編成": "<cspace=-0.05em>Form a party of 5 to 9 with Crest: Zeal trait",
