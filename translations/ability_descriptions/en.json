@@ -499,5 +499,20 @@
     "対象に喪失【{[n1]}秒 / 成功率:50%】を付与 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、味方バック全体に喪失状態の敵に対して与ダメージUP【{[n2]} / 15秒】を付与": "Inflicts Loss [{[n1]} seconds / Success Rate: 50%] on target / Consumes 5 <color=#6B8CFF>Crest: Impact</color> to grant all Back allies Damage Dealt UP against enemies in Loss state [{[n2]} / 15 seconds]",
     "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃が【5HIT / 合計{[n1]}】ダメージ / 喪失【{[n2]}秒 / 成功率:30%】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Normal Attack 2 times\n[Effect] Changes the next Normal Attack to [5HIT / {[n1]} total] damage / Inflicts Loss [{[n2]} seconds / Success Rate: 30%] / Grants self <color=#6B8CFF>Crest: Impact</color> [1]",
     "味方バック全体の会心率が【{[n1]}】上昇 / 自身が付与する喪失耐性DOWNが【{[n2]}】上昇": "Increase all Back allies' Critical Hit Rate by [{[n1]}] / Increases Loss Resistance Down inflicted by self by [{[n2]}]",
-    "【発動条件】通常攻撃を2回\\n【効果】次回の通常攻撃が【5HIT / 合計{{[n1]}}】ダメージ / 喪失【{{[n2]}秒} / 成功率:30%】を付与 / 自身に紋章：衝撃を【1】付与に変化": "[Trigger] Normal Attack 2 times\\n[Effect] Changes the next Normal Attack to [5HIT / {[n1]} total] damage / Inflicts Loss [{[n2]} seconds / Success Rate: 30%] / Grants self <color=#6B8CFF>Crest: Impact</color> [1]"
+    "【発動条件】通常攻撃を2回\\n【効果】次回の通常攻撃が【5HIT / 合計{{[n1]}}】ダメージ / 喪失【{{[n2]}秒} / 成功率:30%】を付与 / 自身に紋章：衝撃を【1】付与に変化": "[Trigger] Normal Attack 2 times\\n[Effect] Changes the next Normal Attack to [5HIT / {[n1]} total] damage / Inflicts Loss [{[n2]} seconds / Success Rate: 30%] / Grants self <color=#6B8CFF>Crest: Impact</color> [1]",
+    "巻貝百華": "Conch Shell Blossoms",
+    "HPが最も低い敵を中心とした範囲内にいる敵全体に対象に炎上【{[n1]}秒 / 成功率:50%】を付与 / 【5HIT / 合計{[n2]}】ダメージ": "Apply Burn [{[n1]} seconds / Success Rate: 50%] to all enemies within an area centered on the enemy with the lowest HP / Deal [5HIT / Total {[n2]}] damage",
+    "炎上状態の敵に対してダメージ倍率が【{[n1]}】上昇": "Increases damage multiplier by [{[n1]}] against enemies in Burn state",
+    "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{{[n1]}秒} / 成功率:30%】を付与 / 自身に<color=#FF5050>紋章：情熱</color>を【1】付与に変化": "[Trigger] 2 normal attacks\n[Effect] Next normal attack also inflicts Burn [{[n1]} seconds / Success Rate: 30%] / Changes to grant self [1] <color=#FF5050>Crest: Zeal</color>",
+    "自身に<color=#FF5050>紋章：情熱</color>が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{[n2]}】を付与【累積 / 最大20%】": "When self gains <color=#FF5050>Crest: Zeal</color>, grant self Damage Dealt UP against Burnt enemies [{[n2]}] [Stacks / Max 20%]",
+    "灼熱サマー": "Scorching Summer",
+    "海辺の焼き入れ": "Quenching by the Sea",
+    "真夏の直感": "Midsummer Intuition",
+    "【条件】<color=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/20秒】を付与": "<size=90%><cspace=-0.05em>[Condition] Allies with <color=#6B8CFF>Crest: Impact</color> of 5 or higher\\n[Effect] Increases Poison damage × number of participants / Inflicts ATK DOWN [20%/20 seconds] on all enemies",
+    "【条件】<color=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【25秒】を付与": "[Condition] Allies with <color=#FF5050>Crest: Zeal</color> of 5 or higher\\n[Effect] Grants all allies a 10% damage boost × number of participants [25 seconds]",
+    "30秒に1回、自身に紋章：情熱を【1】付与。紋章：情熱1ごとに、自身の防御力【2%】UP": "Once every 30 seconds, applies Crest: Zeal [1] to self. For each 1 Crest: Zeal, increases self DEF by [2%]",
+    "会心率【20%】上昇。敵を倒したとき、2%の確率で、火・水・土属性の味方バック全体に紋章：情熱を【1】付与（1編成につき1本分のみ効果発動）": "Increases Critical Rate by [20%]. On defeating an enemy, 2% chance to apply Crest: Zeal [1] to all Fire, Water, and Soil back-row allies (only one copy active per team)",
+    "敵にダメージを与えたとき、30%の確率で、ランダムで2体に稲妻で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with lightning on 2 random enemies",
+    "敵にダメージを与えたとき、30%の確率で、最も近い敵に隕石で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with meteor strike to nearest enemy",
+    "紋章：衝撃が消費されたとき、15秒間味方バック全体のスキルチャージ効率【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increases all back-row allies' skill charge efficiency by [10%] for 15 seconds (only one copy active per team)"
 }
