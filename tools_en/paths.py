@@ -11,10 +11,6 @@ NOVELS_DIR = os.path.join(TRANSLATIONS, "novels")
 NAMES_DIR = os.path.join(TRANSLATIONS, "names")
 MANIFEST_PATH = os.path.join(TRANSLATIONS, "manifest", "en.json")
 
-# Which lines are NOT plain two-line dialogue. Only the exceptions are listed —
-# 97.5% of lines are message/l2dmessage, which is what wrap_en.py assumes by
-# default. Written by extract_story.py (the bundles are the only source for it),
-# read by wrap_en.py in CI where no bundles exist.
 WRAP_EXCEPTIONS_PATH = os.path.join(REPO_ROOT, "data", "wrap_exceptions.json")
 
 SCENE_PREFIXES = ("mas", "hmr", "hmn", "men", "evs")
@@ -36,15 +32,10 @@ def _write(path, text):
         fh.write(text)
 
 
-def save_novel_json(path, data):
-    """novels/<id>/{ja,en}.json — indent=4, no trailing newline (Weblate's output)."""
-    _write(path, json.dumps(data, ensure_ascii=False, indent=4))
-
-
 def save_indented_json(path, data):
-    """names/{ja,en}.json and data/wrap_exceptions.json — indent=4 with a trailing newline."""
     _write(path, json.dumps(data, ensure_ascii=False, indent=4) + "\n")
 
+save_novel_json = save_indented_json
 
 def save_manifest(data):
     """manifest/en.json — single line, no indent, no trailing newline."""
