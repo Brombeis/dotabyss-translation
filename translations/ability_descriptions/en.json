@@ -514,5 +514,6 @@
     "会心率【20%】上昇。敵を倒したとき、2%の確率で、火・水・土属性の味方バック全体に紋章：情熱を【1】付与（1編成につき1本分のみ効果発動）": "Increases Critical Rate by [20%]. On defeating an enemy, 2% chance to apply Crest: Zeal [1] to all Fire, Water, and Soil back-row allies (only one copy active per team)",
     "敵にダメージを与えたとき、30%の確率で、ランダムで2体に稲妻で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with lightning on 2 random enemies",
     "敵にダメージを与えたとき、30%の確率で、最も近い敵に隕石で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with meteor strike to nearest enemy",
-    "紋章：衝撃が消費されたとき、15秒間味方バック全体のスキルチャージ効率【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increases all back-row allies' skill charge efficiency by [10%] for 15 seconds (only one copy active per team)"
+    "紋章：衝撃が消費されたとき、15秒間味方バック全体のスキルチャージ効率【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increases all back-row allies' skill charge efficiency by [10%] for 15 seconds (only one copy active per team)",
+    "攻撃力【20%】上昇、紋章：衝撃が消費されたとき、バック全体の会心率【5%】UP【累積 / 最大30%】（1編成につき1本分のみ効果発動）": "Increases ATK by [20%]. When Crest: Impact is consumed, increases all back allies' Critical Rate by [5%] [Stackable / Max 30%] (only one copy active per team)"
 }
