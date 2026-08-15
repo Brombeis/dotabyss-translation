@@ -515,5 +515,14 @@
     "敵にダメージを与えたとき、30%の確率で、ランダムで2体に稲妻で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with lightning on 2 random enemies",
     "敵にダメージを与えたとき、30%の確率で、最も近い敵に隕石で追撃を行う": "On dealing damage to an enemy, 30% chance to follow up with meteor strike to nearest enemy",
     "紋章：衝撃が消費されたとき、15秒間味方バック全体のスキルチャージ効率【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increases all back-row allies' skill charge efficiency by [10%] for 15 seconds (only one copy active per team)",
-    "攻撃力【20%】上昇、紋章：衝撃が消費されたとき、バック全体の会心率【5%】UP【累積 / 最大30%】（1編成につき1本分のみ効果発動）": "Increases ATK by [20%]. When Crest: Impact is consumed, increases all back allies' Critical Rate by [5%] [Stackable / Max 30%] (only one copy active per team)"
+    "攻撃力【20%】上昇、紋章：衝撃が消費されたとき、バック全体の会心率【5%】UP【累積 / 最大30%】（1編成につき1本分のみ効果発動）": "Increases ATK by [20%]. When Crest: Impact is consumed, increases all back allies' Critical Rate by [5%] [Stackable / Max 30%] (only one copy active per team)",
+    "魔眼の解放": "Demonic Eye Unleashed",
+    "ダメージを与えたとき、【50%】の確率で自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{[n1]}】上昇": "On dealing damage to an enemy, [50%] chance to grant [1] <color=#6B8CFF>Crest: Impact</color> to self / Increases damage dealt to enemies under debuff by [{[n1]}]",
+    "刻まれし烙印": "Engraved Brand",
+    "闇の因子の覚醒": "Dark Factor Awakening",
+    "終焉の断罪": "Final Judgment",
+    "HPが最も高い敵1体に【3HIT / 合計{[n1]}】ダメージ / 継続ダメージ【50% / 15秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Deals [3 HITS / Total {[n1]}] damage to the enemy with the highest HP / Inflicts [50% / 15 seconds] of ongoing damage / Grant <color=#6B8CFF>Crest: Impact</color> [1] to self",
+    "<color=#6B8CFF>紋章：衝撃</color>を5消費し、対象に攻撃力DOWN【{[n1]} / 15秒】と防御力DOWN【{[n2]} / 15秒】を付与": "Consumes 5 <color=#6B8CFF>Crest: Impact</color> and inflicts ATK DOWN [{[n1]} / 15 seconds] and DEF DOWN [{[n2]} / 15 seconds] to the target",
+    "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{[n1]}】ダメージ/ 被ダメージUP【{[n2]} / 10秒】を付与": "[Trigger] Once every 20 seconds\n[Effect] Deals [1 HIT / Total {[n1]}] damage to the enemy with the highest HP / Applies [{[n2]} / 10 seconds] damage taken increase",
+    "自身の攻撃力が【{[n1]}】上昇 / 20秒に1回、マナを【{[n2]}】チャージ": "Increases self ATK by [{[n1]}] / Recharges Mana by [{[n2]}] every 20 seconds"
 }
