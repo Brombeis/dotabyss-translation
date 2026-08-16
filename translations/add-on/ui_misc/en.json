@@ -4750,5 +4750,13 @@
     "深淵より這い出し者": "One Who Crawled from the Abyss",
     "夏限定・ぬるぬる清涼コース": "<cspace=-0.05em>Summer-Only Slippery Refreshing Course",
     "肉体に刻まれし黒き烙印": "Black Brand Etched on the Body",
-    "水の階層の採掘に志願した、小国の王位継承者。\n水着を隠密用迷彩『海獣迷彩』と言い張り、デザイン料を盛った特注ピッケル『アビス・ピアシンガー』を手にする。\n泳ぐのが苦手なため、浮き輪を着用。\n相変わらずの中二病全開だが、中身はただのコミュ障なお嬢様。": "The heir to the throne of a small country who volunteered to mine the Water Tier. \nShe insists her swimsuit is a stealth camouflage pattern called “Sea Beast Camouflage” and carries a custom-made pickaxe called “Abyss Piercer,” for which she paid a hefty design fee. \nSince she’s not a strong swimmer, she wears a swim ring. \nShe’s still fully immersed in her “middle-schooler syndrome,” but deep down, she’s just a socially awkward young lady."
+    "水の階層の採掘に志願した、小国の王位継承者。\n水着を隠密用迷彩『海獣迷彩』と言い張り、デザイン料を盛った特注ピッケル『アビス・ピアシンガー』を手にする。\n泳ぐのが苦手なため、浮き輪を着用。\n相変わらずの中二病全開だが、中身はただのコミュ障なお嬢様。": "The heir to the throne of a small country who volunteered to mine the Water Tier. \nShe insists her swimsuit is a stealth camouflage pattern called “Sea Beast Camouflage” and carries a custom-made pickaxe called “Abyss Piercer,” for which she paid a hefty design fee. \nSince she’s not a strong swimmer, she wears a swim ring. \nShe’s still fully immersed in her “middle-schooler syndrome,” but deep down, she’s just a socially awkward young lady.",
+    "【水着】ヘイリーの日常その{[n1]}": "<cspace=-0.05em>[Swimsuit] Hailey's Daily Life Pt. {[n1]}",
+    "被ダメージが{[n1]}上昇する状態": "Damage taken increased by {[n1]}",
+    "ステラレコードの力を得た状態": "Empowered by Stella Record",
+    "喪失耐性が{[n1]}減少する状態": "Damage resistance reduced by {[n1]}",
+    "エレメンタルブラスト": "Elemental Blast",
+    "現在のパーティ編成は\\n前回クリアした際の特攻合計と異なります。": "Current party's Bonus differs from the previous clear.",
+    "3秒ごとにダメージを受ける状態": "Take damage every 3 seconds",
+    "スキップする際に特効合計を更新する場合、\\n現在のパーティで一度ステージを\\nクリアする必要があります。": "To update the Bonus when skipping,\\nyou must clear the stage once with the current party."
 }
