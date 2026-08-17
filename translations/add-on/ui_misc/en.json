@@ -2366,7 +2366,7 @@
     "マンスリー無料パック": "Monthly Free Pack",
     "[無償]アビスジェム×10\nうれしいプレゼント×1": "[Free] Abyss Gems ×10\nNice Present ×1",
     "デイリー無料パック": "Daily Free Pack",
-    "ミレスガルドの協力者": "Millesgard's Collaborator",
+    "ミレスガルドの協力者": "<line-height=60%>Millesgard's Collaborator",
     "未鑑定": "Unidentified",
     "連撃率上昇": "Success Rate UP",
     "攻撃上昇": "Attack UP",
@@ -4758,5 +4758,10 @@
     "エレメンタルブラスト": "Elemental Blast",
     "現在のパーティ編成は\\n前回クリアした際の特攻合計と異なります。": "Current party's Bonus differs from the previous clear.",
     "3秒ごとにダメージを受ける状態": "Take damage every 3 seconds",
-    "スキップする際に特効合計を更新する場合、\\n現在のパーティで一度ステージを\\nクリアする必要があります。": "To update the Bonus when skipping,\\nyou must clear the stage once with the current party."
+    "スキップする際に特効合計を更新する場合、\\n現在のパーティで一度ステージを\\nクリアする必要があります。": "To update the Bonus when skipping,\\nyou must clear the stage once with the current party.",
+    "【水着】ホノカ＆【水着】ヘイリー Lv85": "S.Honoka & S.Hailey Lv85",
+    "天上神のツルハシ": "Celestial God's Pickaxe",
+    "紋章：衝撃が消費されたとき、15秒間光属性の味方全体の連撃率【5%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increase all Light allies' Combo Rate by [5%] for 15 seconds (only one copy per party)",
+    "【水着】ホノカ＆【水着】ヘイリー LV{0}をクリアで開放": "Clear S.Honoka & S.Hailey Lv{0}",
+    "天上神の権能：ピッケル": "<cspace=-0.1em>Celestial Power: Pickaxe"
 }
