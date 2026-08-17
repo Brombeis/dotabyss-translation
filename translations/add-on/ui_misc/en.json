@@ -4763,5 +4763,18 @@
     "天上神のツルハシ": "Celestial God's Pickaxe",
     "紋章：衝撃が消費されたとき、15秒間光属性の味方全体の連撃率【5%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increase all Light allies' Combo Rate by [5%] for 15 seconds (only one copy per party)",
     "【水着】ホノカ＆【水着】ヘイリー LV{0}をクリアで開放": "Clear S.Honoka & S.Hailey Lv{0}",
-    "天上神の権能：ピッケル": "<cspace=-0.1em>Celestial Power: Pickaxe"
+    "天上神の権能：ピッケル": "<cspace=-0.1em>Celestial Power: Pickaxe",
+    "定期購入一覧": "<cspace=-0.13em><size=90%>Monthly Pass List",
+    "<cspace=-0.1em>アビスジェム</cspace>詳細": "<cspace=-0.13em><size=90%>Abyss Gem Details",
+    "鏡影の回廊(後半)": "<cspace=-0.1em><line-height=60%>Corridor of Reflection (Pt.2)",
+    "鏡影の回廊(前半)": "<cspace=-0.1em><line-height=60%>Corridor of Reflection (Pt.1)",
+    "・有償アビスジェムの利用期限は購入した日から150日後の23時59分までとなります。\n・有償アビスジェム、無償アビスジェムの両方を所持していた場合、無償アビスジェムから優先的に消費されます。\n・有償アビスジェムは購入日の古いものから優先的に消費されます。\n・有償アビスジェムの払い戻しはできません。\n・使用期限の切れた有償アビスジェムは削除されます。\n・アビスジェムから取得した、その他のアイテム等は取得をもってこれにかかる商品及びサービスの提供がされたものとし資金決済法の定める前払式支払手段には該当しません。": "<cspace=-0.05em><size=90%><line-height=80%>・Paid Abyss Gems expire at 11:59 PM, 150 days after the date of purchase.\n・If you possess both paid and free Abyss Gems, the free Abyss Gems will be consumed first.\n・Paid Abyss Gems will be consumed in order of purchase date, starting with the oldest.\n・Paid Abyss Gems are non-refundable. \n・Paid Abyss Gems that have expired will be deleted.\n・Items and other goods obtained from Abyss Gems are deemed to have been provided upon acquisition and do not qualify as prepaid payment instruments as defined by the Payment Services Act.",
+    "購入履歴はありません。": "No purchase details.",
+    "合計": "Total",
+    "内訳": "Breakdown",
+    "利用規約": "Terms of Services",
+    "利用期限": "Expiration Date",
+    "アビスジェム詳細": "Abyss Gem Details",
+    "ウィークリー無料パック": "Weekly Free Pack",
+    "[無償]アビスジェム×50\nスタミナ回復(小)×1": "[Free] Abyss Gem ×50\nStamina Recovery Potion (S) ×1"
 }
