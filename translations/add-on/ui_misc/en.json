@@ -3819,7 +3819,7 @@
     "クイック選択": "<cspace=-0.05em>Quick Select",
     "ミッションパス購入": "Purchase Mission Pass",
     "DMM<size=24>ポイント</size>": "DMM<size=24>Point</size>",
-    "ボス挑戦券を消費して ステージをスキップします。": "Use Challenge Ticket to skip Boss Stage.",
+    "ボス挑戦券を消費して ステージをスキップします。": "Use Boss Ticket to skip the stage.",
     "ペルディオンSTAGE{[n1]}": "<size=90%>Perdion STAGE{[n1]}",
     "千国連合STAGE{[n1]}": "<size=90%>Coalition STAGE{[n1]}",
     "ミレスガルドSTAGE{[n1]}": "<size=90%>Millesgard STAGE{[n1]}",
@@ -4777,5 +4777,6 @@
     "アビスジェム詳細": "Abyss Gem Details",
     "ウィークリー無料パック": "Weekly Free Pack",
     "[無償]アビスジェム×50\nスタミナ回復(小)×1": "[Free] Abyss Gem ×50\nStamina Recovery Potion (S) ×1",
-    "ウィークリー報酬を受け取りました": "Obtained weekly rewards"
+    "ウィークリー報酬を受け取りました": "Obtained weekly rewards",
+    "ボス挑戦券": "<cspace=-0.1em>Boss Ticket"
 }
