@@ -524,5 +524,12 @@
     "HPが最も高い敵1体に【3HIT / 合計{[n1]}】ダメージ / 継続ダメージ【50% / 15秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Deals [3 HITS / Total {[n1]}] damage to the enemy with the highest HP / Inflicts [50% / 15 seconds] of ongoing damage / Grant <color=#6B8CFF>Crest: Impact</color> [1] to self",
     "<color=#6B8CFF>紋章：衝撃</color>を5消費し、対象に攻撃力DOWN【{[n1]} / 15秒】と防御力DOWN【{[n2]} / 15秒】を付与": "Consumes 5 <color=#6B8CFF>Crest: Impact</color> and inflicts ATK DOWN [{[n1]} / 15 seconds] and DEF DOWN [{[n2]} / 15 seconds] to the target",
     "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{[n1]}】ダメージ/ 被ダメージUP【{[n2]} / 10秒】を付与": "[Trigger] Once every 20 seconds\n[Effect] Deals [1 HIT / Total {[n1]}] damage to the enemy with the highest HP / Applies [{[n2]} / 10 seconds] damage taken increase",
-    "自身の攻撃力が【{[n1]}】上昇 / 20秒に1回、マナを【{[n2]}】チャージ": "Increases self ATK by [{[n1]}] / Recharges Mana by [{[n2]}] every 20 seconds"
+    "自身の攻撃力が【{[n1]}】上昇 / 20秒に1回、マナを【{[n2]}】チャージ": "Increases self ATK by [{[n1]}] / Recharges Mana by [{[n2]}] every 20 seconds",
+    "自身に防御力UP【{[n1]} / 20秒】を付与 / 戦闘不能の味方がいるとき、<color=#6B8CFF>紋章：衝撃</color>を10消費し、ランダムな味方1体を蘇生": "Grants self DEF up [{[n1]} / 20 seconds] / When an ally is downed, consumes 10 <color=#6B8CFF>Crest: Impact</color> to revive 1 random ally",
+    "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{[n1]}】に変化 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "[Trigger] 2 normal heals\n[Effect] Multiplier for the next normal heal changes to [{[n1]}] / Grants self [1] <color=#6B8CFF>Crest: Impact</color>",
+    "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{[n1]}】チャージ  / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "When a skill is activated (excluding FC from other allies), charges own skill by [{[n1]}]  / Grants self [1] <color=#6B8CFF>Crest: Impact</color>",
+    "古代魔術師の叡智": "<cspace=-0.05em>Ancient Mage Wisdom",
+    "応急治療": "First Aid",
+    "魔法図書館蔵書目録": "Archmage Archive",
+    "リバイブヒール": "Revive Heal"
 }
