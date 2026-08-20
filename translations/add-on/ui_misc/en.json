@@ -4779,6 +4779,18 @@
     "[無償]アビスジェム×50\nスタミナ回復(小)×1": "[Free] Abyss Gem ×50\nStamina Recovery Potion (S) ×1",
     "ウィークリー報酬を受け取りました": "Obtained weekly rewards",
     "ボス挑戦券": "<cspace=-0.1em>Boss Ticket",
-    "魔法図書館の生き字引": "<cspace=-0.1em><line-height=60%>Magic Library's Living Encyclopedia",
-    "エアリエルの提案": "Aeriel's Proposal"
+    "魔法図書館の生き字引": "<cspace=-0.1em><line-height=40%>Magic Library's Living Encyclopedia",
+    "エアリエルの提案": "Aeriel's Proposal",
+    "シート{0}": "Sheet {0}",
+    "報酬一覧": "<cspace=-0.05em>Rewards",
+    "トレジャーボード券獲得量30%UP!": "Treasure Board Ticket 30% UP!",
+    "目玉商品獲得済み": "<size=90%><cspace=-0.1em>Reward obtained",
+    "オープンする": "Open",
+    "選択されたマスをオープンしますか？": "Open the selected tiles?",
+    "シート更新": "Refresh",
+    "マスオープン": "Open",
+    "ALLオープン": "ALL Open",
+    "トレジャーボード券": "Board Ticket",
+    "トレジャーボード": "Treasure Board",
+    "シート{0}目玉報酬": "<size=90%><cspace=-0.1em>Featured Rewards"
 }
