@@ -4792,5 +4792,6 @@
     "ALLオープン": "ALL Open",
     "トレジャーボード券": "Board Ticket",
     "トレジャーボード": "Treasure Board",
-    "シート{0}目玉報酬": "<size=90%><cspace=-0.1em>Featured Rewards"
+    "シート{0}目玉報酬": "<size=90%><cspace=-0.1em>Featured Rewards",
+    "[無償]アビスジェム×{[n1]}\\n光輝の誓願・招集×5": "[Free] Abyss Gem ×{[n1]}\\nRadiant Oath Shard ×5"
 }
