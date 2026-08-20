@@ -4799,5 +4799,14 @@
     "前回クリアした配置・営業成績でスキップを行います": "<cspace=-0.05em>Skip using layout and sales results from the last cleared business",
     "追加営業許可証を消費して営業をスキップします。": "Use additional permit to skip the operation.",
     "おしごと報酬は前回の営業成績から算出され、前回の報酬と異なる場合があります": "<cspace=-0.1em>Calculation is based on previous sales performance and result may differ",
-    "深淵鉱石の権能：魔導書": "<cspace=-0.1em><size=90%>Abyss Ore Power: Grimoire"
+    "深淵鉱石の権能：魔導書": "<cspace=-0.1em><size=90%>Abyss Ore Power: Grimoire",
+    "紋章：情熱状態異常確率UP": "Zeal Status Inflict UP",
+    "紋章：衝撃が消費されたとき、15秒間味方フロント全体の防御力【40%】UP（1編成につき1本分のみ効果発動）": "When Crest: Impact is consumed, increases all front-row allies' DEF by [40%] for 15 seconds (only one copy active per team)",
+    "覇光の権能：剣": "<cspace=-0.1em><size=90%>Supreme Light Power: Sword",
+    "30秒に1回、15秒間味方全体の攻撃力【30%】UP（1編成につき1本分のみ効果発動）": "Once every 30 seconds, increases all allies' ATK by [30%] for 15 seconds (only one copy active per team)",
+    "攻撃力【20%】上昇。紋章：衝撃が消費されたとき、バック全体の会心率【5%】UP【累積 / 最大30％】（1編成につき1本分のみ効果発動）": "Increases ATK by [20%]. When Crest: Impact is consumed, increases all back allies' Critical Rate by [5%] [Stackable / Max 30%] (only one copy active per team)",
+    "紋章：情熱が付与されたとき、15秒間自身のスキルチャージ効率【5%】UP。味方を回復時、15秒間回復した対象の攻撃力【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Zeal is applied, increases self skill charge efficiency by [5%] for 15 seconds. When healing an ally, increases the healed target's ATK by [10%] for 15 seconds (only one copy active per team)",
+    "クエスト開始時、自身に紋章：衝撃を【1】付与。紋章：衝撃が消費されたとき、15秒間味方全体の防御力【30%】UP（1編成につき1本分のみ効果発動）": "At quest start, applies Crest: Impact [1] to self. When Crest: Impact is consumed, increases all allies' DEF by [30%] for 15 seconds (only one copy active per team)",
+    "紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【{[n1]}】UP": "When receiving Crest: Zeal, increases chance to inflict status effect by [{[n1]}] for 15 seconds.",
+    "紋章：情熱が10以上で紋章：情熱が付与されたとき、15秒間味方全体の攻撃力【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Zeal is applied while at 10 or higher, increases all allies' ATK by [10%] for 15 seconds (only one copy active per team)"
 }
