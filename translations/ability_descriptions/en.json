@@ -531,5 +531,9 @@
     "古代魔術師の叡智": "<cspace=-0.05em>Ancient Mage Wisdom",
     "応急治療": "First Aid",
     "魔法図書館蔵書目録": "Archmage Archive",
-    "リバイブヒール": "Revive Heal"
+    "リバイブヒール": "Revive Heal",
+    "最も近い敵を中心とした範囲内にいる敵全体に【1HIT / 合計{[n1]}】ダメージ / 攻撃力DOWN【{[n2]} / 15秒】を付与": "Deals [1 hit / {[n1]} total] damage to all enemies in an area centered on the nearest enemy / Applies ATK DOWN [{[n2]} / 15 seconds]",
+    "【発動条件】通常回復を2回\n【効果】次回の通常回復が最も近い敵を中心とした範囲内にいる敵全体に魅了【{[n1]}秒 / 成功率:30%】を付与 / 光・闇・無属性の味方バック全体に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Perform 2 normal heals\n[Effect] Changes the next normal heal to apply Charm [{[n1]} seconds / success rate: 30%] to all enemies in an area centered on the nearest enemy / Applies Crest: Impact 【1】 to all Light, Dark, and None back allies",
+    "30秒に1回、味方全体に通常回復の【{[n1]}】回復": "Once every 30 seconds, heals all allies for [{[n1]}] of normal healing",
+    "自身の攻撃力が【{[n1]}】上昇 / 自身の状態異常付与確率が【{[n2]}】上昇": "Increases self ATK by [{[n1]}] / Increases self status ailment application chance by [{[n2]}]"
 }
