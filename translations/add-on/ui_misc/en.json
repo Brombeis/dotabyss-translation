@@ -4798,5 +4798,6 @@
     "キャンペーン分のスキップ回数を全て消費すると通常のスキップになります": "Once all campaign skips are used, standard skip will apply",
     "前回クリアした配置・営業成績でスキップを行います": "<cspace=-0.05em>Skip using layout and sales results from the last cleared business",
     "追加営業許可証を消費して営業をスキップします。": "Use additional permit to skip the operation.",
-    "おしごと報酬は前回の営業成績から算出され、前回の報酬と異なる場合があります": "<cspace=-0.1em>Calculation is based on previous sales performance and result may differ"
+    "おしごと報酬は前回の営業成績から算出され、前回の報酬と異なる場合があります": "<cspace=-0.1em>Calculation is based on previous sales performance and result may differ",
+    "深淵鉱石の権能：魔導書": "<cspace=-0.1em><size=90%>Abyss Ore Power: Grimoire"
 }
