@@ -4785,11 +4785,11 @@
     "報酬一覧": "<cspace=-0.05em>Rewards",
     "トレジャーボード券獲得量30%UP!": "Treasure Board Ticket 30% UP!",
     "目玉商品獲得済み": "<size=90%><cspace=-0.1em>Reward obtained",
-    "オープンする": "Open",
+    "オープンする": "<cspace=-0.04em>Open Tile",
     "選択されたマスをオープンしますか？": "Open the selected tiles?",
     "シート更新": "Refresh",
     "マスオープン": "Open",
-    "ALLオープン": "ALL Open",
+    "ALLオープン": "Open All",
     "トレジャーボード券": "Board Ticket",
     "トレジャーボード": "Treasure Board",
     "シート{0}目玉報酬": "<size=90%><cspace=-0.1em>Featured Rewards",
@@ -4809,5 +4809,9 @@
     "クエスト開始時、自身に紋章：衝撃を【1】付与。紋章：衝撃が消費されたとき、15秒間味方全体の防御力【30%】UP（1編成につき1本分のみ効果発動）": "At quest start, applies Crest: Impact [1] to self. When Crest: Impact is consumed, increases all allies' DEF by [30%] for 15 seconds (only one copy active per team)",
     "紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【{[n1]}】UP": "When receiving Crest: Zeal, increases chance to inflict status effect by [{[n1]}] for 15 seconds.",
     "紋章：情熱が10以上で紋章：情熱が付与されたとき、15秒間味方全体の攻撃力【10%】UP（1編成につき1本分のみ効果発動）": "When Crest: Zeal is applied while at 10 or higher, increases all allies' ATK by [10%] for 15 seconds (only one copy active per team)",
-    "トレジャーボードの報酬をすべて獲得したため、<br>トレジャーボードを更新しました。": "All rewards have been claimed,<br>Treasure Board refreshed."
+    "トレジャーボードの報酬をすべて獲得したため、<br>トレジャーボードを更新しました。": "All rewards have been claimed,<br>Treasure Board refreshed.",
+    "１回分の営業成績が表示されます": "Sales results for a single period will be displayed",
+    "トレジャーボード{[n1]}個目解放記念！": "Treasure Board {[n1]} Clear Celebration!",
+    "トレジャーボード連動ミッション": "Treasure Board Campaign",
+    "トレジャーボード連動ミッションを23個クリアしよう": "Clear 23 Treasure Board Campaign missions"
 }
