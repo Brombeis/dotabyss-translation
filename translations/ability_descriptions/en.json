@@ -543,5 +543,13 @@
     "【発動条件】通常回復を2回\n【効果】次回の通常回復が最も近い敵を中心とした範囲内にいる敵全体に魅了【{{[n1]}秒} / 成功率:30%】を付与 / 光・闇・無属性の味方バック全体に紋章：衝撃を【1】付与に変化": "[Trigger] Perform 2 normal heals\n[Effect] Changes the next normal heal to apply Charm [{[n1]} seconds / success rate: 30%] to all enemies in an area centered on the nearest enemy / Applies Crest: Impact 【1】 to all Light, Dark, and None back allies",
     "バトル開始時、自身に<color=#6B8CFF>紋章：衝撃</color>を【{[n1]}】付与": "At quest start, grants self [{[n1]}] <color=#6B8CFF>Crest: Impact</color>",
     "デバフ": "<cspace=-0.1em>Debuff",
-    "バフ": "Buff"
+    "バフ": "Buff",
+    "稲妻の魔法剣": "Lightning Magic Sword",
+    "自身が光属性が弱点の敵に与えるダメージが【{[n1]}】上昇 / 会心時、自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Increases damage dealt to enemies with Light weakness by [{[n1]}] / Upon landing a critical hit, grants self [1] <color=#6B8CFF>Crest: Impact</color>",
+    "致命の一撃": "Fatal Strike",
+    "全力戦闘": "All-Out Battle",
+    "サンダーボルト・キャリバー": "Thunderbolt Calibur",
+    "自身の前方範囲内にいる敵全体に【2HIT / 合計{[n1]}】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Deals [2 HITS / {[n1]} total] damage to enemies in front area / Grants self [1] <color=#6B8CFF>Crest: Impact</color>",
+    "さらに光属性の味方全体に会心率UP【{[n1]} / 15秒】を付与 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、ダメージ倍率が【{[n2]}】に変化 ": "Additionally, grants [{[n1]} / 15 seconds] Critical Hit Rate boost to all Light allies a Critical Hit Rate boost / Consumes 5 <color=#6B8CFF>Crest: Impact</color> to change damage multiplier to [{[n2]}] ",
+    "自身の会心率が【{[n1]}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{[n2]}】ダメージに変化": "Increases self critical hit rate by [{[n1]}]\n[Trigger] Always active\n[Effect] Normal attacks deal [1 HIT / {[n2]} Total] damage"
 }
