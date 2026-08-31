@@ -4883,5 +4883,22 @@
     "ママって呼んでごらん？": "Why Don't You Call Me Mommy?",
     "新たな回復スキル": "A New Healing Skill",
     "蒼海のオーナーシェフ": "Azure Sea's Owner-Chef",
-    "聖峰ノルトメキアの神官": "Priest of Sacred Nortmekia"
+    "聖峰ノルトメキアの神官": "<cspace=-0.1em>Priest of Sacred Nortmekia",
+    "レアスキップ": "Rare Skip",
+    "行わない": "Don't Skip",
+    "スキップ確認": "Skip Confirmation",
+    "クリアしたことのあるフロアのみ探索をスキップすることが出来ます": "Only cleared Abyss floors can be skipped",
+    "階層スキップチケット「深淵」": "Abyss Skip Ticket",
+    "階層レアスキップチケット「深淵」": "Abyss Skip Ticket [Rare]",
+    "セレクトリスト設定": "Selection Setting",
+    "プレミアムガチャでSSRキャラクター獲得時、登録したキャラクターの提供割合が上昇します。\r\r\n(SSRキャラクターの合計提供割合に変化はありません)": "When an SSR is obtained, the rates of selected characters increase.\r\r\n(Overall SSR drop rate remains unchanged)",
+    "スキップする場合、ゲートキーの消費倍率は1に固定されます。": "When skipping, Gate Key multiplier will be at 1.",
+    "チケットを消費して10フロア分の探索を\nスキップすることができます。": "Ticket can be used to skip\n10 floors of exploration.",
+    "スキップ終了後、スキップしたフロアに応じた報酬とアビスコードを獲得出来ます。\r\n": "You'll receive rewards and Abyss Codes based on numbers of skipped floors.\n",
+    "10フロア分の探索をスキップすることができます。": "Skipping 10 floors of Abyss.",
+    "スキップフロア確認": "Floor Skip Confirmation",
+    "10フロア分のドロップ数": "<size=80%><cspace=-0.1em>Number of 10 Floors Drops",
+    "10フロア分のスコア計算": "<size=80%><cspace=-0.1em>10 Floor Score Calculation",
+    "次のフロア（{0}フロア目）": "Next Floor ({0}F)",
+    "中断する": "Pause"
 }
