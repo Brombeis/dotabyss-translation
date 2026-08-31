@@ -551,5 +551,22 @@
     "サンダーボルト・キャリバー": "Thunderbolt Calibur",
     "自身の前方範囲内にいる敵全体に【2HIT / 合計{[n1]}】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Deals [2 HITS / {[n1]} total] damage to enemies in front area / Grants self [1] <color=#6B8CFF>Crest: Impact</color>",
     "さらに光属性の味方全体に会心率UP【{[n1]} / 15秒】を付与 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、ダメージ倍率が【{[n2]}】に変化 ": "Additionally, grants [{[n1]} / 15 seconds] Critical Hit Rate boost to all Light allies a Critical Hit Rate boost / Consumes 5 <color=#6B8CFF>Crest: Impact</color> to change damage multiplier to [{[n2]}] ",
-    "自身の会心率が【{[n1]}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{[n2]}】ダメージに変化": "Increases self critical hit rate by [{[n1]}]\n[Trigger] Always active\n[Effect] Normal attacks deal [1 HIT / {[n2]} Total] damage"
+    "自身の会心率が【{[n1]}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{[n2]}】ダメージに変化": "Increases self critical hit rate by [{[n1]}]\n[Trigger] Always active\n[Effect] Normal attacks deal [1 HIT / {[n2]} Total] damage",
+    "氷の共鳴": "Ice Resonance",
+    "銀嶺嵐": "Silverpeak Storm",
+    "本日のおすすめメニュー": "Today's Special Menu",
+    "光・闇・無属性の味方全体に被ダメージDOWN【{[n1]} / 30秒】と会心ダメージ倍率UP【{[n2]} / 30秒】を付与": "Grants all Light, Dark, and None allies Damage Taken DOWN [{[n1]} / 30 seconds] and Critical Damage UP [{[n2]} / 30 seconds]",
+    "自身の最大HPが【{[n1]}】上昇  / ダメージを受けたとき、【{[n2]}】の確率で自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Increases own Max HP by [{[n1]}]  / Upon taking damage, grants self [1] <color=#6B8CFF>Crest: Impact</color> with [{[n2]}] chance",
+    "氷精蝶の祝福": "Ice Butterfly Blessing",
+    "銀嶺の舞": "Silver Peak Dance",
+    "敵全体に凍結【10秒 / 成功率:{[n1]}】を付与 / 水属性の味方全体に凍結状態の敵に対して与ダメージUP【{[n2]} / 15秒】を付与": "Inflicts Freeze [10 seconds / Success Rate: {[n1]}] on all enemies / Increase damage to all all Water allies against enemies with Freeze [{[n2]} / 15 seconds]",
+    "自身に氷精蝶が付与されているとき、氷精蝶を解除し、凍結状態の敵に対して与ダメージUPの効果倍率が【{[n1]}】に変化 / さらに水属性の味方全体に<color=#FF5050>紋章：情熱</color>を【1】付与 ": "When \"Ice Spirit Butterfly\" is active, it is removed and damage multiplier against enemies with Freeze changes to [{[n1]}] / Additionally, all Water allies gain [1] <color=#FF5050>Crest: Zeal</color> ",
+    "バトル開始時、自身に氷精蝶【永続】を付与（クエスト中1回まで）\n【発動条件】30秒に1回\n【効果】火・水・土属性の味方フロント・バック全体のスキルを【{[n1]}】チャージ / さらに水属性の味方フロント・バック全体のスキルを【{[n2]}】チャージ/ 自身に氷精蝶【永続】を付与": "At quest start, grants self \"Ice Spirit Butterfly\" (Permanent) (once per quest)\n[Trigger] Once every 30 seconds\n[Effect] Charges all Front and Back Fire, Water, and Soil allies' skills in the front and back rows by [{[n1]}] / Additionally, charges all Front and Back Water-attribute allies' skills by [{[n2]}] / Grants self \"Ice Spirit Butterfly\" (Permanent)",
+    "スキル発動時、火・水・土属性の味方全体に連撃率UP【{[n1]} / 15秒】を付与": "When this skill is activated, grants all Fire, Water, and Soil allies Combo Rate Up [{[n1]} / 15 seconds]",
+    "自身に<color=#FF5050>紋章：情熱</color>が付与されたとき、火・水・土属性の味方全体に攻撃力UP【{[n1]}】を付与【累積 / 最大15%】": "When self gains <color=#FF5050>Crest: Zeal</color>, all Fire, Water, and Soil allies are granted ATK UP by [{[n1]}] [Cumulative / Max 15%]",
+    "清白のエプロン": "Innocent Apron",
+    "幸運のスパイス": "Spice of Good Luck",
+    "ウルトラ無敵元気スープ": "Ultra Invincible Energy Soup",
+    "さらに自身に最大HP【{[n1]}】分の回復 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、味方フロント全体に会心率UP【{[n2]} / 15秒】を付与": "Additionally, restores [{[n1]}] of max HP to self / consumes 5 <color=#6B8CFF>Crest: Impact</color> and grants all Front allies Critical Hit Rate UP [{[n2]} / 15 seconds]",
+    "【発動条件】通常攻撃を4回\n【効果】通常攻撃が自身を中心とした範囲内にいる味方フロント・バック全体に攻撃力UP【{[n1]}/ 10秒】と防御力UP【{[n2]} / 10秒】を付与に変化": "[Trigger] Perform 4 normal attacks\n[Effect] Normal attacks are transformed to grant all Front and Back allies within a radius centered on the user [{[n1]}] ATK UP for 10 seconds and [{[n2]}] DEF UP for 10 seconds"
 }
