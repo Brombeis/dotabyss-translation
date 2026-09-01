@@ -569,5 +569,7 @@
     "ウルトラ無敵元気スープ": "Ultra Invincible Energy Soup",
     "さらに自身に最大HP【{[n1]}】分の回復 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、味方フロント全体に会心率UP【{[n2]} / 15秒】を付与": "Additionally, restores [{[n1]}] of max HP to self / consumes 5 <color=#6B8CFF>Crest: Impact</color> and grants all Front allies Critical Hit Rate UP [{[n2]} / 15 seconds]",
     "【発動条件】通常攻撃を4回\n【効果】通常攻撃が自身を中心とした範囲内にいる味方フロント・バック全体に攻撃力UP【{[n1]}/ 10秒】と防御力UP【{[n2]} / 10秒】を付与に変化": "[Trigger] Perform 4 normal attacks\n[Effect] Normal attacks are transformed to grant all Front and Back allies within a radius centered on the user [{[n1]}] ATK UP for 10 seconds and [{[n2]}] DEF UP for 10 seconds",
-    "【発動条件】通常攻撃を2回\\n【効果】次回の通常攻撃が【1HIT / 合計{{[n1]}}】ダメージ / 凍結【{{[n2]}秒} / 成功率:50%】を付与 / 自身に紋章：情熱を【1】付与に変化": "[Trigger] Use normal attack 2 times\\n[Effect] Changes the next normal attack to deal [1 hit / {[n1]} total] damage / Apply Freeze [{[n2]} seconds / Success Rate: 50%] / Apply Crest: Zeal [1] to self"
+    "【発動条件】通常攻撃を2回\\n【効果】次回の通常攻撃が【1HIT / 合計{{[n1]}}】ダメージ / 凍結【{{[n2]}秒} / 成功率:50%】を付与 / 自身に紋章：情熱を【1】付与に変化": "[Trigger] Use normal attack 2 times\\n[Effect] Changes the next normal attack to deal [1 hit / {[n1]} total] damage / Apply Freeze [{[n2]} seconds / Success Rate: 50%] / Apply Crest: Zeal [1] to self",
+    "ダメージを受けたとき、【25%】の確率で自身に<color=#FF5050>紋章：情熱</color>を【{[n1]}】付与": "When taking damage, has a [25%] chance to apply <color=#FF5050>Crest: Zeal</color> [{[n1]}] to self",
+    "自身が回復を行ったとき、【30%】の確率で自身のスキルを【{[n1]}】チャージ": "When self heals, has a [30%] chance to charge own skill by [{[n1]}]"
 }
