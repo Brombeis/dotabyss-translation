@@ -4954,7 +4954,7 @@
     "【5話】夢の場所、帰る場所": "<cspace=-0.05em><size=80%><line-height=60%>[Ep5] Place of Dreams, Place to Call Home",
     "「Normal」竜と氷、そして調理刃の舞踏2をクリアで解放": "<cspace=-0.05em>Clear Dragons, Ice, and the Dance of the Cooking Blade 2 in Normal to Unlock",
     "竜と氷、そして調理刃の舞踏{0}をクリアする": "Clear Dragons, Ice, and the Dance of the Cooking Blade {0}",
-    "ユーリの日常その{[n1]}": "Yuuri's Daily Life Pt. {[n1]}Yuuri's Daily Life Pt. {[n1]}",
+    "ユーリの日常その{[n1]}": "Yuuri's Daily Life Pt. {[n1]}",
     "ナイアの日常その{[n1]}": "Naia's Daily Life Pt. {[n1]}",
     "不幸で最強な料理店": "Unlucky, Ultimate Restaurant",
     "運命が出会う夜": "Night of Destiny",
@@ -4971,5 +4971,11 @@
     "エイルスラスト": "Ail Thrust",
     "状態異常付与の成功率が4%%上昇する状態": "Increase inflict status effect rate by 4%",
     "エロージョン": "Erosion",
-    "その他のエネミー": "Other enemies"
+    "その他のエネミー": "Other enemies",
+    "ショップで商品を1つ購入する（無料でも達成可能）": "Purchase an item from shop (applicable to free items)",
+    "スキルによる被ダメージが{[n1]}減少する状態": "Damage taken from skills reduced by {[n1]}",
+    "1秒ごとに1Lvにつき最大HP3%分のダメージを受ける状態\\n（回復を受けるとLvが減少する）": "<size=90%>Take damage equal to 3% of your Max HP per second for each Lv\\n(Lv reduced by receiving heals)",
+    "凍結状態の敵に対して与ダメージが{[n1]}上昇する状態": "Damage dealt to frozen enemies increased by {[n1]}",
+    "討伐をスキップします。": "Skipping battle.",
+    "前回クリアした防衛設備の配置に必要なマナ燃料は消費されません": "Mana fuel previously spent will not be consumed"
 }
