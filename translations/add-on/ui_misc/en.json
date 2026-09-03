@@ -4977,5 +4977,11 @@
     "1秒ごとに1Lvにつき最大HP3%分のダメージを受ける状態\\n（回復を受けるとLvが減少する）": "<size=90%>Take damage equal to 3% of your Max HP per second for each Lv\\n(Lv reduced by receiving heals)",
     "凍結状態の敵に対して与ダメージが{[n1]}上昇する状態": "Damage dealt to frozen enemies increased by {[n1]}",
     "討伐をスキップします。": "Skipping battle.",
-    "前回クリアした防衛設備の配置に必要なマナ燃料は消費されません": "Mana fuel previously spent will not be consumed"
+    "前回クリアした防衛設備の配置に必要なマナ燃料は消費されません": "Mana fuel previously spent will not be consumed",
+    "全解除": "Reset",
+    "パーティ編成ルール": "Party Formation Rule",
+    "リーダーを編成してください。\n探索力はそのキャラクターの\nパラメータによって計算されます": "Please select a leader.\nExploration power is calculated\nbased on leader's stats",
+    "編成したい装備を選択してください。": "Select the equipment.",
+    "こちらの探索隊の編成で登録します。\r<br>よろしいですか？": "Registering this line-up.\r<br>Proceed with this?",
+    "ヒマリの夏の思い出": "Himari's Summer Memories"
 }
