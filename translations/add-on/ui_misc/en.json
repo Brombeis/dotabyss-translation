@@ -4983,5 +4983,9 @@
     "リーダーを編成してください。\n探索力はそのキャラクターの\nパラメータによって計算されます": "Please select a leader.\nExploration power is calculated\nbased on leader's stats",
     "編成したい装備を選択してください。": "Select the equipment.",
     "こちらの探索隊の編成で登録します。\r<br>よろしいですか？": "Registering this line-up.\r<br>Proceed with this?",
-    "ヒマリの夏の思い出": "Himari's Summer Memories"
+    "ヒマリの夏の思い出": "Himari's Summer Memories",
+    "<color=#FF5050>紋章：情熱</color>キャラの攻撃力、防御力、最大HPが【{[n1]}】上昇": "<color=#FF5050>Crest: Zeal</color> allies gain ATK, DEF, and Max HP UP by [{[n1]}]",
+    "大穴はまさに宝の山♪\\n貴重な鉱石や素材の鑑定は\\nエルドラーナにおまかせ～": "Great Cave is truly\\na treasure trove♪\\nLeave the appraisal of\\nrare ores and materials\\nto Eldrana~",
+    "血筋とか肩書きはどうでもいいの\\nどれだけワタシの役に立って\\nくれるか、それだけよ": "I don't care about bloodlines\\nor titles. It's all about\\nhow much you can do for me.\\nThat's all that matters.",
+    "簡単な話よ。\\nエルドラーナは\\n利益をもたらす者の味方♪": "It's simple.\\nEldrana sides with\\nthose who bring profit♪"
 }
