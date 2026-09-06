@@ -1332,7 +1332,7 @@
     "エレメンタル": "Elemental",
     "厄災": "Calamity",
     "砂嵐の厄災": "Sandstorm Disaster",
-    "氷河の厄災": "Glacier Disaster",
+    "氷河の厄災": "Glacier Calamity",
     "飢餓の厄災": "Hunger Disaster",
     "熱波の厄災": "Heatwave Disaster",
     "砕氷の厄災": "Ice-breaking Disaster",
@@ -5014,5 +5014,14 @@
     "【8話】幸福を呼ぶレストラン": "<size=80%><line-height=60%>[Ep8] The Restaurant That Brings Happiness",
     "【7話】あふれるほどの幸福をあなたにをクリア": "<cspace=-0.05em>Clear [Ep7] Wishing You Overflowing Happiness",
     "至高の晩餐会1をクリア": "Clear The Ultimate Banquet 1",
-    "至高の晩餐会{0}": "The Ultimate Banquet {0}"
+    "至高の晩餐会{0}": "The Ultimate Banquet {0}",
+    "味方全体が、<color=#FF5050>紋章：情熱</color>が付与されたとき自身に攻撃力UP【30% / 20秒】と防御力UP【30% / 20秒】を付与": "When the entire team gains <color=#FF5050>Crest: Zeal</color>, grants self ATK and DEF UP [30% / 20 seconds] ",
+    "最大HPが{[n1]}減少する状態": "Max HP decreased by {[n1]}",
+    "30秒ごとに味方全体に攻撃力DOWN【50%】（累積/最大300%)と防御力DOWN【50%】（累積/最大300%)と最大HPDOWN【50%】（累積/最大300%)を付与": "Every 30 seconds, inflicts ATK, DEF, and Max HP DOWN [50%] (stackable/max 300%) on all allies",
+    "情熱のマナクリスタル【活力】を獲得": "<size=80%>Zeal Mana Crystal [Vitality] Unlocked",
+    "戦闘開始時、敵全体に防御力UP【100% / 永続】を付与": "At quest start, grant all enemies DEF UP [100% / Permanent]",
+    "衝撃のマナクリスタル【虚空】を獲得": "<size=80%>Impact Mana Crystal [Void] Unlocked",
+    "アウラの盟友": "Aura's Ally",
+    "どんな不幸に見舞われても、\\n絶対に諦めないんだから～～っ": "No matter what kind\\nof misfortune befalls me,\\nI'm absolutely not giving up!",
+    "【虚空】のマナクリスタルを獲得": "Obtain [Void] Mana Crystal"
 }
