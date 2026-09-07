@@ -5034,5 +5034,11 @@
     "「砲撃支援」のLv+1": "Artillery Support Lv+1",
     "施設効果の解放状況": "Facility Effect Unlock Status",
     "敵全体が、HPが低いほど防御力が上昇【最大{[n1]}】": "<size=90%>All enemies gain increased DEF the lower their HP is [Max {[n1]}]",
-    "敵全体が、HPが低いほど攻撃力が上昇【最大{[n1]}】": "<size=90%>All enemies gain increased ATK the lower their HP is [Max {[n1]}]"
+    "敵全体が、HPが低いほど攻撃力が上昇【最大{[n1]}】": "<size=90%>All enemies gain increased ATK the lower their HP is [Max {[n1]}]",
+    "素晴らしい戦いでした\\nこの経験は今後も役立つでしょう": "It was a magnificent battle.\\nThis experience will prove\\nuseful in the future.",
+    "フォースチェイン発動時、味方全体に最大HPDOWN【{[n1]} / 永続】を付与": "When activating Force Chain, reduce Max HP [{[n1]} / Permanent] to all allies",
+    "幸運の竜": "Dragon of Fortune",
+    "スキップ可": "<cspace=-0.05em>Skippable",
+    "クエストをスキップします。": "Skipping quest.",
+    "挑戦回数【{0}/{1}】": "Attempt [{0}/{1}]"
 }
