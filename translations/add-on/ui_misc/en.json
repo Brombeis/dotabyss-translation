@@ -5033,5 +5033,7 @@
     "「エレクトロボール」のLv+1": "Electro Ball Lv+1",
     "「聖浄の調べ」解放": "Melody of Purity Obtained",
     "「砲撃支援」のLv+1": "Artillery Support Lv+1",
-    "施設効果の解放状況": "Facility Effect Unlock Status"
+    "施設効果の解放状況": "Facility Effect Unlock Status",
+    "敵全体が、HPが低いほど防御力が上昇【最大{[n1]}】": "<size=90%>All enemies gain increased DEF the lower their HP is [Max {[n1]}]",
+    "敵全体が、HPが低いほど攻撃力が上昇【最大{[n1]}】": "<size=90%>All enemies gain increased ATK the lower their HP is [Max {[n1]}]"
 }
