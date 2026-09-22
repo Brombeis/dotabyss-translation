@@ -5136,5 +5136,13 @@
     "「ハイバネーション」の解除": "Disengaging \"Hibernation\"",
     "模擬戦【氷河】{[n1]}": "<size=75%>Mock Battle [Glacier] {[n1]}",
     "プレイヤーデータの状態と異なる状態で挑戦されます。": "you will be facing battles different from your data.",
-    "本クエストは固定のパーティ編成を使用するため": "Since this quest uses a fixed party,"
+    "本クエストは固定のパーティ編成を使用するため": "Since this quest uses a fixed party,",
+    "氷河の厄災、配下のモンスターを呼び出して自身は氷塊の内部で力を回復しているようです！": "The Glacier Calamity seems to be summoning its minions while recovering its strength inside a block of ice!",
+    "この状態では”ダメージを与えられない”うえに”徐々にHPが回復”され、”氷鎧Lvも上昇”していってしまいます。": "While in this state, the Glacier Calamity cannot be damaged, its HP gradually recovers, and its Ice Armor Lv continues to increase.",
+    "呼び出された”モンスターを全て討伐”して氷河の厄災を叩き起こしましょう！": "Defeat all the summoned “monsters” to wake the Glacier Calamity!",
+    "召喚されたモンスターをすべて討伐": "Defeat all summoned monsters",
+    "6秒ごとにHPを{0}回復 / 氷鎧Lvが1上昇する状態": "Restores {0}HP every 6 seconds / Increases Ice Armor Lv by 1",
+    "氷塊が融け、氷河の厄災を攻撃できるようになりました！": "The ice block has melted, and you can now attack the Glacier Calamity!",
+    "さすがは司令官♪\n特性の把握はばっちりですねっ！": "As expected from the Commander♪\nYou really have a great grasp!",
+    "氷漬けになったら素早くモンスターを殲滅することが、氷河の厄災攻略の鍵ですね！": "The key to beating the Glacier Calamity is to quickly wipe out the monsters once it's frozen!"
 }
