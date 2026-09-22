@@ -31,7 +31,7 @@
     "ファイヤーゴブリン": "Fire Goblin",
     "アクアハーピィ": "Aqua Harpy",
     "アースウルフ": "Earth Wolf",
-    "飢餓の厄災": "Calamity of Famine",
+    "飢餓の厄災": "Famine Calamity",
     "司令官": "Commander",
     "ルディア": "Ludia",
     "ベリサ<娼館>": "Verisa (Brothel)",
@@ -53,7 +53,7 @@
     "盗賊B": "Bandit B",
     "アーデルハイト": "Adelheid",
     "シエナ・アーデルハイト": "Sienna and Adelheid",
-    "砂嵐の厄災": "Calamity of the Sandstorm",
+    "砂嵐の厄災": "Sandstorm Calamity",
     "ベリサ・ソフィア": "Verisa/Sophia",
     "クルル": "Kururu",
     "盗賊A": "Bandit A",
@@ -76,7 +76,7 @@
     "男性の声": "Male Voice",
     "機械魔獣": "Mechanical Beast",
     "人型厄災": "Humanoid Calamity",
-    "天使の厄災": "Calamity of the Angel",
+    "天使の厄災": "Angel Calamity",
     "オレンジ髪の少女": "Orange-Haired Girl",
     "盗賊（男）": "Bandit (Male)",
     "アーデルハイト（NPC）": "Adelheid (NPC)",
@@ -492,5 +492,6 @@
     "フェルトゥーナ": "Feltuna",
     "【覚醒】ベリサ": "<cspace=-0.1em>[Awakened] Verisa",
     "アイナ": "Aina",
-    "ヴェスペラ": "Vespera"
+    "ヴェスペラ": "Vespera",
+    "彗星の厄災": "Comet Calamity"
 }
