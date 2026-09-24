@@ -3231,7 +3231,7 @@
     "無償アビスジェムから優先して消費されます。": "Free Abyss Gems will be consumed first.",
     "設定キャラクター": "Selected Characters",
     "ルクスノヴァ除く": "<size=90%><line-height=60%>Luxnova \nExcluded",
-    "すでに獲得済みのキャラクターは「純真結晶」に変換されます。": "Already acquired characters will be converted to \"Purity Crystal\".",
+    "すでに獲得済みのキャラクターは「純真結晶」に変換されます。": "<cspace=-0.07em>Already acquired characters will be converted to \"Purity Crystal\".",
     "交換": "Exch",
     "ピックアップ設定したSSRキャラクターは<br>提供割合が上昇します。<br>キャラクターを選択してください。": "The drop rate for SSR characters <br>selected for the “Pickup” event will <br>increase. Please select a character.",
     "選択可能なキャラクター": "Selectable Characters",
@@ -5174,5 +5174,6 @@
     "単発最大ダメージ：": "<cspace=-0.015em>Max Damage/Hit:",
     "単発最大ダメージ": "<cspace=-0.015em>Max Damage/Hit",
     "前回までの最大総ダメージ": "<cspace=-0.05em>Max Total DMG So Far",
-    "サイドストーリー": "Side Story"
+    "サイドストーリー": "Side Story",
+    "提供割合/詳細": "Drop Rate"
 }
