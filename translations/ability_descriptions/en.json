@@ -607,5 +607,15 @@
     "レベルリセット": "Level Reset",
     "味方全体に通常回復の【{[n1]}】回復 / 会心率UP【10% / 10秒】を付与": "Heals all allies for [{[n1]}] of normal healing / Applies Critical Rate Up [10% / 10 seconds]",
     "自身のスキルを【{[n1]}】チャージ / <color=#FF5050>紋章：情熱</color>が5以上のとき、 自身以外の味方全体に攻撃力UP【15% / 10秒】を付与": "Charges own skill by [{[n1]}] / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, applies ATK UP [15% / 10 seconds] to all allies other than self",
-    "【発動条件】通常回復を4回行う\n【効果】通常回復が対象を中心とした範囲内にいる味方全体に通常回復の【{[n1]}】回復 / 対象に攻撃力UP【{[n2]} / 10秒】を付与に変化": "[Trigger] Perform normal healing 4 times\n[Effect] Changes normal healing to heal all allies in an area centered on the target for [{[n1]}] of normal healing / Applies ATK Up [{[n2]} / 10 seconds] to the target"
+    "【発動条件】通常回復を4回行う\n【効果】通常回復が対象を中心とした範囲内にいる味方全体に通常回復の【{[n1]}】回復 / 対象に攻撃力UP【{[n2]} / 10秒】を付与に変化": "[Trigger] Perform normal healing 4 times\n[Effect] Changes normal healing to heal all allies in an area centered on the target for [{[n1]}] of normal healing / Applies ATK Up [{[n2]} / 10 seconds] to the target",
+    "灰かぶりの精霊": "Ashen Spirit",
+    "宵月輪舞": "Twilight Moon Waltz",
+    "魔道の導き": "Guidance of Magic",
+    "見切りの極意": "Essence of Foresight",
+    "師範の歩法": "Master's Footwork",
+    "味方バック全体のスキルを【{[n1]}】チャージ / 自身に最大HP【{[n2]}】分の回復 / マナを【0.25】チャージ": "Charges all allied back-row characters' skills by [{[n1]}] / Heals self for [{[n2]}] of Max HP / Charges Mana by [0.25]",
+    "自身と味方バック全体に防御力UP【{[n1]} / 15秒】を付与 / <color=#6B8CFF>紋章：衝撃</color>を10消費し、自身と味方バック全体に攻撃力UP【{[n2]} / 15秒】を付与": "Applies DEF Up [{[n1]} / 15 seconds] to self and all allied back-row characters / Consumes 10 Crest: Impact and applies ATK Up [{[n2]} / 15 seconds] to self and all allied back-row characters",
+    "【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が武器：杖の味方全体に攻撃力UP【{[n1]} / 10秒】を付与 / 味方バック全体に会心ダメージ倍率UP【{[n2]} / 10秒】を付与に変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes the next normal attack to apply ATK Up [{[n1]} / 10 seconds] to all allies wielding Staff / Apply Critical Damage Multiplier Up [{[n2]} / 10 seconds] to all allied back-row characters",
+    "回避時、武器：杖の味方全体にスキルチャージ効率UP【{[n1]} / 10秒】を付与 / 味方バック全体に会心率UP【{[n2]} / 10秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "On Evade, applies Skill Charge Efficiency Up [{[n1]} / 10 seconds] to all allies wielding Staff / Applies Critical Rate Up [{[n2]} / 10 seconds] to all allied back-row characters / Applies Crest: Impact [1] to self",
+    "自身のスキルチャージ効率が【{[n1]}】上昇 / 味方バック1人ごとに自身の回避率が【{[n2]}】上昇": "Increases self Skill Charge Efficiency by [{[n1]}] / For each allied back-row character, increases self Evasion Rate by [{[n2]}]"
 }
