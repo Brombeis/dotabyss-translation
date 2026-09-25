@@ -5175,5 +5175,18 @@
     "単発最大ダメージ": "<cspace=-0.015em>Max Damage/Hit",
     "前回までの最大総ダメージ": "<cspace=-0.05em>Max Total DMG So Far",
     "サイドストーリー": "Side Story",
-    "提供割合/詳細": "Drop Rate"
+    "提供割合/詳細": "Drop Rate",
+    "サイドストーリー「白き焔の継承者」を読む": "Read Side Story \"Heir to the White Flame\"",
+    "厄災戦講座「「飢餓」効果の対策」をクリアする": "Clear Calamity Tutorial \"[Starvation] Countermeasure\"",
+    "皆さんの様子を確認してください！": "Please check on everyone!",
+    "『飢餓』効果を解除しきれず甚大な被害を受けてしまいました…！回復による対処をお願いします！": "We couldn't fully clear the \"Starvation\" effect and have sustained massive damage... Please heal them!",
+    "厄災の特性を見直してから\nもう一度チャレンジですっ！": "Let's give it another shot\nfter reviewing the calamity!",
+    "うまく『飢餓』効果を解除して被害を抑えられましたねっ！": "You managed to successfully dispel the \"Starvation\" effect and minimize the damage!",
+    "『飢餓』効果を付与されましたね……": "You seem to be afflicted by [Starvation] status effect…",
+    "1秒ごとに1Lvにつき最大HP{[n1]}分のダメージを受ける状態\n（回復を受けるとLvが減少する）": "<size=80%>Take damage equal to {[n1]} of your Max HP per Level every second\n(Lv reduces when receiving heals)",
+    "この状態では”継続的に体力が低下”していきますがそれだけではなく……": "In this state, your health will continuously decline, but that’s not all…",
+    "スキル『スターヴウェーブ』を受けたときのダメージが上昇してしまいます。": "The damage taken from the skill \"Starve Wave\" will increase.",
+    "ですがご安心ください。『飢餓』効果は”回復を受けることで解除”することができます！": "But rest assured, the \"Starvation\" effect can be removed through healing!",
+    "飢餓の厄災が『スターヴウェーブ』を発動する前に、回復で『飢餓』効果を打ち消してください！": "Before the Famine Calamity activates \"Starve Wave\", use healing to negate the \"Starvation\" effect!",
+    "「飢餓」効果を付与された味方がスターヴウェーブを受けない": "<size=80%>Allies affected by the \"Starvation\" effect are immune to Starve Wave"
 }
