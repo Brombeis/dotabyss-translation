@@ -365,7 +365,7 @@
 -  [hmr_10290100022:ミルティーユは何も拒むことなく、やわらかくすべて] line 2 overflows by 5%: 'desperately servicing with her still-inexperienced breasts, smiling warmly.'
 -  [hmr_10290100032:淫らな声を上げてミルティーユが乱れる姿に息が詰ま] line 2 overflows by 2%: "breathlessly. Overcome by this mysterious arousal, I couldn't hold back."
 -  [hmr_10310100022:ハツネは客に無理を言って楽しんでいた。<br>そ] line 2 overflows by 7%: "he muttered about her heartlessness, he couldn't help moaning in pleasure."
--  [hmr_10310100031:訓練所を覗くと、コトネが若殿を熱心に剣術を指導し] line 2 overflows by 18%: 'teaching the young lord swordsmanship. Hatsune was watching with rapt attention.'
+-  [hmr_10310100031:訓練所を覗くと、コトノが若殿を熱心に剣術を指導し] line 2 overflows by 18%: 'teaching the young lord swordsmanship. Hatsune was watching with rapt attention.'
 -  [hmr_10310100032:発情で理性が薄れていたはずなのに、急に恥じらった] line 2 overflows by 6%: "away in shame. Perhaps that's how self-conscious she was about her body."
 -  [hmr_10310100032:激しい抽送で真空のようになった膣内の刺激に陰茎が] line 2 overflows by 12%: "caused by the rough thrusting. Still, Hatsune's movements remained relentless."
 -  [hmr_10310100032:鍛えられた太ももが躍動するのが下からよく見えた。] line 2 overflows by 22%: 'movement, her pussy clenched, my cock swelled, and the pleasure built toward climax.'

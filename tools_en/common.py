@@ -11,7 +11,7 @@ import UnityPy
 
 CDN_HOST = "api.abyss-prod-r18.dotabyss.dmmgames.com"
 CDN_CHANNEL = "r18"
-CDN_VERSION = "6994"
+CDN_VERSION = "10974"
 CDN_BASE = (f"https://{CDN_HOST}/resources/webgl/"
             f"{CDN_CHANNEL}/aas/{CDN_VERSION}/aa/")
 CATALOG_URL = CDN_BASE + "catalog_1.bin"
