@@ -3,8 +3,9 @@ Regenerate the translation progress table in README.md.
 
 One row per scene: the scene id, how many of its lines have an English
 translation, and the three speakers with the most lines in it. Scenes that are not
-completely translated come first, then the finished ones, each group sorted by
-the number in the scene id (the evs_/hmn_/... prefix is ignored). Speakers come
+completely translated come first, least translated first, then the finished ones
+by the number in the scene id (the evs_/hmn_/... prefix is ignored); ties are
+broken the same way. Speakers come
 from the 《speaker》 prefix of ja.json values; narration has no prefix and is not
 counted. Names are shown in English where the glossary (names/en.json) has one.
 
@@ -33,6 +34,7 @@ HEADING = "## Translation progress"
 
 SPEAKER = re.compile(r"^《([^》]*)》")
 TOP_SPEAKERS = 3
+BAR_WIDTH = 20
 
 
 def display_name(speaker, glossary):
@@ -42,6 +44,12 @@ def display_name(speaker, glossary):
 
 def scene_number(scene_id):
     return int(scene_id.split("_", 1)[1])
+
+
+def progress_bar(translated, count):
+    # Floored, so the bar only reads full when the scene really is complete.
+    filled = translated * BAR_WIDTH // count if count else 0
+    return "`[" + "#" * filled + "-" * (BAR_WIDTH - filled) + "]`"
 
 
 def scene_row(scene_id, glossary):
@@ -72,9 +80,13 @@ def build_table():
         total += count
         percent = round(100 * translated / count) if count else 0
         link = f"[{scene_id}](translations/novels/{scene_id}/en.json)"
-        rows.append((translated == count, scene_id, f"| {link} | {translated}/{count} ({percent}%) | {top} |"))
-    rows.sort(key=lambda r: (r[0], scene_number(r[1]), r[1]))
-    rows = [r[2] for r in rows]
+        complete = translated == count
+        ratio = translated / count if count else 1
+        bar = progress_bar(translated, count)
+        text = f"| {link} | {translated}/{count} ({percent}%)<br>{bar} | {top} |"
+        rows.append(((complete, 0 if complete else ratio, scene_number(scene_id), scene_id), text))
+    rows.sort(key=lambda r: r[0])
+    rows = [r[1] for r in rows]
 
     overall = round(100 * done / total, 1) if total else 0
     lines = [
