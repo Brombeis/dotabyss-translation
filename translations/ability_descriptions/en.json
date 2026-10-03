@@ -637,5 +637,7 @@
     "自身の最大HPが【{[n1]}】上昇 / バトル開始時、自身に会心率UP【{[n2]} / 15秒】を付与 （クエスト中1回まで）": "Increases self Max HP by [{[n1]}] / At battle start, applies Critical Rate Up [{[n2]} / 15 seconds] to self (once per quest)",
     "会心時、【50%】の確率で自身のスキルを【{[n1]}】チャージ / 会心時、【25%】の確率で自身に最大HP【{[n2]}】分の回復": "On a Critical hit, has a [50%] chance to charge self's skill by [{[n1]}] / On a Critical hit, has a [25%] chance to heal self for [{[n2]}] of Max HP",
     "【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【1HIT / {[n1]}】ダメージ / 魅了【{[n2]}秒 / 成功率:30%】 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes the next normal attack to deal [1 hit / {[n1]}] damage / Applies Charm [{[n2]} seconds / success rate: 30%] / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self",
-    "最も遠い敵を狙う / 攻撃範囲が【100%】上昇 / 自身が付与する状態異常の確率が【{[n1]}】上昇 /  自身の攻撃力が【{[n2]}】上昇": "Targets the farthest enemy / Attack range increases by [100%] / The chance of status ailments applied by self increases by [{[n1]}] / Self ATK increases by [{[n2]}]"
+    "最も遠い敵を狙う / 攻撃範囲が【100%】上昇 / 自身が付与する状態異常の確率が【{[n1]}】上昇 /  自身の攻撃力が【{[n2]}】上昇": "Targets the farthest enemy / Attack range increases by [100%] / The chance of status ailments applied by self increases by [{[n1]}] / Self ATK increases by [{[n2]}]",
+    "<color=#6B8CFF>紋章：衝撃</color>キャラの攻撃力、防御力、最大HPが【{[n1]}】上昇": "Increase <color=#6B8CFF>Crest: Impact</color> characters' ATK, DEF, and Max HP by [<color=#4CF37B>{[n1]}</color>]",
+    "紋章：衝撃キャラの攻撃力、防御力、最大HPが【{{[n1]}}】上昇": "Increase Crest: Impact characters' ATK, DEF, and Max HP by [{[n1]}]"
 }
