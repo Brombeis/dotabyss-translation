@@ -49,7 +49,7 @@
     "盗賊たち": "Bandits",
     "盗賊C": "Bandit C",
     "盗賊D": "Bandit D",
-    "シエナ": "Shiena",
+    "シエナ": "Sienna",
     "盗賊B": "Bandit B",
     "アーデルハイト": "Adelheid",
     "シエナ・アーデルハイト": "Sienna and Adelheid",
@@ -82,7 +82,7 @@
     "アーデルハイト（NPC）": "Adelheid (NPC)",
     "人型厄災（人魂）": "Humanoid Calamity (Spirit)",
     "ヒマリ<メモリアル・ブレザー>": "Himari (Memorial Blazer)",
-    "シエナ<メモリアル・ブレザー>": "Siena (Memorial Blazer)",
+    "シエナ<メモリアル・ブレザー>": "Sienna (Memorial Blazer)",
     "神父（男）": "Priest (Male)",
     "子供（女）": "Child (Female)",
     "ローザ": "Rosa",
@@ -496,5 +496,7 @@
     "彗星の厄災": "Comet Calamity",
     "リコリット": "Licorit",
     "オーレリナ": "Aurelina",
-    "パウリーナ": "Paulina"
+    "パウリーナ": "Paulina",
+    "ナイア・アリシア": "Naia & Alicia",
+    "娼館客Ｃ": "Brothel Client C"
 }
