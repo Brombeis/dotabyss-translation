@@ -1,6 +1,6 @@
 # Dialogue lines overflowing the box
 
-716 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
+746 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
 
 -  [evs_10200010101:ああ、今日の功労者は間違いなくウェンディだな。<] line 2 overflows by 13%: 'apart and flinging them away, over and over—now that was some serious power!'
 -  [evs_10200010101:なるほど。生まれた日を祝ってあげるんですね……。] line 2 overflows by 12%: 'birthdays—you hold parties on other special days to make that person happy...'
@@ -217,13 +217,37 @@
 -  [hmn_10690100003:――よし、マーケットからの要望はさばき終えたな。] line 2 overflows by 17%: "The budget's secured, and the materials I ordered should arrive next week... yeah."
 -  [hmn_10690100003:そうではないのですが……いつまで、その服装とメイ] line 2 overflows by 8%: 'and makeup? Are you really that into that gyaru-o style Liera taught you...?'
 -  [hmn_10690100003:謙遜するな。これはリエラの得難い才能だ。<br>] line 2 overflows by 4%: 'stay at the Frontline Base permanently, not just during your sightseeing.'
+-  [hmn_10700100001:もちろん新たな投資先を探すための視察よ。 <br] line 2 overflows by 4%: "plenty of new technologies and goods from the Great Hole, aren't there?"
+-  [hmn_10700100001:べ、別に普通よ。これもすごく味が濃いし……。 <] line 2 overflows by 10%: "strong,  too... Don't they want you to enjoy the natural taste of the chicken?"
+-  [hmn_10700100001:まあ、お嬢さんの口に合わないのは仕方ない。<br] line 2 overflows by 15%: 'willing  to pay, there are places where you can get a more fancier meal, though...'
+-  [hmn_10700100001:……工房で魔導機関を見た時もここまで前のめりじゃ] line 2 overflows by 9%: 'the  workshop. Do you really like the local B-grade gourmet food that much?'
+-  [hmn_10700100002:お前たち、よく来てくれたな。 <br>ここに集っ] line 2 overflows by 5%: 'defeated— men who harbor ambition but lack the right to challenge for it.'
+-  [hmn_10700100002:ただのお遊びではないのよ？ <br>私が投資する] line 2 overflows by 12%: 'see  the kind of spirit that allows someone to boldly state their case in public.'
+-  [hmn_10700100002:――オレは本国の闘技場で無敗を誇ったチャンピオン] line 2 overflows by 14%: 'the  funds to procure my gear, I guarantee I’ll deliver results on the battlefield!'
+-  [hmn_10700100002:どこまでの条件なら許容するの？　そのための経費は] line 2 overflows by 11%: 'keep  going? Did you estimate how much an extermination would cost instead?'
+-  [hmn_10700100002:ぼ、ぼくの開発した魔導石を量産したいんです！<b] line 2 overflows by 7%: "feature  where a cute girl's voice cheers you on, making every day happy..."
+-  [hmn_10700100002:ふう……面白い応募がたくさんあったわね。 <br] line 2 overflows by 19%: "one's own  pre-need grave, or selling pillows printed with photos of female knights."
+-  [hmn_10700100002:謙遜ね。最前線で司令官をしているだけのことはある] line 2 overflows by 2%: 'frontline commander. You might actually be worth investing in, though...'
+-  [hmn_10700100002:なら、性能も開発状況も、本当だと信じましょう。 ] line 2 overflows by 6%: 'status  are genuine. So... why are you conducting operations at this base?'
+-  [hmn_10700100002:この基地で負傷兵を見て人助けがしたくなったのね。] line 2 overflows by 16%: "people,  didn't it? It’s a noble sentiment, but as a business venture, it’s a failure."
+-  [hmn_10700100002:……私が却下したプランに、あなたを信じて金貨を出] line 2 overflows by 12%: 'because  I should trust you? You are being incredibly rude to Aurelina Morant.'
+-  [hmn_10700100002:（やっぱり高性能魔導義肢には収益性を感じないわ。] line 2 overflows by 22%: 'prosthetics.  It is an interesting technology, but as a business venture, it’s a failure.)'
+-  [hmn_10700100003:それが……新しい商売を見つければ金貨がもらえると] line 2 overflows by 20%: 'that led  many to venture out in search of ideas, but the base became understaffed.'
+-  [hmn_10700100003:オーレリナが疑問を口にした、その瞬間。<br>猛] line 2 overflows by 11%: 'soldiers  surged forward with ferocious intensity and charged at the monster.'
+-  [hmn_10700100003:温存していたわけじゃない。こいつらはいないはずの] line 2 overflows by 7%: 'here.  ...They’re wounded veterans who lost their limbs in previous battles.'
+-  [hmn_10700100003:負傷してもなお基地に残ろうっていう戦意の塊みたい] line 2 overflows by 6%: 'even  after being wounded. Give them prostethic limbs, and they will fight.'
+-  [hmn_10700100003:……高性能な魔導義肢を必要とするような精鋭は、 ] line 2 overflows by 14%: 'prosthetics  that doesnt want to live safe in their country, but in the frontlines.'
+-  [hmn_10700100003:屋外でも食べやすく、兵士がすぐに栄養補給できるこ] line 2 overflows by 7%: 'can  quickly replenish energy. That’s how I came up with the \u200b\u200bbread rolls.'
 -  [hmn_10710100001:ははは。だが、アイシャ。俺や前線基地の兵士たちを] line 2 overflows by 5%: 'your homeland instead of making me and the base soldiers your subjects?'
 -  [hmn_10710100001:鞭で叩きながら、朝から晩まで臣下に大石を運ばせて] line 2 overflows by 11%: 'while the king sits on his throne up high, laughing his head off as he watches!'
 -  [hmn_10710100001:そうなると王墓の建設も進まない。いちいち鎮圧する] line 2 overflows by 3%: 'rebellions is a hassle. But if you beat me, everyone should be convinced.'
 -  [hmn_10710100002:宝石細工師のジェンマ、魔法石細工師のスティーラ、] line 2 overflows by 11%: "Honoka the blacksmith. They're all top-notch. They had it finished by morning."
 -  [hmn_10720100001:これは占星術には避けられないことなのですが、 <] line 2 overflows by 27%: "such great power, it's difficult to divine small personal matters like an individual's fate..."
 -  [hmn_10720100003:突如、草原一帯を覆うように、強烈な瘴気が発生した] line 2 overflows by 17%: 'corroding them both and dropping them to their knees from the intense headache.'
+-  [hmn_10760100001:リコリットが魔導書に魔力を込めると、クーの力が強] line 2 overflows by 13%: 'strongly. Healing phoenix flames wrap around the wounded, closing the injuries.'
 -  [hmn_10770100001:そりゃ楽しいよ～。冒険はロマン！　宝探しもロマン] line 2 overflows by 2%: 'romance! And if we sell it for a good price, that makes me super happy!'
+-  [hmn_10920100003:ベリサ。以前ヴィーラを助けたいと思った時の気持ち] line 2 overflows by 3%: 'Channel that heartfelt wish to protect someone precious into the magic.'
+-  [hmn_10920100003:ベリサが両手で杖を構え、大岩を睨み据える。<br] line 2 overflows by 5%: 'Explosive mana rises into pure white flame, warping the air like heat haze.'
 -  [hmn_11090100003:突然のナマコ爆撃から彼氏が彼女を庇う！<br>と] line 2 overflows by 10%: "girlfriend from the barrage! Anyway, Organizer, isn't that against the rules?!"
 -  [hmn_111700100001:ファリスから何度、家族や仲間、故郷を奪えば気が済] line 2 overflows by 5%: "you're satisfied?! Why always get in my way when I try, is what I'm saying!"
 -  [hmn_111700100002:なんかそこまで言われると、からかわれてる気がする] line 2 overflows by 2%: "don't mind, but we're outside and there are people watching, you know?"
@@ -600,6 +624,7 @@
 -  [hmr_10720100032:重なる視線と快感。星空の下、互いの身体に溺れてい] line 2 overflows by 6%: "drowned in each other's bodies. And then we thrust onward toward climax."
 -  [hmr_10720100032:快楽の波に背筋を震わせながら、大量の精液を放出す] line 2 overflows by 18%: 'amount of cum. Christie too had reached a powerful climax, her whole body jerking.'
 -  [hmr_10720100032:子宮が受け止められなかった精液が結合部からどろり] line 2 overflows by 40%: 'were joined. The sensation of it trickling down her thigh caused her cheeks to soften into a smile.'
+-  [hmr_10760100021:よぅしっ、復習も完璧です！　１週間も徹夜で勉強し] line 2 overflows by 4%: 'so now I can definitely make the customer feel really good and heal him♪'
 -  [hmr_10770100012:メリッサの瞳には、初体験の不安と、快感への期待が] line 2 overflows by 8%: 'anticipation of pleasure. I gently pressed my cock against her wet entrance.'
 -  [hmr_10770100012:最後の一突きでメリッサは身体をのけぞらせてピクピ] line 2 overflows by 4%: 'shuddering. As she climaxed, I released a torrent of cum deep inside her.'
 -  [hmr_10770100022:弾力のあるメリッサの胸が両側から手で押し付けられ] line 2 overflows by 3%: "hands, molding them to envelop the customer's manhood in their warmth."
@@ -610,6 +635,7 @@
 -  [hmr_10770100032:快感を引き出そうとするように、先ほどより速いテン] line 2 overflows by 25%: 'hot-spring-heated skin rubbed together, sending pleasure crashing from inside and out.'
 -  [hmr_10770100032:すごく気持ちいい――と、素直な感想を忖度なく伝え] line 2 overflows by 4%: 'Wrapped in a wave of heat, I felt my sanity consumed along with my body.'
 -  [hmr_10770100032:快楽に突き動かされるようにメリッサの腰の動きが速] line 2 overflows by 7%: 'hot-spring-wet skin rubbing fiercely together, setting a passionate rhythm.'
+-  [hmr_10920100033:巨大な白炎の火球が放たれ、轟音と共に前方の岩山へ] line 2 overflows by 4%: 'ahead with a roar, causing a dazzling explosion that rewrites the terrain.'
 -  [hmr_11090100012:なおも膣内で脈動する男根と女性器の間から<br>] line 2 overflows by 4%: 'juices spilled from where we were joined, dripping down to stain us both.'
 -  [hmr_11090100022:ローションを塗ってテカテカにして擦りつけると<b] line 2 overflows by 3%: "everyone says they're fluffier and feel better than expected, you know?"
 -  [hmr_11090100022:ニナの甘い囁きが男の鼓膜を刺激する。<br>その] line 2 overflows by 5%: 'through his very brain—the finishing stroke for a man already at his limit.'
@@ -717,4 +743,8 @@
 -  [men_10510100002:迷子になりそうってのもあるんですが……。実は最近] line 2 overflows by 7%: 'something—just holding your hand, Master, brings a gentle warmth into me.'
 -  [men_10680100003:まったく。君たち人間は頑張りすぎだ。そんなところ] line 2 overflows by 11%: "respect it, but there's a limit. Come now, I'll let you rest your head on my lap."
 -  [men_10680100003:ふふ……よしよし。素直でいい子だ。このまま３日く] line 2 overflows by 24%: "three days, just relax. It's a special service only for you, because you're special to me."
+-  [men_10700100001:あとは……護身用かしら？　この傘は武器としても使] line 2 overflows by 14%: 'weapon. If some scoundrel tries to lay a hand on me, I can jab right with the tip.'
+-  [men_10700100002:いま丁度、あなたを癒すグッズを開発している最中な] line 2 overflows by 6%: 'now.  Portable hot springs, slime beds... and all sorts of other things, too.'
+-  [men_10700100002:やっぱり大穴から発見された技術は革新的ね。莫大な] line 2 overflows by 7%: "They cost a lot, but for the Commander, I won't hold back on the spending."
+-  [men_10700100002:なぜって……だってあなた、ただお金を渡しても受け] line 2 overflows by 10%: 'Even though I’d \u200b\u200bgladly give any amount to a commander worth investing in.'
 -  [men_10720100001:具体的に言うと、仕上げた書類にインクをぶちまけ、] line 2 overflows by 60%: "little finger on a corner, bite your tongue while eating... and then after a series of other misfortunes, you'll die."
