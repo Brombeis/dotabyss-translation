@@ -5345,5 +5345,13 @@
     "メイベル基本コスチューム": "Mabel Basic Costume",
     "メイベルの基本コスチュームです。": "Mabel's basic costume.",
     "え？　ボクのチェーンソーの出番？　\nこ、心の準備が……！": "Huh? Is it time for my chainsaw?\nI-I need to prepare myself first...!",
-    "メイベルの日常その{[n1]}": "Mabel's Daily Life Pt.{[n1]}"
+    "メイベルの日常その{[n1]}": "Mabel's Daily Life Pt.{[n1]}",
+    "ステミア  Lv{0}をクリアする": "Clear Stemia Lv{0}",
+    "イベント効果を無効にしステミア Lv80をクリアする": "Disable event effect and clear Stemia Lv80",
+    "魔導工学オタクと植物学研究者": "<size=80%><line-height=60%>Magitech Geek and Botany Researcher",
+    "イベント効果が解放されていません。": "Event effects not unlocked.",
+    "ポーションでフルスロットル": "Full Throttle with Potions",
+    "ステミア模擬戦 Lv{0}": "Stemia Mock Battle Lv{0}",
+    "ステミア模擬戦 Lv{0}をクリアで開放": "Clear Stemia Mock Battle Lv{0}",
+    "ステミア Lv{0}": "Stemia Lv{0}"
 }
