@@ -5353,5 +5353,6 @@
     "ポーションでフルスロットル": "Full Throttle with Potions",
     "ステミア模擬戦 Lv{0}": "Stemia Mock Battle Lv{0}",
     "ステミア模擬戦 Lv{0}をクリアで開放": "Clear Stemia Mock Battle Lv{0}",
-    "ステミア Lv{0}": "Stemia Lv{0}"
+    "ステミア Lv{0}": "Stemia Lv{0}",
+    "「ステミア模擬戦 Lv{0}」が解放されました": "\\\"Stemia Mock Battle Lv{0}\\\" has been unlocked"
 }
