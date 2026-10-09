@@ -5301,5 +5301,19 @@
     "夢の国の試練{0}": "Dreamland Trial {0}",
     "夢の国の試練{0}をクリアする": "Clear Dreamland Trial {0}",
     "勝利を呼ぶチアリーダー": "Cheerleader of Victory",
-    "彼女が舞い、声援を送るたびに、\\n戦場の士気は最高潮に達する。\\nその姿は、勝利へ導く希望の女神だ。": "Every time she dances and cheers on her comrades,\\nmorale on the battlefield reaches its peak.\\nShe is the goddess of hope, leading them to victory."
+    "彼女が舞い、声援を送るたびに、\\n戦場の士気は最高潮に達する。\\nその姿は、勝利へ導く希望の女神だ。": "Every time she dances and cheers on her comrades,\\nmorale on the battlefield reaches its peak.\\nShe is the goddess of hope, leading them to victory.",
+    "表示する": "Display",
+    "自動分解確認画面表示の設定": "Display Setting",
+    "自動分解確認の設定": "Auto Dismantle Configuration",
+    "【防具】の設定": "[Armor] Settings",
+    "【アクセサリ】の設定": "[Accessory] Settings",
+    "【武器】の設定": "[Weapon] Settings",
+    "指定した紋章を分解": "Dismantle specific Crest",
+    "いずれか1つ以上選択してください": "Select one or more",
+    "指定したレア度を分解": "Dismantle specific Rarity",
+    "ON（未鑑定あり）": "<line-height=60%><cspace=-0.1em>ON (Include Unappraised)",
+    "ON（未鑑定なし）": "<line-height=60%><cspace=-0.1em>ON (Exclude Unappraised)",
+    "設定内容に該当する装備は分解され、獲得マイレージが表示されます。": "Mileage earned from dismantled equips will be displayed.",
+    "「表示しない」を選択すると、分解前の確認画面は表示されません。": "Selecting \"Do not display\" will not display confirmation screen.",
+    "表示しない": "Do not display"
 }
