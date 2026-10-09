@@ -639,5 +639,15 @@
     "【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【1HIT / {[n1]}】ダメージ / 魅了【{[n2]}秒 / 成功率:30%】 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes the next normal attack to deal [1 hit / {[n1]}] damage / Applies Charm [{[n2]} seconds / success rate: 30%] / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self",
     "最も遠い敵を狙う / 攻撃範囲が【100%】上昇 / 自身が付与する状態異常の確率が【{[n1]}】上昇 /  自身の攻撃力が【{[n2]}】上昇": "Targets the farthest enemy / Attack range increases by [100%] / The chance of status ailments applied by self increases by [{[n1]}] / Self ATK increases by [{[n2]}]",
     "<color=#6B8CFF>紋章：衝撃</color>キャラの攻撃力、防御力、最大HPが【{[n1]}】上昇": "Increase <color=#6B8CFF>Crest: Impact</color> characters' ATK, DEF, and Max HP by [<color=#4CF37B>{[n1]}</color>]",
-    "紋章：衝撃キャラの攻撃力、防御力、最大HPが【{{[n1]}}】上昇": "Increase Crest: Impact characters' ATK, DEF, and Max HP by [{[n1]}]"
+    "紋章：衝撃キャラの攻撃力、防御力、最大HPが【{{[n1]}}】上昇": "Increase Crest: Impact characters' ATK, DEF, and Max HP by [{[n1]}]",
+    "【発動条件】通常回復を3回行う\n【効果】次回の通常回復が対象を中心とした範囲内にいる味方全体に通常回復の【{[n1]}】回復 / 対象に防御力UP【{[n2]} / 10秒】を付与 / 自身に<color=#FF5050>紋章：情熱</color>を【2】付与に変化": "[Trigger] Perform normal healing 3 times\n[Effect] Changes the next normal healing to heal all allies in an area centered on the target for [{[n1]}] of normal healing / Applies DEF Up [{[n2]} / 10 seconds] to the target / Changes applying <color=#FF5050>Crest: Zeal</color> [2] to self",
+    "アカデミーの秀才": "Academy Prodigy",
+    "<color=#FF5050>紋章：情熱</color>が10以上になったとき、火・水・土属性の味方全体に攻撃力UP【{[n1]} / 永続】と防御力UP【{[n2]} / 永続】を付与（クエスト中1回まで）": "When <color=#FF5050>Crest: Zeal</color> reaches 10 or higher, applies ATK Up [{[n1]} / Permanent] and DEF Up [{[n2]} / Permanent] to all Fire, Water, and Soil element allies (once per quest)",
+    "研究者気質": "<cspace=-0.05em><size=90%>Researcher's Temperament",
+    "自身が回復を行ったとき、【50%】の確率で対象に攻撃力UP【{[n1]} / 10秒】を付与": "When self heals, has a [50%] chance to apply ATK Up [{[n1]} / 10 seconds] to the target",
+    "ミレスガルド薬学会の秘蔵っ子": "<cspace=-0.1em><line-height=40%>The Millesgard Pharmaceutical Society's Secret Weapon",
+    "神樹の目覚め": "Awakening of the Divine Tree",
+    "攻撃力が最も高い味方フロント・バック1体に通常回復の【50%】回復 / 対象のスキルを【{[n1]}】チャージ / 攻撃力UP【{[n2]} / 20秒】を付与": "Heals the front or back row ally with the highest ATK for [50%] of normal healing / Charges the target's skill by [{[n1]}] / Applies ATK Up [{[n2]} / 20 seconds]",
+    "対象にスキルチャージ効率UP【{[n1]} / 20秒】を付与 / <color=#FF5050>紋章：情熱</color>が5以上のとき、 スキル与ダメージUP【{[n2]} / 20秒】を付与": "Applies Skill Charge Efficiency Up [{[n1]} / 20 seconds] to the target / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, applies Skill Damage Dealt Up [{[n2]} / 20 seconds]",
+    "研究成果": "Research Results"
 }
