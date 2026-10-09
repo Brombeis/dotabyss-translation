@@ -5315,5 +5315,20 @@
     "ON（未鑑定なし）": "<line-height=60%><cspace=-0.1em>ON (Exclude Unappraised)",
     "設定内容に該当する装備は分解され、獲得マイレージが表示されます。": "Mileage earned from dismantled equips will be displayed.",
     "「表示しない」を選択すると、分解前の確認画面は表示されません。": "Selecting \"Do not display\" will not display confirmation screen.",
-    "表示しない": "Do not display"
+    "表示しない": "Do not display",
+    "アカデミーからきましたステミアです。\nはあ、どうして私がこんな辺境に……": "I'm Stemia, from the Academy.\nSigh... Why am I stuck out in the middle of nowhere...?",
+    "研究": "Research",
+    "ステミアおしごと時基本コスチューム": "Stemia's Basic Work Costume",
+    "ステミアの提案": "Stemia's Proposal",
+    "優秀な薬学者": "An Excellent Pharmacologist",
+    "神樹探索の大冒険": "The Great Adventure of Exploring the Sacred Tree",
+    "正しい学者でいるために": "To Remain a Proper Scholar",
+    "薬の用法用量はお間違えなく": "Please Follow the Recommended Dosage",
+    "作業的性接待": "Routine Sexual Services",
+    "乱れる私は貴方だけに": "I Lose Control Only for You",
+    "ステミアの日常その{[n1]}": "Stemia's Daily Life Pt.{[n1]}",
+    "ミレスガルドの王立アカデミーに飛び級で入学した早熟の秀才。\n女性かつ若年ということで雑務を押し付けられており、入学後は研究に没頭できずにいた。\n研究者気質で、大穴で発見した『神樹』らしき苗を使い様々な効果のポーションを生成できる。\n出世欲は旺盛で、『神樹』の研究でアカデミー内での立場を向上し、好きな研究に没頭したいと考えている。\n": "A precocious prodigy who entered the Royal Academy of Millesgard ahead of schedule.\nAs a young woman, she has been saddled with miscellaneous duties, leaving her unable to focus on research since enrolling.\nA researcher by nature, she can use a sapling resembling the \"Divine Tree\" discovered in the Abyss to create potions with a variety of effects.\nHighly ambitious, she hopes to improve her standing within the Academy through her research on the \"Divine Tree\" and devote herself to the research she loves.\n",
+    "非論理的思考": "Illogical thinking",
+    "ステミア基本コスチューム": "Stemia Basic Costume",
+    "ステミアの基本コスチュームです。": "Stemia's basic costume."
 }
