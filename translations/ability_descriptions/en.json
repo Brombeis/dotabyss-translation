@@ -1,6 +1,6 @@
 {
     "自身の前方範囲内にいる敵全体に【1HIT / 合計{[n1]}】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【2】付与": "Deal [1 Hit / Total {[n1]}] damage to all enemies within area in front of self / Grant <color=#6B8CFF>Crest: Impact</color> [2] to self",
-    "<color=#6B8CFF>紋章：衝撃</color>を5消費し、ダメージ倍率が【{[n1]}】に変化": "Consume 5 <color=#6B8CFF>Crest: Impact</color> and change damage multiplier to [{[n1]}]",
+    "<color=#6B8CFF>紋章：衝撃</color>を5消費し、ダメージ倍率が【{[n1]}】に変化": "Consumes 5 <color=#6B8CFF>Crest: Impact</color> and changes Damage Multiplier to [{[n1]}]",
     "HPが最も低い味方を中心とした範囲内にいる味方全体に自身の最大HP【{[n1]}】分の回復": "Heal all allies within range centered on ally with lowest HP by [{[n1]}] of own Max HP",
     "さらに自身に<color=#FF5050>紋章：情熱</color>を【3】付与 / <color=#FF5050>紋章：情熱</color>が5以上のとき、対象に自身の最大HP【{[n1]}】分のバリア【15秒】を付与": "Additionally grant <color=#FF5050>Crest: Zeal</color> [3] to self / When <color=#FF5050>Crest: Zeal</color> is 5 or more, grant Barrier [15 seconds] to target by [{[n1]}] of own Max HP",
     "最も近い敵を中心とした範囲内にいる敵全体に【1HIT / 合計{[n1]}】ダメージ": "Deal [1 Hit / Total {[n1]}] damage to all enemies within range centered on nearest enemy",
@@ -649,5 +649,14 @@
     "神樹の目覚め": "Awakening of the Divine Tree",
     "攻撃力が最も高い味方フロント・バック1体に通常回復の【50%】回復 / 対象のスキルを【{[n1]}】チャージ / 攻撃力UP【{[n2]} / 20秒】を付与": "Heals the front or back row ally with the highest ATK for [50%] of normal healing / Charges the target's skill by [{[n1]}] / Applies ATK Up [{[n2]} / 20 seconds]",
     "対象にスキルチャージ効率UP【{[n1]} / 20秒】を付与 / <color=#FF5050>紋章：情熱</color>が5以上のとき、 スキル与ダメージUP【{[n2]} / 20秒】を付与": "Applies Skill Charge Efficiency Up [{[n1]} / 20 seconds] to the target / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, applies Skill Damage Dealt Up [{[n2]} / 20 seconds]",
-    "研究成果": "Research Results"
+    "研究成果": "Research Results",
+    "自身の最大HPが【{[n1]}】上昇 / 敵を倒したとき、自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / 【30%】の確率で自身に最大HP【5%】分の回復": "Increases self Max HP by [{[n1]}] / When defeating an enemy, applies <color=#6B8CFF>Crest: Impact</color> [1] to self / Has a [30%] chance to heal self for [5%] of Max HP",
+    "天才マッドマシーナリー": "Genius Mad Machinist",
+    "ビックチェーン": "Big Chain",
+    "自身の前方範囲内にいる敵全体に【1HIT / 合計{[n1]}】ダメージ / 光・闇・無属性の味方全体に会心ダメージ倍率UP【{[n2]} / 20秒】と会心率UP【{[n3]} / 20秒】を付与": "Deals [1 hit / {[n1]} total] damage to all enemies in a frontal area / Applies Critical Damage Multiplier Up [{[n2]} / 20 seconds] and Critical Rate Up [{[n3]} / 20 seconds] to all Light-, Dark-, and Neutral-element allies",
+    "パワーチャージ": "Power Charge",
+    "【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が自身の前方範囲内にいる敵全体に【3HIT / 合計{[n1]}】ダメージ / 光・闇・無属性の味方フロント・バック全体のスキルを【{[n2]}】チャージに変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes the next normal attack to deal [3 hits / {[n1]} total] damage to all enemies in a frontal area / Charges the skills of all Light-, Dark-, and Neutral-element allies in both rows by [{[n2]}]",
+    "スペシャルフォース": "Special Force",
+    "トリニティバイタリティ": "Trinity Vitality",
+    "光・闇・無属性の味方全体の最大HPが【{[n1]}】上昇": "Increases Max HP of all Light, Dark, and None element allies by [{[n1]}]"
 }
