@@ -340,7 +340,7 @@
     "司令官着任": "<line-height=60%>Commander Assumes Command",
     "砂嵐の階層": "Sandstorm Stratum",
     "氷河の階層": "Glacier Stratum",
-    "廃墟の階層": "Ruins Stratum",
+    "廃墟の階層": "Ruined Stratum",
     "闇の階層": "Darkness Stratum",
     "火山の階層": "Volcano Stratum",
     "光の階層": "Light Stratum",
@@ -5354,5 +5354,12 @@
     "ステミア模擬戦 Lv{0}": "Stemia Mock Battle Lv{0}",
     "ステミア模擬戦 Lv{0}をクリアで開放": "Clear Stemia Mock Battle Lv{0}",
     "ステミア Lv{0}": "Stemia Lv{0}",
-    "「ステミア模擬戦 Lv{0}」が解放されました": "\\\"Stemia Mock Battle Lv{0}\\\" has been unlocked"
+    "「ステミア模擬戦 Lv{0}」が解放されました": "\\\"Stemia Mock Battle Lv{0}\\\" has been unlocked",
+    "イベント効果はボスステージで適用されます。": "Event effects applied during Boss Stage.",
+    "ボスステージでのイベント効果の適用": "Apply event effect in stages",
+    "解放効果一覧": "Active effects",
+    "アイテムを消費して解放を行いますか？": "Consume items to unlock?",
+    "アイテムを消費してアップグレードを行いますか？": "Consume items to upgrade?",
+    "全ミュート": "Mute all",
+    "海辺の夜のハプニング": "Nighttime Incident at the Beach"
 }
