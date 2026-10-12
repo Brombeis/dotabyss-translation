@@ -1,6 +1,6 @@
 # Dialogue lines overflowing the box
 
-748 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
+756 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
 
 -  [evs_10200010101:ああ、今日の功労者は間違いなくウェンディだな。<] line 2 overflows by 13%: 'apart and flinging them away, over and over—now that was some serious power!'
 -  [evs_10200010101:なるほど。生まれた日を祝ってあげるんですね……。] line 2 overflows by 12%: 'birthdays—you hold parties on other special days to make that person happy...'
@@ -248,6 +248,13 @@
 -  [hmn_10770100001:そりゃ楽しいよ～。冒険はロマン！　宝探しもロマン] line 2 overflows by 2%: 'romance! And if we sell it for a good price, that makes me super happy!'
 -  [hmn_10920100003:ベリサ。以前ヴィーラを助けたいと思った時の気持ち] line 2 overflows by 3%: 'Channel that heartfelt wish to protect someone precious into the magic.'
 -  [hmn_10920100003:ベリサが両手で杖を構え、大岩を睨み据える。<br] line 2 overflows by 5%: 'Explosive mana rises into pure white flame, warping the air like heat haze.'
+-  [hmn_11080100001:数日後、調査によって噂の回復薬の製作者は判明した] line 2 overflows by 9%: 'The person answered the summons and soon appeared in the command room.'
+-  [hmn_11080100002:まぁ、俺としてはステミアにはまだ前線基地にいてほ] line 2 overflows by 9%: 'longer. The recovery potions from that sapling are too valuable to let go of.'
+-  [hmn_11080100002:ここまで、かぁ……はぁ……せっかく研究者になった] line 2 overflows by 3%: 'at the Academy it was just endless chores under the name of assistant...'
+-  [hmn_11080100002:まぁ、あのモンスターの群れは最初から俺たちを襲お] line 2 overflows by 10%: "start. And we could defeat that big one thanks to Stemia's recovery potion..."
+-  [hmn_11080100003:ええと、『大穴で発見した未知の植物についての経過] line 2 overflows by 8%: 'Hole"... Newly confirmed points since the last report are the following two...'
+-  [hmn_11080100003:そうだな。だから論文の発見者の欄には君の名を記載] line 2 overflows by 9%: 'paper. That should be enough, right? Good experience for someone like you.'
+-  [hmn_11080100003:俺が思うに、『神樹』の管理にステミア以上の適任は] line 2 overflows by 11%: "Stemia. She's without doubt the one who knows it best in this world right now."
 -  [hmn_11090100003:突然のナマコ爆撃から彼氏が彼女を庇う！<br>と] line 2 overflows by 10%: "girlfriend from the barrage! Anyway, Organizer, isn't that against the rules?!"
 -  [hmn_111700100001:ファリスから何度、家族や仲間、故郷を奪えば気が済] line 2 overflows by 5%: "you're satisfied?! Why always get in my way when I try, is what I'm saying!"
 -  [hmn_111700100002:なんかそこまで言われると、からかわれてる気がする] line 2 overflows by 2%: "don't mind, but we're outside and there are people watching, you know?"
@@ -750,3 +757,4 @@
 -  [men_10700100002:やっぱり大穴から発見された技術は革新的ね。莫大な] line 2 overflows by 7%: "They cost a lot, but for the Commander, I won't hold back on the spending."
 -  [men_10700100002:なぜって……だってあなた、ただお金を渡しても受け] line 2 overflows by 10%: 'Even though I’d \u200b\u200bgladly give any amount to a commander worth investing in.'
 -  [men_10720100001:具体的に言うと、仕上げた書類にインクをぶちまけ、] line 2 overflows by 60%: "little finger on a corner, bite your tongue while eating... and then after a series of other misfortunes, you'll die."
+-  [men_11080100003:これだけの最新技術と未知の素材に触れ放題だなんて] line 2 overflows by 10%: "materials is a researcher's dream. I'm truly glad I came to the forward base..."
