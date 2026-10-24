@@ -676,5 +676,6 @@
     "【発動条件】通常攻撃を3回行う\n【効果】次回の通常攻撃が敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[n1]}】ダメージ / <color=#FF5050>紋章：情熱</color>が5以上のとき、自身に会心ダメージ倍率UP【30% / {[n2]}秒】を付与に変化": "[Trigger] Use normal attack 3 times\n[Effect] Changes the next normal attack to deal [1 hit / {[n1]} total] damage to all enemies in an area centered on 1 enemy / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, applies Critical Damage Multiplier Up [30% / {[n2]} seconds] to self",
     "爆速クリーンナップ": "Lightning-Fast Cleanup",
     "ポンコツメイド": "Bumbling Maid",
-    "自身以外の味方キャラから強化効果を受けたとき、【30%】の確率で自身に攻撃力UP【{[n1]}】を付与【累積 / 最大60%】": "When receiving a buff from an allied character other than self, has a [30%] chance to apply ATK Up [{[n1]}] to self [Stacking / Max 60%]"
+    "自身以外の味方キャラから強化効果を受けたとき、【30%】の確率で自身に攻撃力UP【{[n1]}】を付与【累積 / 最大60%】": "When receiving a buff from an allied character other than self, has a [30%] chance to apply ATK Up [{[n1]}] to self [Stacking / Max 60%]",
+    "魅了の効果時間が【{[n1]}秒】に変化 / <color=#6B8CFF>紋章：衝撃</color>を10消費し、ダメージ倍率が【{[n2]}】に変化": "Changes Charm duration to [{[n1]} seconds] / Consumes 10 <color=#6B8CFF>Crest: Impact</color> and changes Damage Multiplier to [{[n2]}]"
 }
