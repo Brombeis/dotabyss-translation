@@ -5433,5 +5433,11 @@
     "お試しステージ": "Trial Stage",
     "みんな順調に強くなってるね\\nあれ……わたしって、必要？": "Everyone's getting stronger\\nat a steady pace, huh...\\nWait... am I even needed here?",
     "スカーレット体験ステージ": "Scarlet Demo Stage",
-    "司令官さんには\\nわたしがついてないと……": "If I'm not by the\\nCommander's side…"
+    "司令官さんには\\nわたしがついてないと……": "If I'm not by the\\nCommander's side…",
+    "豪炎神のツルハシ": "<cspace=-0.05em>Raging Flame God's Pickaxe",
+    "豪炎神の権能：ピッケル": "<cspace=-0.1em><size=90%>Raging Flame Power: Pickaxe",
+    "紋章：情熱が付与されたとき、15秒間火属性の味方全体の防御力【10%】上昇（1編成につき1本分のみ効果発動）": "When Crest: Zeal is applied, increases all Fire-element allies' DEF by [10%] for 15 seconds (only one copy active per team)",
+    "プレイヤーデータの状態と異なる状態で挑戦となります。": "This challenge will use preset team.",
+    "変更不可": "Locked",
+    "固定編成": "Fixed party"
 }
