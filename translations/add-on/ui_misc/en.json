@@ -5439,5 +5439,8 @@
     "紋章：情熱が付与されたとき、15秒間火属性の味方全体の防御力【10%】上昇（1編成につき1本分のみ効果発動）": "When Crest: Zeal is applied, increases all Fire-element allies' DEF by [10%] for 15 seconds (only one copy active per team)",
     "プレイヤーデータの状態と異なる状態で挑戦となります。": "This challenge will use preset team.",
     "変更不可": "Locked",
-    "固定編成": "Fixed party"
+    "固定編成": "Fixed party",
+    "チアリーダー効果": "The Cheerleader Effect",
+    "危ない尋問タイム": "Dangerous Interrogation Time",
+    "ニコニコ飯店からの出前": "Delivery from NicoNico Restaurant"
 }
