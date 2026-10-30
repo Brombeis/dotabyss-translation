@@ -122,11 +122,11 @@
     "<color=#FF5050>紋章：情熱</color>が5以上になったとき、味方全体にスキルチャージ効率UP【{[n1]} / 永続】を付与（クエスト中1回まで）": "When <color=#FF5050>Crest: Zeal</color> reaches 5 or more, grant Skill Charge Efficiency Up [{[n1]} / Permanent] to all allies (once per quest).",
     "味方全体の最大HPが【{[n1]}】上昇": "Increase all allies' Max HP by [{[n1]}].",
     "通常攻撃を2回行うと、次回の通常攻撃が【1HIT / 合計{[n1]}】ダメージに変化 / ノックバック【Lv3】": "After 2 normal attacks, change next normal attack to [1HIT / Total {[n1]}] damage / Knockback [Lv3].",
-    "チェインスキル発動時、自身に攻撃力UP【{[n1]} / 15秒】を付与": "On chain skill activation, grant ATK Up [{[n1]} / 15 seconds] to self.",
+    "チェインスキル発動時、自身に攻撃力UP【{[n1]} / 15秒】を付与": "When a Chain Skill activates, applies ATK UP [{[n1]} / 15 seconds] to self",
     "自身に<color=#FF5050>紋章：情熱</color>が付与されたとき、自身に回避率UP【{[n1]}】付与【累積 / 最大35％】": "When <color=#FF5050>Crest: Zeal</color> is granted to self, grant Evasion Rate Up [{[n1]}] to self [Cumulative / Max 35%].",
     "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{[n1]}】上昇": "Normal attack becomes a 2HIT attack / Increase own skill damage dealt by [{[n1]}] the lower own current HP percentage is.",
     "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃が【1HIT / 合計{[n1]}】】ダメージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Perform 2 normal attacks\n[Effect] Change next normal attack to [1HIT / Total {[n1]}]] damage / Grant <color=#6B8CFF>Crest: Impact</color> [1] to self.",
-    "自身の連撃率が【{[n1]}】上昇": "Increase own multi-hit rate by [{[n1]}].",
+    "自身の連撃率が【{[n1]}】上昇": "Increases self Extra Hit Rate by [{[n1]}]",
     "会心時、自身に攻撃力UP【{[n1]} / 10秒】付与": "On critical hit, grant ATK Up [{[n1]} / 10 seconds] to self.",
     "通常回復を2回行うと、最も近い敵を中心とした範囲内にいる敵全体に魅了【{[n1]}秒 / 成功率:30%】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を1付与": "After 2 normal recoveries, inflict Charm [{[n1]} seconds / Success rate: 30%] on all enemies within range centered on the nearest enemy / Grant <color=#6B8CFF>Crest: Impact</color> [1] to self.",
     "自身の状態異常付与確率が【{[n1]}】上昇": "Increase own status effect application rate by [{[n1]}].",
@@ -686,5 +686,12 @@
     "HP80%以上の味方フロント・バックキャラの攻撃力が【{[n1]}】上昇": "Increases ATK of front and back allies with 80% HP or higher by [{[n1]}]",
     "戦うおてんばお姫様": "The Tomboy Princess Who Fights",
     "ロイヤル・グランドスラム": "Royal Grand Slam",
-    "気高き庇護": "Noble Protection"
+    "気高き庇護": "Noble Protection",
+    "パワー系巫女": "Power-Type Shrine Maiden",
+    "神恩光華衝": "Divine Grace Radiant Strike",
+    "自身に与ダメージUP【{[n1]}】を付与【累積 / 最大20%】 /  敵1体に【1HIT / 合計{[n2]}】ダメージ                                                                        ": "Applies Damage Dealt UP [{[n1]}] to self [Stacks / Max 20%] / Deals [1 hit / {[n2]} total] damage to 1 enemy                                                                        ",
+    "味方全体に攻撃力UP【{[n1]} / 15秒】を付与 / マナを【1】チャージ /  <color=#6B8CFF>紋章：衝撃</color>を10消費し、さらにマナを【1】チャージ": "Applies ATK UP [{[n1]} / 15 seconds] to all allies / Charges Mana by [1] / Consumes 10 <color=#6B8CFF>Crest: Impact</color> to additionally charge Mana by [1]",
+    "千鍛の剛拳": "Thousand-Forged Iron Fist",
+    "神速連打": "Godspeed Flurry",
+    "神威共鳴": "Divine Resonance"
 }
