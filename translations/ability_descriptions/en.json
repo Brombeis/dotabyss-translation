@@ -693,5 +693,7 @@
     "味方全体に攻撃力UP【{[n1]} / 15秒】を付与 / マナを【1】チャージ /  <color=#6B8CFF>紋章：衝撃</color>を10消費し、さらにマナを【1】チャージ": "Applies ATK UP [{[n1]} / 15 seconds] to all allies / Charges Mana by [1] / Consumes 10 <color=#6B8CFF>Crest: Impact</color> to additionally charge Mana by [1]",
     "千鍛の剛拳": "<cspace=-0.1em>Thousand-Forged Iron Fist",
     "神速連打": "Godspeed Flurry",
-    "神威共鳴": "Divine Resonance"
+    "神威共鳴": "Divine Resonance",
+    "連撃時、自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / 会心率UP【20% / {[n1]}秒】を付与\\n【発動条件】常時発動\\n【効果】通常攻撃が【1HIT / 合計{[n2]}秒】ダメージに変化": "On an extra hit, applies <color=#6B8CFF>Crest: Impact</color> [1] and Critical Rate UP [20% / {[n1]} seconds] to self\\n[Trigger] Always active\\n[Effect] Changes normal attacks to deal [1 hit / {[n2]} total] damage",
+    "味方フロント全体に自身の最大HP【{[n1]}】分のバリア【15秒】を付与 / <color=#FF5050>紋章：情熱</color>が10以上のとき、さらに味方フロント全体に防御力UP【30% / {[n2]}】を付与": "Grants a barrier equal to [{[n1]}] of self Max HP to all Front allies for [15 seconds] / When <color=#FF5050>Crest: Zeal</color> is 10 or higher, also grants [30% / {[n2]}] DEF UP to all Front allies"
 }
