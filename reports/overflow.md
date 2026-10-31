@@ -1,6 +1,6 @@
 # Dialogue lines overflowing the box
 
-756 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
+767 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
 
 -  [evs_10200010101:ああ、今日の功労者は間違いなくウェンディだな。<] line 2 overflows by 13%: 'apart and flinging them away, over and over—now that was some serious power!'
 -  [evs_10200010101:なるほど。生まれた日を祝ってあげるんですね……。] line 2 overflows by 12%: 'birthdays—you hold parties on other special days to make that person happy...'
@@ -261,6 +261,14 @@
 -  [hmn_111700100003:他にも家の庭で燻製を作っていたら、煙の匂いを嗅い] line 2 overflows by 19%: 'the smoke and came right away! She soaked all the snacks I was looking forward to!'
 -  [hmn_111700100003:（これは相当まずいな。炎の威力がどんどん増してい] line 2 overflows by 3%: 'only a matter of time before the training grounds are reduced to ashes.)'
 -  [hmn_11200100003:（確かに思い返せば、敵意があるなら別のやり方があ] line 2 overflows by 9%: "could've attacked. ...Kururu caught on to that... Just like a wild child, huh...)"
+-  [hmn_11360100001:（新たに発見された"水の階層"のモンスターの駆逐] line 2 overflows by 5%: 'Safety is secured, but few people are volunteering for the mining team...)'
+-  [hmn_11360100002:大穴の階層を降りた先に広がっていたのは、見渡す限] line 2 overflows by 17%: 'blue. The sound of waves, the scent of the tide, and soft light through the rocks—'
+-  [hmn_11360100002:ヘイリーの漆黒のピッケルの先端は激しく明滅してお] line 2 overflows by 9%: 'light shoots from it, piercing the waves and stretching straight into the sea.'
+-  [hmn_11360100002:（消えた<ruby=にえ>贄</>……代金か。こ] line 2 overflows by 4%: 'decorations plus these optional features, it must have been expensive...)'
+-  [hmn_11360100003:……これを指輪に加工し、互いに薬指に嵌めることで] line 2 overflows by 14%: 'fingers, it forever binds the bodies of the giver and the receiver with a curse...'
+-  [hmn_11360100003:全力で拒否する<user>。素で必死に食い下がる] line 2 overflows by 4%: 'Our back-and-forth echoes for a while through the fantastical airspace—'
+-  [hmn_11360100003:採掘任務を終え、前線基地へと帰還した一行。夜の帳] line 2 overflows by 4%: 'Night has fallen, pale moonlight casting long shadows on the stone floor.'
+-  [hmn_11360100003:ハハハハハ！　その通りだったな！　我と我が<ru] line 2 overflows by 2%: 'bond across time and space! Our soul connection needs no magic stone!'
 -  [hmr_10010100011:い……いえ！　忠誠を捧げた主君を助けることが、騎] line 2 overflows by 55%: 'loyalty! To retreat now would be a disgrace to knighthood! Please, allow me to be of use to you, Commander!'
 -  [hmr_10010100012:胸の感触はというと、極上の柔らかさだった。力を入] line 2 overflows by 6%: 'squeezed. I meant to get her used to it, but got lost in how good they felt.'
 -  [hmr_10010100012:お言葉に甘えて、ローザの乳房を思う存分に揉みしだ] line 2 overflows by 9%: 'content. Under my palms, her soft breasts changed shape in an amusing way.'
@@ -758,3 +766,6 @@
 -  [men_10700100002:なぜって……だってあなた、ただお金を渡しても受け] line 2 overflows by 10%: 'Even though I’d \u200b\u200bgladly give any amount to a commander worth investing in.'
 -  [men_10720100001:具体的に言うと、仕上げた書類にインクをぶちまけ、] line 2 overflows by 60%: "little finger on a corner, bite your tongue while eating... and then after a series of other misfortunes, you'll die."
 -  [men_11080100003:これだけの最新技術と未知の素材に触れ放題だなんて] line 2 overflows by 10%: "materials is a researcher's dream. I'm truly glad I came to the forward base..."
+-  [men_11360100002:わ、我が左目の封印を解きし時……鏡を見て我は言葉] line 2 overflows by 13%: 'speechless... An evil god’s curse has etched a white brand on my browned skin!'
+-  [men_11360100002:ぐぬぬぬ！　こ、これも闇に染まった我に課せられた] line 2 overflows by 16%: 'darkness...?! To suffer the humiliation of never removing the eyepatch in public...'
+-  [men_11360100003:えっ！？　これもいい夏の思い出！？　全然いい思い] line 2 overflows by 2%: 'all... This summer I’ve been tangled in kelp, gotten sunburned... Haaa~...'
