@@ -55,7 +55,7 @@
     "拳を振るうたびに火の玉が飛んでいき、モンスターに命中し続ける。<br>猛攻を受けたモンスターは力を失い、絶命した。": "Every punch sent a fireball into the monster, battering it until it<br>collapsed and died.<br> ",
     "はっ、はぁっ……あ、あたし、倒した……？<br>ひとりで……？": "*pant, pant*... I-I beat it...? On my own...?<br> ",
     "……": "...<br> ",
-    "…………": "...<br> ",
+    "…………": "…",
     "あ、みんな……なんで黙ってるの？": "Ah, everyone... why's everyone so quiet?<br> ",
     "うおーっ、すげぇー！<br>なんだ今の戦い方！？": "Whoa, incredible! What kind of fighting style was that?!<br> ",
     "格闘と魔法をミックスさせた戦い方なんて初めて見たぞ！？<br>司令官、この子のどこが弱いんですか！？": "I've never seen a style that mixes martial arts and magic! Commander,<br>what part of her is supposed to be weak?<br> ",
@@ -96,7 +96,7 @@
     "しょ、しょうがないじゃん～。<br>それがあたしなんだもん！": "W-well, I can't help it! That's just who I am!<br> ",
     "ハッハッハ。確かにな。<br>まぁ、仕事に差し支えない範囲でなら教えてやる。": "Ha ha ha. True enough. Well, as long as it doesn't interfere with work,<br>I'll teach you.<br> ",
     "やったねーっ♪": "Alright, Teacher!♪<br> ",
-    "どわっ！？": "Whoa!<br> ",
+    "どわっ！？": "Whoa?!",
     "イオラは<user>にいきなり抱き付いた。": "Iola suddenly hugged the Commander.<br> ",
     "これからよろしくね、先生♪": "I'm counting on you from now on, Teacher!♪<br> "
 }
