@@ -1,6 +1,6 @@
 # Dialogue lines overflowing the box
 
-767 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
+766 line(s). The second line of the dialogue box is wider than the 1530-unit budget, usually because the translation is longer than the Japanese or contains an unbreakable word.
 
 -  [evs_10200010101:ああ、今日の功労者は間違いなくウェンディだな。<] line 2 overflows by 13%: 'apart and flinging them away, over and over—now that was some serious power!'
 -  [evs_10200010101:なるほど。生まれた日を祝ってあげるんですね……。] line 2 overflows by 12%: 'birthdays—you hold parties on other special days to make that person happy...'
@@ -653,7 +653,6 @@
 -  [hmr_10770100032:快楽に突き動かされるようにメリッサの腰の動きが速] line 2 overflows by 7%: 'hot-spring-wet skin rubbing fiercely together, setting a passionate rhythm.'
 -  [hmr_10920100033:巨大な白炎の火球が放たれ、轟音と共に前方の岩山へ] line 2 overflows by 4%: 'ahead with a roar, causing a dazzling explosion that rewrites the terrain.'
 -  [hmr_11000100022:柔らかく、それでありながらしっかりと締まる太腿の] line 2 overflows by 9%: 'intense,\nsending a powerful wave of pleasure through the man. As a result—'
--  [hmr_11090100012:なおも膣内で脈動する男根と女性器の間から<br>] line 2 overflows by 4%: 'juices spilled from where we were joined, dripping down to stain us both.'
 -  [hmr_11090100022:ローションを塗ってテカテカにして擦りつけると<b] line 2 overflows by 3%: "everyone says they're fluffier and feel better than expected, you know?"
 -  [hmr_11090100022:ニナの甘い囁きが男の鼓膜を刺激する。<br>その] line 2 overflows by 5%: 'through his very brain—the finishing stroke for a man already at his limit.'
 -  [hmr_11090100032:『好き』と口にする度に快感が増していく。<br>] line 2 overflows by 3%: 'sweeter it felt, the more tenderness flooded her chest like a tidal wave.'
