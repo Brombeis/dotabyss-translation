@@ -5530,5 +5530,17 @@
     "みんなで掴んだ心の力": "The Power of the Heart We All Shared",
     "絆の力で立ち向かえ！をクリア": "Clear Face It With the Power of Bonds!",
     "ノブレス――絆の覚醒": "<size=90%><line-height=60%>Noblesse: Awakening of Bonds",
-    "アシュリーには、まず謝って、\n彼女が好きなあやとりをして……\nうぅ～、緊張するわぁ～～っ": "First, I'll apologize to Ashley, \nthen do the string figures she likes... \nUgh, I'm so nervous!"
+    "アシュリーには、まず謝って、\n彼女が好きなあやとりをして……\nうぅ～、緊張するわぁ～～っ": "First, I'll apologize to Ashley, \nthen do the string figures she likes... \nUgh, I'm so nervous!",
+    "中級【勢力】バフ": "Mid [Faction] Buff",
+    "ルクスノヴァ以外の勢力を各2人以上編成": "2 units from each factions excluding Luxnova",
+    "上級【勢力】バフ": "High [Faction] Buff",
+    "ルクスノヴァ1人以上、他勢力を2人以上編成": "1 Luxnova unit and 2 units from each factions",
+    "私たちルクスノヴァの技術は\nこの世界には早すぎる危険物……\n接触は前線基地だけにしないと": "Our Luxnova technology\nis too dangerously advanced\nfor this world... We must limit\ncontact to forward base only.",
+    "転移者保護や危険な異物回収……\n大穴は広すぎて私たちだけでは\n手が回らないのも事実よ": "Protecting those who’ve\narrived from other worlds,\nrecovering dangerous foreign objects…\nTruth is, the Abyss is just too\nvast for us to handle on our own.",
+    "「特別依頼クエスト{0}」が解放されました。": "[Special Request {0}] hase been unlocked.",
+    "ルクスノヴァ以外の勢力を各1人以上編成": "1 unit from each factions excluding Luxnova",
+    "クエストごとに様々な効果が発生します。（内容はクエスト詳細で確認できます。）": "Each quest triggers various effects. (Check quest desc.)",
+    "前線基地の司令官は\n話が通じやすくて助かるわ": "It’s a relief that the\ncommander of the forward base\nis so easy to talk to.",
+    "初級【勢力】バフ": "Normal [Faction] Buff",
+    "味方全体の攻撃力、防御力、最大HPが【<color=#4CF37B>{[n1]}</color>】上昇": "All allies gain ATK, DEF, and Max HP UP by [{[n1]}]"
 }
