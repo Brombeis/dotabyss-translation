@@ -695,5 +695,15 @@
     "神速連打": "Godspeed Flurry",
     "神威共鳴": "Divine Resonance",
     "連撃時、自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / 会心率UP【20% / {[n1]}秒】を付与\\n【発動条件】常時発動\\n【効果】通常攻撃が【1HIT / 合計{[n2]}】ダメージに変化": "On an extra hit, applies <color=#6B8CFF>Crest: Impact</color> [1] and Critical Rate UP [20% / {[n1]} seconds] to self\\n[Trigger] Always active\\n[Effect] Changes normal attacks to deal [1 hit / {[n2]} total] damage",
-    "味方フロント全体に自身の最大HP【{[n1]}】分のバリア【15秒】を付与 / <color=#FF5050>紋章：情熱</color>が10以上のとき、さらに味方フロント全体に防御力UP【30% / {[n2]}秒】を付与": "Applies a barrier equal to [{[n1]}] of self Max HP [15 seconds] to all front allies / When <color=#FF5050>Crest: Zeal</color> is 10 or higher, also applies DEF UP [30% / {[n2]} seconds] to all front allies"
+    "味方フロント全体に自身の最大HP【{[n1]}】分のバリア【15秒】を付与 / <color=#FF5050>紋章：情熱</color>が10以上のとき、さらに味方フロント全体に防御力UP【30% / {[n2]}秒】を付与": "Applies a barrier equal to [{[n1]}] of self Max HP [15 seconds] to all front allies / When <color=#FF5050>Crest: Zeal</color> is 10 or higher, also applies DEF UP [30% / {[n2]} seconds] to all front allies",
+    "引きこもり幻光乱舞": "<cspace=-0.1em><line-height=40%>Shut-In Phantasmal Light Frenzy",
+    "光紡ぎのロンド": "Rondo of Lightweaving",
+    "蓄光のリズム": "<cspace=-0.1em>Phosphorescent Rhythm",
+    "ダメージを与えたとき、【15%】の確率で光・闇・無属性の味方フロント・バック全体に自身の最大HP【{[n1]}】分のバリア【10秒】を付与": "When dealing damage, has a [15%] chance to apply a barrier equal to [{[n1]}] of self Max HP for [10 seconds] to all Light, Dark, and Neutral allies in the front and back rows",
+    "天才の気まぐれ": "A Genius's Whim",
+    "最大HPが【{[n1]}】上昇 / 敵が戦闘不能になったとき、【15%】の確率で自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Increases self Max HP by [{[n1]}] / When an enemy is defeated, has a [15%] chance to apply <color=#6B8CFF>Crest: Impact</color> [1] to self",
+    "光・闇・無属性の味方全体に防御力UP【{[n1]} / 25秒】と攻撃力UP【{[n2]} / 5秒】を付与": "Applies DEF UP [{[n1]} / 25 seconds] and ATK UP [{[n2]} / 5 seconds] to all Light, Dark, and Neutral allies",
+    "攻撃力UPの効果時間が【10秒】に変化 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【2】付与 / <color=#6B8CFF>紋章：衝撃</color>を10消費し、光・闇・無属性の味方全体にスキル与ダメージUP【{[n1]} / 5秒】を付与": "ATK UP duration changes to [10 seconds] / Applies <color=#6B8CFF>Crest: Impact</color> [2] to self / Consumes 10 <color=#6B8CFF>Crest: Impact</color> to apply Skill Damage Dealt UP [{[n1]} / 5 seconds] to all Light, Dark, and Neutral allies",
+    "【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{[n1]}】ダメージ / 自身のスキルを【{[n2]}】チャージに変化": "[Trigger] Always active\n[Effect] Changes normal attacks to deal [1 hit / {[n1]} total] damage / Changes self skill to [{[n2]}] charge",
+    "護りの綾目": "Protective Twill"
 }
