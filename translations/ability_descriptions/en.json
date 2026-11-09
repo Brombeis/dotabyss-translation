@@ -705,5 +705,15 @@
     "光・闇・無属性の味方全体に防御力UP【{[n1]} / 25秒】と攻撃力UP【{[n2]} / 5秒】を付与": "Applies DEF UP [{[n1]} / 25 seconds] and ATK UP [{[n2]} / 5 seconds] to all Light, Dark, and Neutral allies",
     "攻撃力UPの効果時間が【10秒】に変化 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【2】付与 / <color=#6B8CFF>紋章：衝撃</color>を10消費し、光・闇・無属性の味方全体にスキル与ダメージUP【{[n1]} / 5秒】を付与": "ATK UP duration changes to [10 seconds] / Applies <color=#6B8CFF>Crest: Impact</color> [2] to self / Consumes 10 <color=#6B8CFF>Crest: Impact</color> to apply Skill Damage Dealt UP [{[n1]} / 5 seconds] to all Light, Dark, and Neutral allies",
     "【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{[n1]}】ダメージ / 自身のスキルを【{[n2]}】チャージに変化": "[Trigger] Always active\n[Effect] Changes normal attacks to deal [1 hit / {[n1]} total] damage / Changes self skill to [{[n2]}] charge",
-    "護りの綾目": "Protective Twill"
+    "護りの綾目": "Protective Twill",
+    "蒼翼の哨兵ナンバー００１": "<cspace=-0.1em>Azurewing Sentinel No. 001",
+    "アクア・テンペスト": "Aqua Tempest",
+    "敵1体を中心とした範囲内の敵全体に【4HIT / {[n1]}】ダメージ / 攻撃力DOWN【{[n2]} / 12.5秒】を付与 ": "Deals [4 hits / {[n1]}] damage to all enemies in an area centered on 1 enemy / Applies ATK DOWN [{[n2]} / 12.5 seconds] ",
+    "ダメージ倍率が【{[n1]}】に変化 / 味方全体の炎上状態を解除 / <color=#FF5050>紋章：情熱</color>が5以上のとき、攻撃力DOWNの効果時間が【{[n2]}秒】に変化": "Damage Multiplier changes to [{[n1]}] / Removes Burn from all allies / When <color=#FF5050>Crest: Zeal</color> is 5 or higher, ATK DOWN duration changes to [{[n2]} seconds]",
+    "飛行して移動する\n【発動条件】通常攻撃を2回発動\n【効果】次回の通常攻撃が対象を中心とした範囲内の敵全体に【3HIT /  {[n1]}】ダメージ / 攻撃力DOWNが付与されている敵に防御力DOWN【7.5% / 10秒】を付与 / 自身に<color=#FF5050>紋章：情熱</color>を【1】付与": "Moves by flying\n[Trigger] Use normal attack 2 times\n[Effect] Changes the next normal attack to deal [3 hits / {[n1]}] damage to all enemies in an area centered on the target / Applies DEF DOWN [7.5% / 10 seconds] to enemies with ATK DOWN / Apply <color=#FF5050>Crest: Zeal</color> [1] to self",
+    "タイダル・チャージャー": "Tidal Charger",
+    "ホバー・ストリーム": "Hover Stream",
+    "<color=#FF5050>紋章：情熱</color>が10以上のとき、自身のスキルチャージ効率が【{[n1]}】上昇】": "When <color=#FF5050>Crest: Zeal</color> is 10 or higher, increases self skill charge efficiency by [{[n1]}]",
+    "蒼翼の波紋": "Azurewing Ripples",
+    "30秒に1回、攻撃力DOWNが付与されたランダムな敵1体に攻撃力DOWN【{[n1]} / 15秒】を付与": "Once every 30 sec, applies ATK DOWN [{[n1]} / 15 seconds] to 1 random enemy with ATK DOWN"
 }
