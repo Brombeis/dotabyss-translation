@@ -5587,5 +5587,9 @@
     "ファリス模擬戦 Lv{0}": "Faris Mock Battle Lv{0}",
     "ファリス模擬戦 Lv{0}をクリアで開放": "Clear Faris Mock Battle Lv{0} to unlock",
     "アシュリー ＆ファリスLv{0}をクリアする": "Clear Ashley & Faris Lv{0}",
-    "「ファリス模擬戦 Lv{0}」が解放されました": "[Faris Lv{0}] has been unlocked"
+    "「ファリス模擬戦 Lv{0}」が解放されました": "[Faris Lv{0}] has been unlocked",
+    "選択数の合計は300までです": "Max 300 items",
+    "選択したBOX内容を獲得しますか？": "Claim the selected BOX content?",
+    "獲得": "Get item",
+    "以下のBOX内容を獲得しました。": "Received following contents from the BOX."
 }
