@@ -5131,7 +5131,7 @@
     "模擬戦【飢餓】{[n1]}": "<size=75%>Mock Battle [Famine] {[n1]}",
     "「ヴォイド・ゼロ」を阻止しよう": "Let's Stop [Void Zero]",
     "「飢餓」効果の対策": "<size=80%>[Starvation] Countermeasure",
-    "ドMナイト先輩(弱点属性なし)": "<size=75%>Maso-Night Senpai (No Weakness)",
+    "ドMナイト先輩(弱点属性なし)": "<size=75%>Maso-Knight Senpai (No Weakness)",
     "今後各属性耐性別のクエストを追加予定。\nお楽しみに！": "Quests for each element res in planning.\nStay tuned!",
     "「ハイバネーション」の解除": "Disengaging \"Hibernation\"",
     "模擬戦【氷河】{[n1]}": "<size=75%>Mock Battle [Glacier] {[n1]}",
@@ -5625,5 +5625,6 @@
     "レイヴンの日常その{[n1]}": "Raven's Daily Life Pt.{[n1]}",
     "ペルディオン出身の凄腕の医師。\n大穴の瘴気がもたらす奇病で妹を失った過去から魔法を捨てメスと知識のみを頼る闇医者となった。\n亡き妹への弔いとして黒いローブを羽織り、病の真相を追って前線基地へ赴く。\n人間不信ゆえに冷徹に振る舞うが、根は誰より命に真摯な完璧主義者。": "A highly skilled doctor from Perdion.\nAfter losing her younger sister to a strange illness caused by the Abyss's miasma, she abandoned magic and became an underground doctor relying solely on her scalpel and knowledge.\nWearing black robes in mourning for her late sister, she heads to the forward base in pursuit of the truth behind the disease.\nThough she acts coldly due to her distrust of others, she is at heart a perfectionist more devoted to saving lives than anyone.",
     "読書": "Reading",
-    "魔法への盲信": "Blind faith in magic"
+    "魔法への盲信": "Blind faith in magic",
+    "喪服の医術師": "The Mourning-Clad Physician"
 }
