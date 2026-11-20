@@ -715,5 +715,15 @@
     "ホバー・ストリーム": "Hover Stream",
     "<color=#FF5050>紋章：情熱</color>が10以上のとき、自身のスキルチャージ効率が【{[n1]}】上昇】": "When <color=#FF5050>Crest: Zeal</color> is 10 or higher, increases self skill charge efficiency by [{[n1]}]",
     "蒼翼の波紋": "Azurewing Ripples",
-    "30秒に1回、攻撃力DOWNが付与されたランダムな敵1体に攻撃力DOWN【{[n1]} / 15秒】を付与": "Once every 30 sec, applies ATK DOWN [{[n1]} / 15 seconds] to 1 random enemy with ATK DOWN"
+    "30秒に1回、攻撃力DOWNが付与されたランダムな敵1体に攻撃力DOWN【{[n1]} / 15秒】を付与": "Once every 30 sec, applies ATK DOWN [{[n1]} / 15 seconds] to 1 random enemy with ATK DOWN",
+    "敬虔な狂信者": "Devout Fanatic",
+    "ブラッド・チェイン": "Blood Chain",
+    "リベリオン": "Rebellion",
+    "<color=#6B8CFF>紋章：衝撃</color>を消費したとき、光・闇・無属性の味方全体に攻撃力UP【{[n1]} / 15秒】　/ 自身にスキルチャージ効率UP【{[n2]} / 15秒】と<color=#6B8CFF>紋章：衝撃</color>を【1】付与                                                                        ": "When consuming <color=#6B8CFF>Crest: Impact</color>, applies ATK UP [{[n1]} / 15 seconds] to all Light, Dark, and Neutral allies / Applies Skill Charge Efficiency UP [{[n2]} / 15 seconds] and <color=#6B8CFF>Crest: Impact</color> [1] to self                                                                        ",
+    "前方範囲内にいる敵全体に【3HIT / 合計{[n1]}】ダメージ / 自身に最大HPの【20%】を消費(この効果でHPは0にならない)し、自身の最大HP【{[n2]}】分のバリア【30秒】を付与": "Deals [3 hit / {[n1]} total] damage to all enemies in the forward area / Consumes [20%] of self's Max HP (cannot reduce HP to 0) and applies a barrier equal to [{[n2]}] of self's Max HP for [30 seconds]",
+    "自身にスキル与ダメージUP【{[n1]}】を付与【累積 / 最大40%】 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、ダメージ倍率が【{[n2]}】に変化": "Applies Skill Damage Dealt UP [{[n1]}] to self [Stacks / Max 40%] / Consumes 5 <color=#6B8CFF>Crest: Impact</color> and changes Damage Multiplier to [{[n2]}]",
+    "執行体勢": "Execution Stance",
+    "【発動条件】通常攻撃を2回行う\n【効果】通常攻撃が【1HIT / 合計{[n1]}】ダメージに変化 / 自身に回避率UP【{[n2]}】を付与【累積 / 最大35%】に変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes normal attack to deal [1 hit / {[n1]} total] damage / Changes to apply Evasion Rate UP [{[n2]}] to self [Stacks / Max 35%]",
+    "歪んだ忠誠心": "Twisted Loyalty",
+    "スキル発動時、味方フロント全体に会心率UP【{[n1]} / 10秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Applies Critical Rate UP [{[n1]} / 10 sec] to all frontline allies / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self"
 }
