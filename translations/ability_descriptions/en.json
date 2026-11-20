@@ -730,7 +730,7 @@
     "スタットコール": "Stat Call",
     "味方キャラが状態異常になったとき、自身のスキルを【{[n1]}】チャージ": "Charges own skill by [{[n1]}] when an ally is afflicted with a status ailment",
     "喪服の誓い": "Oath of Mourning",
-    "喪服の医術師": "Physician in Mourning Attire",
+    "喪服の医術師": "The Mourning-Clad Physician",
     "ブラック・カルテ": "Black Carte",
     "状態異常が付与されている味方フロント・バックの最もHP割合が低い味方1体に通常回復の【{[n1]}】の回復 / 対象の状態異常を解除 / 対象がいないとき、最もHP割合が低い味方1体に通常回復の【{[n2]}】の回復": "Heals the frontline or backline ally with the lowest HP percentage who is afflicted with a status ailment for [{[n1]}] of normal healing / Removes the target's status ailments / If there is no target, heals the ally with the lowest HP percentage for [{[n2]}] of normal healing",
     "対象にスキル与ダメージUP【{[n1]} / 20秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、対象に麻痺耐性【{[n2]} / 20秒】と魅了耐性【{[n3]} / 20秒】と喪失耐性【{[n4]} / 20秒】を付与": "Applies Skill Damage Dealt UP [{[n1]} / 20 seconds] to the target / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self / Consumes 5 <color=#6B8CFF>Crest: Impact</color> and applies Paralysis Resistance [{[n2]} / 20 seconds], Charm Resistance [{[n3]} / 20 seconds], and Loss Resistance [{[n4]} / 20 seconds] to the target",
