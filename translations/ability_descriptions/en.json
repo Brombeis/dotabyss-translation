@@ -725,5 +725,15 @@
     "執行体勢": "Execution Stance",
     "【発動条件】通常攻撃を2回行う\n【効果】通常攻撃が【1HIT / 合計{[n1]}】ダメージに変化 / 自身に回避率UP【{[n2]}】を付与【累積 / 最大35%】に変化": "[Trigger] Use normal attack 2 times\n[Effect] Changes normal attack to deal [1 hit / {[n1]} total] damage / Changes to apply Evasion Rate UP [{[n2]}] to self [Stacks / Max 35%]",
     "歪んだ忠誠心": "Twisted Loyalty",
-    "スキル発動時、味方フロント全体に会心率UP【{[n1]} / 10秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Applies Critical Rate UP [{[n1]} / 10 sec] to all frontline allies / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self"
+    "スキル発動時、味方フロント全体に会心率UP【{[n1]} / 10秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与": "Applies Critical Rate UP [{[n1]} / 10 sec] to all frontline allies / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self",
+    "自身の麻痺・魅了・喪失耐性が【{[n1]}】上昇 / チェインスキル発動時、光・闇・無属性の味方全体に通常回復の【{[n2]}】回復": "Increases self's Paralysis, Charm, and Loss Resistance by [{[n1]}] / When activating a Chain Skill, heals all Light, Dark, and Neutral allies for [{[n2]}] of normal healing",
+    "スタットコール": "Stat Call",
+    "味方キャラが状態異常になったとき、自身のスキルを【{[n1]}】チャージ": "Charges own skill by [{[n1]}] when an ally is afflicted with a status ailment",
+    "喪服の誓い": "Oath of Mourning",
+    "喪服の医術師": "Physician in Mourning Attire",
+    "ブラック・カルテ": "Black Carte",
+    "状態異常が付与されている味方フロント・バックの最もHP割合が低い味方1体に通常回復の【{[n1]}】の回復 / 対象の状態異常を解除 / 対象がいないとき、最もHP割合が低い味方1体に通常回復の【{[n2]}】の回復": "Heals the frontline or backline ally with the lowest HP percentage who is afflicted with a status ailment for [{[n1]}] of normal healing / Removes the target's status ailments / If there is no target, heals the ally with the lowest HP percentage for [{[n2]}] of normal healing",
+    "対象にスキル与ダメージUP【{[n1]} / 20秒】を付与 / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与 / <color=#6B8CFF>紋章：衝撃</color>を5消費し、対象に麻痺耐性【{[n2]} / 20秒】と魅了耐性【{[n3]} / 20秒】と喪失耐性【{[n4]} / 20秒】を付与": "Applies Skill Damage Dealt UP [{[n1]} / 20 seconds] to the target / Applies <color=#6B8CFF>Crest: Impact</color> [1] to self / Consumes 5 <color=#6B8CFF>Crest: Impact</color> and applies Paralysis Resistance [{[n2]} / 20 seconds], Charm Resistance [{[n3]} / 20 seconds], and Loss Resistance [{[n4]} / 20 seconds] to the target",
+    "完全無欠の処方": "Flawless Prescription",
+    "【発動条件】通常回復を3回行う\n【効果】次回の通常回復が通常回復の【{[n1]}】回復 / 対象に最大HPUP【{[n2]} / 15秒】を付与 / スキルを【3％】チャージ / 自身に<color=#6B8CFF>紋章：衝撃</color>を【1】付与に変化": "[Trigger] Perform normal healing 3 times\n[Effect] Changes the next normal healing to heal for [{[n1]}] of normal healing / Applies Max HP UP [{[n2]} / 15 seconds] to the target / Charges skill by [3%] / Changes applying <color=#6B8CFF>Crest: Impact</color> [1] to self"
 }
