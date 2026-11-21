@@ -5626,5 +5626,19 @@
     "ペルディオン出身の凄腕の医師。\n大穴の瘴気がもたらす奇病で妹を失った過去から魔法を捨てメスと知識のみを頼る闇医者となった。\n亡き妹への弔いとして黒いローブを羽織り、病の真相を追って前線基地へ赴く。\n人間不信ゆえに冷徹に振る舞うが、根は誰より命に真摯な完璧主義者。": "A highly skilled doctor from Perdion.\nAfter losing her younger sister to a strange illness caused by the Abyss's miasma, she abandoned magic and became an underground doctor relying solely on her scalpel and knowledge.\nWearing black robes in mourning for her late sister, she heads to the forward base in pursuit of the truth behind the disease.\nThough she acts coldly due to her distrust of others, she is at heart a perfectionist more devoted to saving lives than anyone.",
     "読書": "Reading",
     "魔法への盲信": "Blind faith in magic",
-    "喪服の医術師": "The Mourning-Clad Physician"
+    "喪服の医術師": "The Mourning-Clad Physician",
+    "キャラクターのアビリティレベルを{0}個10Lvにする": "Raise {0} character abilities to Lv10",
+    "深淵で100Fに到達する": "Reach Abyss 100F",
+    "ドMナイト先輩(無属性耐性なし)": "<size=65%>Maso-Knight Senpai (None Weakness)",
+    "トレーニング「ドMナイト先輩(光属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (Light Weakness) Training",
+    "トレーニング「ドMナイト先輩(無属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (None Weakness) Training",
+    "トレーニング「ドMナイト先輩(闇属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (Dark Weakness) Training",
+    "トレーニング「ドMナイト先輩(火属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (Fire Weakness) Training",
+    "トレーニング「ドMナイト先輩(土属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (Soil Weakness) Training",
+    "トレーニング「ドMナイト先輩(水属性耐性なし)」で100万ダメージ与える": "Reach 1M damage in Maso-Knight Senpai (Water Weakness) Training",
+    "ドMナイト先輩(土属性耐性なし)": "<size=65%>Maso-Knight Senpai (Soil Weakness)",
+    "ドMナイト先輩(火属性耐性なし)": "<size=65%>Maso-Knight Senpai (Fire Weakness)",
+    "ドMナイト先輩(闇属性耐性なし)": "<size=65%>Maso-Knight Senpai (Dark Weakness)",
+    "ドMナイト先輩(光属性耐性なし)": "<size=65%>Maso-Knight Senpai (Light Weakness)",
+    "ドMナイト先輩(水属性耐性なし)": "<size=65%>Maso-Knight Senpai (Water Weakness)"
 }
