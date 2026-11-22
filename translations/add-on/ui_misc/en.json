@@ -5642,5 +5642,7 @@
     "ドMナイト先輩(光属性耐性なし)": "<size=65%>Maso-Knight Senpai (Light Weakness)",
     "ドMナイト先輩(水属性耐性なし)": "<size=65%>Maso-Knight Senpai (Water Weakness)",
     "初出勤での御奉仕": "Service on First Day of Work",
-    "元気のない息子": "The Troublesome Little Guy"
+    "元気のない息子": "The Troublesome Little Guy",
+    "ノエミの提案": "Noemi's Proposal",
+    "ランダムな<color=#AC83FD>「エルドラーナ」</color>の\\nスタッフ最大{[n1]}体に<color=#AC83FD>「接客」</color>を付与。": "<size=90%><line-height=60%>Grants <color=#AC83FD>「Guest Service」</color> to up to {[n1]} random <color=#AC83FD>「Eldrana」</color> staff(s)."
 }
