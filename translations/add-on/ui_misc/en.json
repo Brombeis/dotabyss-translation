@@ -5644,5 +5644,11 @@
     "初出勤での御奉仕": "Service on First Day of Work",
     "元気のない息子": "The Troublesome Little Guy",
     "ノエミの提案": "Noemi's Proposal",
-    "ランダムな<color=#AC83FD>「エルドラーナ」</color>の\\nスタッフ最大{[n1]}体に<color=#AC83FD>「接客」</color>を付与。": "<size=90%><line-height=60%>Grants <color=#AC83FD>「Guest Service」</color> to up to {[n1]} random <color=#AC83FD>「Eldrana」</color> staff(s)."
+    "ランダムな<color=#AC83FD>「エルドラーナ」</color>の\\nスタッフ最大{[n1]}体に<color=#AC83FD>「接客」</color>を付与。": "<size=90%><line-height=60%>Grants <color=#AC83FD>「Guest Service」</color> to up to {[n1]} random <color=#AC83FD>「Eldrana」</color> staff(s).",
+    "熱狂的な新個体たち": "Enthusiastic New Individual",
+    "珍しい症例だな\n実に興味深い……": "A rare case,\ntruly intriguing…",
+    "極度の依存症か……\n熱狂とは恐ろしいものだな": "Extreme addiction, huh...\nFrenzy is a terrifying thing",
+    "レイヴン体験ステージ": "Raven's Experience Stage",
+    "必ず治療法を見つけ\n特効薬を開発してみせよう": "I will certainly find a cure and\ndevelop a specific remedy",
+    "特別強化トレーニング！withレイヴン": "Special Training! with Raven"
 }
